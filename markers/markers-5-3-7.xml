@@ -1,126 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="1400299520" label="Umbari Resident" category="70" did="1879474634" parentZoneId="1879470534" longitude="-103.286865" latitude="-22.91453"/>
-<marker id="1400299521" label="Umbari Resident" category="70" did="1879474634" parentZoneId="1879470534" longitude="-103.50828" latitude="-23.262411"/>
-<marker id="1400299522" label="Umbari Resident" category="70" did="1879474635" parentZoneId="1879470534" longitude="-102.95174" latitude="-22.81287"/>
-<marker id="1400299523" label="Umbari Resident" category="70" did="1879474635" parentZoneId="1879470534" longitude="-103.09613" latitude="-23.036612"/>
-<marker id="1400299524" label="Umbari Resident" category="70" did="1879474635" parentZoneId="1879470534" longitude="-103.55701" latitude="-23.391865"/>
-<marker id="1400365057" label="Sûr Birix&#10;The Citadel of Winds" category="41" did="1879478930" parentZoneId="1879470534" longitude="-102.238686" latitude="-23.534931"/>
-<marker id="1400365059" label="Umbari Resident" category="70" did="1879474634" parentZoneId="1879470534" longitude="-102.183914" latitude="-23.049355"/>
-<marker id="1400365060" label="Door" category="100" did="1879475787" parentZoneId="1879470534" longitude="-102.41518" latitude="-23.483427"/>
-<marker id="1400365061" label="Water-bearer Enât" category="70" did="1879475574" parentZoneId="1879470534" longitude="-102.72008" latitude="-23.39911"/>
-<marker id="1400430592" label="Umbari Resident" category="70" did="1879474634" parentZoneId="1879470534" longitude="-101.36918" latitude="-23.383602"/>
-<marker id="1400430593" label="Umbari Resident" category="70" did="1879474634" parentZoneId="1879470534" longitude="-101.36869" latitude="-23.352812"/>
-<marker id="1400430594" label="Umbari Resident" category="70" did="1879474634" parentZoneId="1879470534" longitude="-101.71162" latitude="-23.376102"/>
-<marker id="1400430595" label="Umbari Resident" category="70" did="1879474634" parentZoneId="1879470534" longitude="-101.79838" latitude="-23.221992"/>
-<marker id="1400430596" label="Nauriel" category="71" did="1879481679" parentZoneId="1879470534" longitude="-101.79898" latitude="-22.84374"/>
-<marker id="1400434688" label="Observant Dock-worker" category="70" did="1879481663" parentZoneId="1879470534" longitude="-101.85592" latitude="-22.657333"/>
-<marker id="1400496133" label="Water-bearer Ushu" category="70" did="1879475573" parentZoneId="1879470534" longitude="-100.85983" latitude="-23.347315"/>
-<marker id="1400496136" label="Water from the Bay" category="73" did="1879474788" parentZoneId="1879470534" longitude="-100.84668" latitude="-23.350918"/>
-<marker id="1400496137" label="Water from the Bay" category="73" did="1879474788" parentZoneId="1879470534" longitude="-100.85856" latitude="-23.354687"/>
-<marker id="1400496138" label="Water from the Bay" category="73" did="1879474788" parentZoneId="1879470534" longitude="-100.851776" latitude="-23.348808"/>
-<marker id="1400496140" label="Lords' Gate" category="43" did="1879476596" parentZoneId="1879470534" longitude="-100.49379" latitude="-23.372314"/>
-<marker id="1400557577" label="Daxamat" category="70" did="1879471296" parentZoneId="1879470534" longitude="-99.91651" latitude="-23.677284"/>
-<marker id="1400557578" label="Guard of the Gaol" category="70" did="1879471327" parentZoneId="1879470534" longitude="-99.91629" latitude="-23.923876"/>
-<marker id="1400557579" label="Guard of the Gaol" category="70" did="1879471286" parentZoneId="1879470534" longitude="-99.91306" latitude="-23.92919"/>
-<marker id="1400557580" label="Daxamat" category="70" did="1879471289" parentZoneId="1879470534" longitude="-99.89635" latitude="-23.89622"/>
-<marker id="1400557581" label="Barracks" category="43" did="1879476603" parentZoneId="1879470534" longitude="-100.23926" latitude="-23.733574"/>
-<marker id="1400557582" label="Gaol" category="43" did="1879476604" parentZoneId="1879470534" longitude="-99.886505" latitude="-23.906641"/>
-<marker id="1400561665" label="Warden Trainer" category="42" did="1879405366" parentZoneId="1879470534" longitude="-100.38255" latitude="-23.405722"/>
-<marker id="1400561667" label="Champion Trainer" category="42" did="1879405380" parentZoneId="1879470534" longitude="-100.17234" latitude="-23.243368"/>
-<marker id="1400561672" label="Entrance to Dil-irmíz" category="21" did="1879485656" parentZoneId="1879470534" longitude="-99.614624" latitude="-23.562187"/>
-<marker id="1400561673" label="Door" category="100" did="1879475786" parentZoneId="1879470534" longitude="-99.61" latitude="-23.556992"/>
-<marker id="1400561675" label="Guardian Trainer" category="42" did="1879313208" parentZoneId="1879470534" longitude="-100.19659" latitude="-23.219765"/>
-<marker id="1400561676" label="Captain Trainer" category="42" did="1879313211" parentZoneId="1879470534" longitude="-100.19701" latitude="-23.240604"/>
-<marker id="1400561677" label="Corudan" category="70" did="1879487622" parentZoneId="1879470534" longitude="-100.27265" latitude="-23.306776"/>
-<marker id="1400561679" label="Sigileth" category="70" did="1879487706" parentZoneId="1879470534" longitude="-100.27117" latitude="-23.287178"/>
-<marker id="1400561680" label="Kenza" category="70" did="1879477050" parentZoneId="1879470534" longitude="-99.69256" latitude="-23.293476"/>
-<marker id="1400561688" label="Fleet-fast Surplus" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.655136" latitude="-23.08662"/>
-<marker id="1400561689" label="Fleet-fast Surplus" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.66434" latitude="-23.232714"/>
-<marker id="1400561690" label="Fleet-fast Surplus" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.693375" latitude="-23.244267"/>
-<marker id="1400561691" label="Fleet-fast Surplus" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.65451" latitude="-23.16744"/>
-<marker id="1400561695" label="Baths of Ishkun" category="43" did="1879476605" parentZoneId="1879470534" longitude="-100.231094" latitude="-23.034765"/>
-<marker id="1400561696" label="Sirgon" category="70" did="1879487654" parentZoneId="1879470534" longitude="-100.272194" latitude="-23.297451"/>
-<marker id="1400623106" label="Fleet-fast Surplus" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.58699" latitude="-23.616005"/>
-<marker id="1400627202" label="Fleet-fast Ruffian" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.55891" latitude="-23.004189"/>
-<marker id="1400627203" label="Fleet-fast Ruffian" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.40894" latitude="-23.526436"/>
-<marker id="1400627204" label="Fleet-fast Ruffian" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.296616" latitude="-23.571493"/>
-<marker id="1400627205" label="Fleet-fast Ruffian" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.238045" latitude="-23.579237"/>
-<marker id="1400627206" label="Fleet-fast Ruffian" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.470985" latitude="-23.484823"/>
-<marker id="1400627207" label="Fleet-fast Ruffian" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.56128" latitude="-23.484482"/>
-<marker id="1400627208" label="Fleet-fast Ruffian" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.56859" latitude="-23.16286"/>
-<marker id="1400627209" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.51434" latitude="-23.004833"/>
-<marker id="1400627210" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.39338" latitude="-22.96787"/>
-<marker id="1400627211" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.33519" latitude="-23.166035"/>
-<marker id="1400627212" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.20628" latitude="-23.356104"/>
-<marker id="1400627213" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.177345" latitude="-23.35375"/>
-<marker id="1400627214" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.19301" latitude="-23.273485"/>
-<marker id="1400627215" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.34016" latitude="-23.422821"/>
-<marker id="1400627216" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.30041" latitude="-23.51622"/>
-<marker id="1400627217" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.23372" latitude="-23.530312"/>
-<marker id="1400627218" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.403145" latitude="-23.477665"/>
-<marker id="1400627219" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.55381" latitude="-23.368036"/>
-<marker id="1400627220" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.45401" latitude="-23.092167"/>
-<marker id="1400627221" label="Fleet-fast Ruffian" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.53721" latitude="-22.922354"/>
-<marker id="1400627233" label="Shipboard Treasure" category="73" did="1879477089" parentZoneId="1879470534" longitude="-99.20582" latitude="-23.24832"/>
-<marker id="1400627234" label="Shipboard Treasure" category="73" did="1879477089" parentZoneId="1879470534" longitude="-99.225426" latitude="-23.195185"/>
-<marker id="1400627235" label="Shipboard Treasure" category="73" did="1879477089" parentZoneId="1879470534" longitude="-99.14153" latitude="-23.446014"/>
-<marker id="1400627238" label="Fleet-fast Bruiser" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.335236" latitude="-23.527607"/>
-<marker id="1400627239" label="Fleet-fast Bruiser" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.27986" latitude="-23.338886"/>
-<marker id="1400627240" label="Fleet-fast Bruiser" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.374214" latitude="-23.03711"/>
-<marker id="1400627241" label="Fleet-fast Bruiser" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.57033" latitude="-22.835312"/>
-<marker id="1400627242" label="Fleet-fast Bruiser" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.16239" latitude="-23.439365"/>
-<marker id="1400627243" label="Fleet-fast Bruiser" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.22695" latitude="-23.208008"/>
-<marker id="1400627245" label="Fleet-fast Surplus" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.55187" latitude="-23.552616"/>
-<marker id="1400627246" label="Soldiers' Mess-hall" category="43" did="1879476597" parentZoneId="1879470534" longitude="-99.47701" latitude="-23.588223"/>
-<marker id="1400631299" label="Guard of the Fleet-fast" category="70" did="1879471319" parentZoneId="1879470534" longitude="-98.922226" latitude="-22.045927"/>
-<marker id="1400631300" label="Water-carrier" category="70" did="1879471320" parentZoneId="1879470534" longitude="-98.86282" latitude="-22.044453"/>
-<marker id="1400631304" label="Fruit Crate" category="73" did="1879484695" parentZoneId="1879470534" longitude="-99.25443" latitude="-22.606377"/>
-<marker id="1400631306" label="Deck-steward" category="70" did="1879485158" parentZoneId="1879470534" longitude="-99.25724" latitude="-22.590145"/>
-<marker id="1400631307" label="Fleet-fast Clay Jar" category="73" did="1879471362" parentZoneId="1879470534" longitude="-98.88738" latitude="-22.0258"/>
-<marker id="1400631308" label="Fleet-fast Clay Jar" category="73" did="1879471358" parentZoneId="1879470534" longitude="-99.09828" latitude="-22.072012"/>
-<marker id="1400631309" label="Guard of the Fleet-fast" category="70" did="1879471308" parentZoneId="1879470534" longitude="-99.07285" latitude="-22.131016"/>
-<marker id="1400631310" label="Parade Ground" category="43" did="1879476602" parentZoneId="1879470534" longitude="-99.18624" latitude="-22.303213"/>
-<marker id="1400631312" label="Râkariz" category="70" did="1879484583" parentZoneId="1879470534" longitude="-99.25353" latitude="-22.593622"/>
-<marker id="1400631313" label="Ansham" category="70" did="1879484743" parentZoneId="1879470534" longitude="-99.22336" latitude="-22.704424"/>
-<marker id="1400684549" label="Old Bastion Innkeeper" category="71" did="1879484704" parentZoneId="1879470534" longitude="-98.27871" latitude="-24.74755"/>
-<marker id="1400684551" label="Carver Gírma" category="70" did="1879471303" parentZoneId="1879470534" longitude="-98.31759" latitude="-24.727324"/>
-<marker id="1400684552" label="Gangur Farwend" category="70" did="1879471321" parentZoneId="1879470534" longitude="-98.30462" latitude="-24.716475"/>
-<marker id="1400684553" label="The Old Bastion Inn" category="43" did="1879476595" parentZoneId="1879470534" longitude="-98.27529" latitude="-24.745752"/>
-<marker id="1400684554" label="Tabrím" category="70" did="1879484578" parentZoneId="1879470534" longitude="-98.1815" latitude="-24.400497"/>
-<marker id="1400688643" label="Fleet-watch Tavernkeeper" category="71" did="1879484703" parentZoneId="1879470534" longitude="-98.28524" latitude="-24.32248"/>
-<marker id="1400688644" label="Cloth Dealer" category="71" did="1879484706" parentZoneId="1879470534" longitude="-98.02298" latitude="-24.040966"/>
-<marker id="1400688645" label="Fishmonger" category="71" did="1879484705" parentZoneId="1879470534" longitude="-98.143555" latitude="-24.072206"/>
-<marker id="1400688646" label="The Fleet-watch Tavern" category="43" did="1879476598" parentZoneId="1879470534" longitude="-98.24236" latitude="-24.384678"/>
-<marker id="1400688648" label="Mêshka" category="70" did="1879484591" parentZoneId="1879470534" longitude="-98.24795" latitude="-24.352743"/>
-<marker id="1400692736" label="Jâshadar&#10;The Fleet-fast" category="41" did="1879478936" parentZoneId="1879470534" longitude="-98.34941" latitude="-23.021698"/>
-<marker id="1400696832" label="Stûna" category="43" did="1879477101" parentZoneId="1879470534" longitude="-98.12882" latitude="-22.635576"/>
-<marker id="1400750081" label="Entrance to Dil-irmíz" category="21" did="1879485656" parentZoneId="1879470534" longitude="-97.68094" latitude="-24.48039"/>
-<marker id="1400750082" label="Door" category="100" did="1879475786" parentZoneId="1879470534" longitude="-97.67954" latitude="-24.482422"/>
-<marker id="1400750091" label="Fleet-fast Surplus" category="73" did="1879477075" parentZoneId="1879470534" longitude="-97.7083" latitude="-24.477499"/>
-<marker id="1400750092" label="Fleet-fast Surplus" category="73" did="1879477075" parentZoneId="1879470534" longitude="-97.722206" latitude="-24.47248"/>
-<marker id="1400750093" label="Fleet-fast Surplus" category="73" did="1879477075" parentZoneId="1879470534" longitude="-97.71544" latitude="-24.423496"/>
-<marker id="1400750094" label="Fleet-fast Surplus" category="73" did="1879477075" parentZoneId="1879470534" longitude="-97.63766" latitude="-24.417725"/>
-<marker id="1400754177" label="Fruit Peddler" category="71" did="1879484702" parentZoneId="1879470534" longitude="-97.89598" latitude="-24.005585"/>
-<marker id="1400754180" label="Pârnakh" category="70" did="1879484580" parentZoneId="1879470534" longitude="-97.46941" latitude="-23.929256"/>
-<marker id="1400754181" label="Bekhír" category="70" did="1879484579" parentZoneId="1879470534" longitude="-97.46739" latitude="-23.912529"/>
-<marker id="1400754182" label="Imâra" category="70" did="1879484577" parentZoneId="1879470534" longitude="-97.47332" latitude="-23.925303"/>
-<marker id="1400754183" label="Ansham" category="70" did="1879484574" parentZoneId="1879470534" longitude="-97.466934" latitude="-23.917969"/>
-<marker id="1400754185" label="Iskánta Memorial" category="73" did="1879485356" parentZoneId="1879470534" longitude="-97.42861" latitude="-23.94079"/>
-<marker id="1400754186" label="Okhâb" category="70" did="1879484587" parentZoneId="1879470534" longitude="-97.4741" latitude="-23.928144"/>
-<marker id="1400754187" label="Bruidis" category="70" did="1879471304" parentZoneId="1879470534" longitude="-97.26982" latitude="-23.765215"/>
-<marker id="1400754188" label="Mêshka" category="70" did="1879484582" parentZoneId="1879470534" longitude="-97.312256" latitude="-23.813076"/>
-<marker id="1400754189" label="Belondor" category="70" did="1879484588" parentZoneId="1879470534" longitude="-97.4615" latitude="-23.903427"/>
-<marker id="1400819714" label="Stable-master" category="51" did="1879485471" parentZoneId="1879470534" longitude="-97.107544" latitude="-23.93165"/>
-<marker id="1400819717" label="Fleet-gate" category="43" did="1879476599" parentZoneId="1879470534" longitude="-96.84305" latitude="-23.831406"/>
-<marker id="1400819718" label="Inkanûsh" category="70" did="1879499840" parentZoneId="1879470534" longitude="-97.1088" latitude="-23.827362"/>
-<marker id="1400827905" label="Door" category="100" did="1879328991" parentZoneId="1879470534" longitude="-97.11064" latitude="-22.13792"/>
-<marker id="1400827906" label="Entrance to Khabârkhad" category="21" did="1879485658" parentZoneId="1879470534" longitude="-97.111115" latitude="-22.139277"/>
-<marker id="1400827910" label="Carver Gírma" category="70" did="1879471294" parentZoneId="1879470534" longitude="-96.42184" latitude="-22.647264"/>
-<marker id="1400827911" label="Kîflu" category="70" did="1879480459" parentZoneId="1879470534" longitude="-97.024704" latitude="-22.679052"/>
-<marker id="1400827912" label="Khôltekh" category="70" did="1879480457" parentZoneId="1879470534" longitude="-96.99825" latitude="-22.644726"/>
-<marker id="1400885249" label="Coiled Rope" category="70" did="1879471325" parentZoneId="1879470532" longitude="-95.92416" latitude="-24.143583"/>
-<marker id="1400885251" label="Toppled Lamp" category="73" did="1879471355" parentZoneId="1879470532" longitude="-95.69441" latitude="-24.1342"/>
-<marker id="1400885252" label="Cruel Dancer" category="70" did="1879471285" parentZoneId="1879470532" longitude="-95.9247" latitude="-24.134756"/>
-<marker id="1400893441" label="Thargushakâl&#10;The Shoreward Stone" category="41" did="1879478934" parentZoneId="1879470534" longitude="-96.35528" latitude="-22.616865"/>
-<marker id="1400893442" label="Gangur Farwend" category="70" did="1879471287" parentZoneId="1879470534" longitude="-96.391235" latitude="-22.585096"/>
+<marker id="1400299520" label="乌姆巴尔居民" category="70" did="1879474634" parentZoneId="1879470534" longitude="-103.286865" latitude="-22.91453"/>
+<marker id="1400299521" label="乌姆巴尔居民" category="70" did="1879474634" parentZoneId="1879470534" longitude="-103.50828" latitude="-23.262411"/>
+<marker id="1400299522" label="乌姆巴尔居民" category="70" did="1879474635" parentZoneId="1879470534" longitude="-102.95174" latitude="-22.81287"/>
+<marker id="1400299523" label="乌姆巴尔居民" category="70" did="1879474635" parentZoneId="1879470534" longitude="-103.09613" latitude="-23.036612"/>
+<marker id="1400299524" label="乌姆巴尔居民" category="70" did="1879474635" parentZoneId="1879470534" longitude="-103.55701" latitude="-23.391865"/>
+<marker id="1400365057" label="Sûr Birix&#10;风之堡垒" category="41" did="1879478930" parentZoneId="1879470534" longitude="-102.238686" latitude="-23.534931"/>
+<marker id="1400365059" label="乌姆巴尔居民" category="70" did="1879474634" parentZoneId="1879470534" longitude="-102.183914" latitude="-23.049355"/>
+<marker id="1400365060" label="门" category="100" did="1879475787" parentZoneId="1879470534" longitude="-102.41518" latitude="-23.483427"/>
+<marker id="1400365061" label="持水者埃纳特" category="70" did="1879475574" parentZoneId="1879470534" longitude="-102.72008" latitude="-23.39911"/>
+<marker id="1400430592" label="乌姆巴尔居民" category="70" did="1879474634" parentZoneId="1879470534" longitude="-101.36918" latitude="-23.383602"/>
+<marker id="1400430593" label="乌姆巴尔居民" category="70" did="1879474634" parentZoneId="1879470534" longitude="-101.36869" latitude="-23.352812"/>
+<marker id="1400430594" label="乌姆巴尔居民" category="70" did="1879474634" parentZoneId="1879470534" longitude="-101.71162" latitude="-23.376102"/>
+<marker id="1400430595" label="乌姆巴尔居民" category="70" did="1879474634" parentZoneId="1879470534" longitude="-101.79838" latitude="-23.221992"/>
+<marker id="1400430596" label="诺瑞尔（Nauriel）" category="71" did="1879481679" parentZoneId="1879470534" longitude="-101.79898" latitude="-22.84374"/>
+<marker id="1400434688" label="细心的码头工人" category="70" did="1879481663" parentZoneId="1879470534" longitude="-101.85592" latitude="-22.657333"/>
+<marker id="1400496133" label="持水者乌舒" category="70" did="1879475573" parentZoneId="1879470534" longitude="-100.85983" latitude="-23.347315"/>
+<marker id="1400496136" label="海湾之水" category="73" did="1879474788" parentZoneId="1879470534" longitude="-100.84668" latitude="-23.350918"/>
+<marker id="1400496137" label="海湾之水" category="73" did="1879474788" parentZoneId="1879470534" longitude="-100.85856" latitude="-23.354687"/>
+<marker id="1400496138" label="海湾之水" category="73" did="1879474788" parentZoneId="1879470534" longitude="-100.851776" latitude="-23.348808"/>
+<marker id="1400496140" label="领主之门" category="43" did="1879476596" parentZoneId="1879470534" longitude="-100.49379" latitude="-23.372314"/>
+<marker id="1400557577" label="达沙马特" category="70" did="1879471296" parentZoneId="1879470534" longitude="-99.91651" latitude="-23.677284"/>
+<marker id="1400557578" label="监狱卫兵" category="70" did="1879471327" parentZoneId="1879470534" longitude="-99.91629" latitude="-23.923876"/>
+<marker id="1400557579" label="监狱卫兵" category="70" did="1879471286" parentZoneId="1879470534" longitude="-99.91306" latitude="-23.92919"/>
+<marker id="1400557580" label="达沙马特" category="70" did="1879471289" parentZoneId="1879470534" longitude="-99.89635" latitude="-23.89622"/>
+<marker id="1400557581" label="兵营" category="43" did="1879476603" parentZoneId="1879470534" longitude="-100.23926" latitude="-23.733574"/>
+<marker id="1400557582" label="监狱（Gaol）" category="43" did="1879476604" parentZoneId="1879470534" longitude="-99.886505" latitude="-23.906641"/>
+<marker id="1400561665" label="典狱官训练师&#10;守卫训练师" category="42" did="1879405366" parentZoneId="1879470534" longitude="-100.38255" latitude="-23.405722"/>
+<marker id="1400561667" label="斗士训练师" category="42" did="1879405380" parentZoneId="1879470534" longitude="-100.17234" latitude="-23.243368"/>
+<marker id="1400561672" label="迪尔-伊尔米兹入口" category="21" did="1879485656" parentZoneId="1879470534" longitude="-99.614624" latitude="-23.562187"/>
+<marker id="1400561673" label="门" category="100" did="1879475786" parentZoneId="1879470534" longitude="-99.61" latitude="-23.556992"/>
+<marker id="1400561675" label="盾卫者训练师" category="42" did="1879313208" parentZoneId="1879470534" longitude="-100.19659" latitude="-23.219765"/>
+<marker id="1400561676" label="旗手训练师" category="42" did="1879313211" parentZoneId="1879470534" longitude="-100.19701" latitude="-23.240604"/>
+<marker id="1400561677" label="科鲁丹" category="70" did="1879487622" parentZoneId="1879470534" longitude="-100.27265" latitude="-23.306776"/>
+<marker id="1400561679" label="西吉莉斯" category="70" did="1879487706" parentZoneId="1879470534" longitude="-100.27117" latitude="-23.287178"/>
+<marker id="1400561680" label="肯扎（Kenza）" category="70" did="1879477050" parentZoneId="1879470534" longitude="-99.69256" latitude="-23.293476"/>
+<marker id="1400561688" label="迅捷盈余" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.655136" latitude="-23.08662"/>
+<marker id="1400561689" label="迅捷盈余" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.66434" latitude="-23.232714"/>
+<marker id="1400561690" label="迅捷盈余" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.693375" latitude="-23.244267"/>
+<marker id="1400561691" label="迅捷盈余" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.65451" latitude="-23.16744"/>
+<marker id="1400561695" label="伊什昆浴池（Baths of Ishkun）" category="43" did="1879476605" parentZoneId="1879470534" longitude="-100.231094" latitude="-23.034765"/>
+<marker id="1400561696" label="西刚（Sirgon）" category="70" did="1879487654" parentZoneId="1879470534" longitude="-100.272194" latitude="-23.297451"/>
+<marker id="1400623106" label="迅捷盈余" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.58699" latitude="-23.616005"/>
+<marker id="1400627202" label="迅捷流氓" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.55891" latitude="-23.004189"/>
+<marker id="1400627203" label="迅捷流氓" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.40894" latitude="-23.526436"/>
+<marker id="1400627204" label="迅捷流氓" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.296616" latitude="-23.571493"/>
+<marker id="1400627205" label="迅捷流氓" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.238045" latitude="-23.579237"/>
+<marker id="1400627206" label="迅捷流氓" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.470985" latitude="-23.484823"/>
+<marker id="1400627207" label="迅捷流氓" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.56128" latitude="-23.484482"/>
+<marker id="1400627208" label="迅捷流氓" category="71" did="1879476614" parentZoneId="1879470534" longitude="-99.56859" latitude="-23.16286"/>
+<marker id="1400627209" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.51434" latitude="-23.004833"/>
+<marker id="1400627210" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.39338" latitude="-22.96787"/>
+<marker id="1400627211" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.33519" latitude="-23.166035"/>
+<marker id="1400627212" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.20628" latitude="-23.356104"/>
+<marker id="1400627213" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.177345" latitude="-23.35375"/>
+<marker id="1400627214" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.19301" latitude="-23.273485"/>
+<marker id="1400627215" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.34016" latitude="-23.422821"/>
+<marker id="1400627216" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.30041" latitude="-23.51622"/>
+<marker id="1400627217" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.23372" latitude="-23.530312"/>
+<marker id="1400627218" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.403145" latitude="-23.477665"/>
+<marker id="1400627219" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.55381" latitude="-23.368036"/>
+<marker id="1400627220" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.45401" latitude="-23.092167"/>
+<marker id="1400627221" label="迅捷流氓" category="71" did="1879476615" parentZoneId="1879470534" longitude="-99.53721" latitude="-22.922354"/>
+<marker id="1400627233" label="舰载宝藏" category="73" did="1879477089" parentZoneId="1879470534" longitude="-99.20582" latitude="-23.24832"/>
+<marker id="1400627234" label="舰载宝藏" category="73" did="1879477089" parentZoneId="1879470534" longitude="-99.225426" latitude="-23.195185"/>
+<marker id="1400627235" label="舰载宝藏" category="73" did="1879477089" parentZoneId="1879470534" longitude="-99.14153" latitude="-23.446014"/>
+<marker id="1400627238" label="迅捷暴徒" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.335236" latitude="-23.527607"/>
+<marker id="1400627239" label="迅捷暴徒" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.27986" latitude="-23.338886"/>
+<marker id="1400627240" label="迅捷暴徒" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.374214" latitude="-23.03711"/>
+<marker id="1400627241" label="迅捷暴徒" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.57033" latitude="-22.835312"/>
+<marker id="1400627242" label="迅捷暴徒" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.16239" latitude="-23.439365"/>
+<marker id="1400627243" label="迅捷暴徒" category="71" did="1879476613" parentZoneId="1879470534" longitude="-99.22695" latitude="-23.208008"/>
+<marker id="1400627245" label="迅捷盈余" category="73" did="1879477073" parentZoneId="1879470534" longitude="-99.55187" latitude="-23.552616"/>
+<marker id="1400627246" label="士兵食堂" category="43" did="1879476597" parentZoneId="1879470534" longitude="-99.47701" latitude="-23.588223"/>
+<marker id="1400631299" label="快船卫兵" category="70" did="1879471319" parentZoneId="1879470534" longitude="-98.922226" latitude="-22.045927"/>
+<marker id="1400631300" label="运水人" category="70" did="1879471320" parentZoneId="1879470534" longitude="-98.86282" latitude="-22.044453"/>
+<marker id="1400631304" label="水果箱" category="73" did="1879484695" parentZoneId="1879470534" longitude="-99.25443" latitude="-22.606377"/>
+<marker id="1400631306" label="甲板管家" category="70" did="1879485158" parentZoneId="1879470534" longitude="-99.25724" latitude="-22.590145"/>
+<marker id="1400631307" label="迅捷陶罐" category="73" did="1879471362" parentZoneId="1879470534" longitude="-98.88738" latitude="-22.0258"/>
+<marker id="1400631308" label="迅捷陶罐" category="73" did="1879471358" parentZoneId="1879470534" longitude="-99.09828" latitude="-22.072012"/>
+<marker id="1400631309" label="快船卫兵" category="70" did="1879471308" parentZoneId="1879470534" longitude="-99.07285" latitude="-22.131016"/>
+<marker id="1400631310" label="阅兵场" category="43" did="1879476602" parentZoneId="1879470534" longitude="-99.18624" latitude="-22.303213"/>
+<marker id="1400631312" label="拉卡利兹（Râkariz）" category="70" did="1879484583" parentZoneId="1879470534" longitude="-99.25353" latitude="-22.593622"/>
+<marker id="1400631313" label="安沙姆" category="70" did="1879484743" parentZoneId="1879470534" longitude="-99.22336" latitude="-22.704424"/>
+<marker id="1400684549" label="旧堡垒旅店老板" category="71" did="1879484704" parentZoneId="1879470534" longitude="-98.27871" latitude="-24.74755"/>
+<marker id="1400684551" label="卡弗·吉尔马（Carver Gírma）" category="70" did="1879471303" parentZoneId="1879470534" longitude="-98.31759" latitude="-24.727324"/>
+<marker id="1400684552" label="甘古尔·法温德" category="70" did="1879471321" parentZoneId="1879470534" longitude="-98.30462" latitude="-24.716475"/>
+<marker id="1400684553" label="旧堡垒客栈" category="43" did="1879476595" parentZoneId="1879470534" longitude="-98.27529" latitude="-24.745752"/>
+<marker id="1400684554" label="塔布林" category="70" did="1879484578" parentZoneId="1879470534" longitude="-98.1815" latitude="-24.400497"/>
+<marker id="1400688643" label="舰队守望酒馆老板" category="71" did="1879484703" parentZoneId="1879470534" longitude="-98.28524" latitude="-24.32248"/>
+<marker id="1400688644" label="布料商人" category="71" did="1879484706" parentZoneId="1879470534" longitude="-98.02298" latitude="-24.040966"/>
+<marker id="1400688645" label="鱼贩" category="71" did="1879484705" parentZoneId="1879470534" longitude="-98.143555" latitude="-24.072206"/>
+<marker id="1400688646" label="舰队守望酒馆" category="43" did="1879476598" parentZoneId="1879470534" longitude="-98.24236" latitude="-24.384678"/>
+<marker id="1400688648" label="梅什卡" category="70" did="1879484591" parentZoneId="1879470534" longitude="-98.24795" latitude="-24.352743"/>
+<marker id="1400692736" label="贾沙达尔（Jâshadar）&#10;迅捷者" category="41" did="1879478936" parentZoneId="1879470534" longitude="-98.34941" latitude="-23.021698"/>
+<marker id="1400696832" label="斯图纳" category="43" did="1879477101" parentZoneId="1879470534" longitude="-98.12882" latitude="-22.635576"/>
+<marker id="1400750081" label="迪尔-伊尔米兹入口" category="21" did="1879485656" parentZoneId="1879470534" longitude="-97.68094" latitude="-24.48039"/>
+<marker id="1400750082" label="门" category="100" did="1879475786" parentZoneId="1879470534" longitude="-97.67954" latitude="-24.482422"/>
+<marker id="1400750091" label="迅捷盈余" category="73" did="1879477075" parentZoneId="1879470534" longitude="-97.7083" latitude="-24.477499"/>
+<marker id="1400750092" label="迅捷盈余" category="73" did="1879477075" parentZoneId="1879470534" longitude="-97.722206" latitude="-24.47248"/>
+<marker id="1400750093" label="迅捷盈余" category="73" did="1879477075" parentZoneId="1879470534" longitude="-97.71544" latitude="-24.423496"/>
+<marker id="1400750094" label="迅捷盈余" category="73" did="1879477075" parentZoneId="1879470534" longitude="-97.63766" latitude="-24.417725"/>
+<marker id="1400754177" label="水果小贩" category="71" did="1879484702" parentZoneId="1879470534" longitude="-97.89598" latitude="-24.005585"/>
+<marker id="1400754180" label="帕尔纳克" category="70" did="1879484580" parentZoneId="1879470534" longitude="-97.46941" latitude="-23.929256"/>
+<marker id="1400754181" label="贝希尔（Bekhír）" category="70" did="1879484579" parentZoneId="1879470534" longitude="-97.46739" latitude="-23.912529"/>
+<marker id="1400754182" label="伊玛拉（Imâra）" category="70" did="1879484577" parentZoneId="1879470534" longitude="-97.47332" latitude="-23.925303"/>
+<marker id="1400754183" label="安沙姆" category="70" did="1879484574" parentZoneId="1879470534" longitude="-97.466934" latitude="-23.917969"/>
+<marker id="1400754185" label="伊斯坎塔纪念碑" category="73" did="1879485356" parentZoneId="1879470534" longitude="-97.42861" latitude="-23.94079"/>
+<marker id="1400754186" label="奥哈布" category="70" did="1879484587" parentZoneId="1879470534" longitude="-97.4741" latitude="-23.928144"/>
+<marker id="1400754187" label="布鲁伊迪斯" category="70" did="1879471304" parentZoneId="1879470534" longitude="-97.26982" latitude="-23.765215"/>
+<marker id="1400754188" label="梅什卡" category="70" did="1879484582" parentZoneId="1879470534" longitude="-97.312256" latitude="-23.813076"/>
+<marker id="1400754189" label="贝隆多（Belondor）" category="70" did="1879484588" parentZoneId="1879470534" longitude="-97.4615" latitude="-23.903427"/>
+<marker id="1400819714" label="马厩管理员" category="51" did="1879485471" parentZoneId="1879470534" longitude="-97.107544" latitude="-23.93165"/>
+<marker id="1400819717" label="舰队之门" category="43" did="1879476599" parentZoneId="1879470534" longitude="-96.84305" latitude="-23.831406"/>
+<marker id="1400819718" label="因卡努什（Inkanûsh）" category="70" did="1879499840" parentZoneId="1879470534" longitude="-97.1088" latitude="-23.827362"/>
+<marker id="1400827905" label="门" category="100" did="1879328991" parentZoneId="1879470534" longitude="-97.11064" latitude="-22.13792"/>
+<marker id="1400827906" label="哈巴克哈德入口" category="21" did="1879485658" parentZoneId="1879470534" longitude="-97.111115" latitude="-22.139277"/>
+<marker id="1400827910" label="卡弗·吉尔马（Carver Gírma）" category="70" did="1879471294" parentZoneId="1879470534" longitude="-96.42184" latitude="-22.647264"/>
+<marker id="1400827911" label="基弗卢" category="70" did="1879480459" parentZoneId="1879470534" longitude="-97.024704" latitude="-22.679052"/>
+<marker id="1400827912" label="霍尔泰克" category="70" did="1879480457" parentZoneId="1879470534" longitude="-96.99825" latitude="-22.644726"/>
+<marker id="1400885249" label="盘绕绳索" category="70" did="1879471325" parentZoneId="1879470532" longitude="-95.92416" latitude="-24.143583"/>
+<marker id="1400885251" label="倾倒的灯" category="73" did="1879471355" parentZoneId="1879470532" longitude="-95.69441" latitude="-24.1342"/>
+<marker id="1400885252" label="残酷舞者" category="70" did="1879471285" parentZoneId="1879470532" longitude="-95.9247" latitude="-24.134756"/>
+<marker id="1400893441" label="萨古沙卡尔（Thargushakâl）&#10;岸石（The Shoreward Stone）" category="41" did="1879478934" parentZoneId="1879470534" longitude="-96.35528" latitude="-22.616865"/>
+<marker id="1400893442" label="甘古尔·法温德" category="70" did="1879471287" parentZoneId="1879470534" longitude="-96.391235" latitude="-22.585096"/>
 </markers>

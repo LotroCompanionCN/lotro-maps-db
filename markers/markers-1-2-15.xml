@@ -1,284 +1,284 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="318193665" label="Dauntwood" category="43" did="1879360091" parentZoneId="1879360095" longitude="-115.07598" latitude="70.979706"/>
-<marker id="318193666" label="Dinodas Boffin" category="70" did="1879369656" parentZoneId="1879360095" longitude="-115.02309" latitude="70.84344"/>
-<marker id="318197761" label="Eerie Acres" category="43" did="1879360090" parentZoneId="1879360095" longitude="-115.12113" latitude="71.6873"/>
-<marker id="318197762" label="Door to the Cellar" category="48" did="1879369714" parentZoneId="1879360095" longitude="-115.18031" latitude="71.68139"/>
-<marker id="318255104" label="Marigold Boffin" category="70" did="1879360215" parentZoneId="1879360095" longitude="-114.090195" latitude="70.6467"/>
-<marker id="318259204" label="Spiritless Hobbit" category="70" did="1879381439" parentZoneId="1879360095" longitude="-114.01676" latitude="71.04014"/>
-<marker id="318259210" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.048035" latitude="71.49291"/>
-<marker id="318259211" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.0477" latitude="71.496445"/>
-<marker id="318259212" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.045135" latitude="71.49373"/>
-<marker id="318259213" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.04754" latitude="70.80543"/>
-<marker id="318259214" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.0472" latitude="70.80898"/>
-<marker id="318259215" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.04465" latitude="70.80625"/>
-<marker id="318259216" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.05773" latitude="71.40486"/>
-<marker id="318259217" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.0574" latitude="71.408394"/>
-<marker id="318259218" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.05483" latitude="71.405685"/>
-<marker id="318259219" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.013054" latitude="71.08236"/>
-<marker id="318259220" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.012726" latitude="71.085915"/>
-<marker id="318259221" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.010155" latitude="71.08318"/>
-<marker id="318259222" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-114.04744" latitude="71.49473"/>
-<marker id="318259223" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-114.05701" latitude="71.40527"/>
-<marker id="318259224" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-114.01355" latitude="71.08266"/>
-<marker id="318259225" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-114.04625" latitude="70.8059"/>
-<marker id="318259226" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.05142" latitude="71.18074"/>
-<marker id="318259227" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.05253" latitude="71.47649"/>
-<marker id="318259228" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.011856" latitude="71.04584"/>
-<marker id="318259229" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.01287" latitude="71.29412"/>
-<marker id="318259230" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.05784" latitude="70.96074"/>
-<marker id="318320640" label="Mogo Bracegirdle&#10;Costumer" category="58" did="1879381309" parentZoneId="1879360095" longitude="-113.82838" latitude="70.66988"/>
-<marker id="318320642" label="Milestone" category="55" did="1879063534" parentZoneId="1879360095" longitude="-113.46094" latitude="70.21011"/>
-<marker id="318320643" label="Opal Goodbody" category="70" did="1879359740" parentZoneId="1879360095" longitude="-113.87839" latitude="70.60725"/>
-<marker id="318320644" label="Pony to the Party Tree[" category="48" did="1879359741" parentZoneId="1879360095" longitude="-113.80945" latitude="70.60131"/>
-<marker id="318320657" label="Esmeralda Boffin" category="70" did="1879368044" parentZoneId="1879360095" longitude="-113.83724" latitude="70.04898"/>
-<marker id="318320660" label="Hungry Hobbit" category="70" did="1879368047" parentZoneId="1879360095" longitude="-113.43416" latitude="70.58144"/>
-<marker id="318320661" label="Hungry Hobbit" category="70" did="1879368047" parentZoneId="1879360095" longitude="-113.532555" latitude="70.5758"/>
-<marker id="318320662" label="Hungry Hobbit" category="70" did="1879368047" parentZoneId="1879360095" longitude="-113.57901" latitude="70.653885"/>
-<marker id="318320664" label="Hungry Hobbit" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.78704" latitude="70.72951"/>
-<marker id="318320665" label="Hungry Hobbit" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.7623" latitude="70.62936"/>
-<marker id="318320666" label="Hungry Hobbit" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.69549" latitude="70.687065"/>
-<marker id="318320667" label="Hungry Hobbit" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.48154" latitude="70.72832"/>
-<marker id="318320668" label="Hungry Hobbit" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.82076" latitude="70.59142"/>
-<marker id="318320681" label="Spiritless Hobbit" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.25071" latitude="70.754585"/>
-<marker id="318320682" label="Spiritless Hobbit" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.6701" latitude="70.30599"/>
-<marker id="318320683" label="Spiritless Hobbit" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.98194" latitude="70.767654"/>
-<marker id="318320684" label="Spiritless Hobbit" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.293015" latitude="70.48887"/>
-<marker id="318320685" label="Spiritless Hobbit" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.37931" latitude="70.26724"/>
-<marker id="318320686" label="Spiritless Hobbit" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.5978" latitude="70.41891"/>
-<marker id="318320688" label="Spiritless Hobbit" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.65243" latitude="70.448166"/>
-<marker id="318320689" label="Spiritless Hobbit" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.888725" latitude="70.333046"/>
-<marker id="318320690" label="Spiritless Hobbit" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.518486" latitude="70.49086"/>
-<marker id="318320691" label="Spiritless Hobbit" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.92146" latitude="70.038376"/>
-<marker id="318320692" label="Spiritless Hobbit" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.91121" latitude="70.67006"/>
-<marker id="318320693" label="Spiritless Hobbit" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.965546" latitude="70.37439"/>
-<marker id="318320694" label="Spiritless Hobbit" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.2987" latitude="70.63762"/>
-<marker id="318320709" label="Wistmead Helper" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.34003" latitude="70.70205"/>
-<marker id="318320710" label="Wistmead Helper" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.85353" latitude="70.63863"/>
-<marker id="318320711" label="Wistmead Helper" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.92952" latitude="70.50203"/>
-<marker id="318320712" label="Wistmead Helper" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.343666" latitude="70.13959"/>
-<marker id="318320713" label="Wistmead Helper" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.84593" latitude="70.58191"/>
-<marker id="318320714" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.3418" latitude="70.1468"/>
-<marker id="318320715" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.58954" latitude="70.318184"/>
-<marker id="318320716" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.3881" latitude="70.45434"/>
-<marker id="318320717" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.45304" latitude="70.27047"/>
-<marker id="318320718" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.55401" latitude="70.37301"/>
-<marker id="318320719" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.71265" latitude="70.490486"/>
-<marker id="318320720" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.705894" latitude="70.57248"/>
-<marker id="318320721" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.703156" latitude="70.57671"/>
-<marker id="318320722" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.909454" latitude="70.653885"/>
-<marker id="318320723" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.88615" latitude="70.6558"/>
-<marker id="318320724" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.81408" latitude="70.652534"/>
-<marker id="318320725" label="Festival-goer" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.8811" latitude="70.07203"/>
-<marker id="318320726" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.34135" latitude="70.153435"/>
-<marker id="318320727" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.45317" latitude="70.27638"/>
-<marker id="318320728" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.550385" latitude="70.37469"/>
-<marker id="318320729" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.720245" latitude="70.48627"/>
-<marker id="318320730" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.71224" latitude="70.484"/>
-<marker id="318320731" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.8814" latitude="70.658066"/>
-<marker id="318320732" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.80941" latitude="70.68465"/>
-<marker id="318320733" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.29062" latitude="70.60767"/>
-<marker id="318320734" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.44521" latitude="70.313"/>
-<marker id="318320735" label="Festival-goer" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.802986" latitude="70.6723"/>
-<marker id="318320736" label="Wistmead Helper" category="70" did="1879381538" parentZoneId="1879360095" longitude="-113.90442" latitude="70.61984"/>
-<marker id="318320737" label="Wistmead Helper" category="70" did="1879381538" parentZoneId="1879360095" longitude="-113.75558" latitude="70.55871"/>
-<marker id="318320739" label="Festival-goer" category="70" did="1879381575" parentZoneId="1879360095" longitude="-113.62296" latitude="70.790955"/>
-<marker id="318320740" label="Festival-goer" category="70" did="1879381575" parentZoneId="1879360095" longitude="-113.62076" latitude="70.77807"/>
-<marker id="318320741" label="Festival-goer" category="70" did="1879381575" parentZoneId="1879360095" longitude="-113.62036" latitude="70.77424"/>
-<marker id="318320742" label="Festival-goer" category="70" did="1879381574" parentZoneId="1879360095" longitude="-113.6201" latitude="70.771095"/>
-<marker id="318320743" label="Festival-goer" category="70" did="1879381574" parentZoneId="1879360095" longitude="-113.62347" latitude="70.77285"/>
-<marker id="318320744" label="Festival-goer" category="70" did="1879381574" parentZoneId="1879360095" longitude="-113.62225" latitude="70.78597"/>
-<marker id="318320745" label="Festival-goer" category="70" did="1879381574" parentZoneId="1879360095" longitude="-113.621445" latitude="70.781425"/>
-<marker id="318320746" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.918106" latitude="70.59187"/>
-<marker id="318320747" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.56219" latitude="70.36033"/>
-<marker id="318320748" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.41405" latitude="70.21672"/>
-<marker id="318320749" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.56474" latitude="70.363045"/>
-<marker id="318320750" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.41372" latitude="70.22025"/>
-<marker id="318320751" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.56508" latitude="70.35949"/>
-<marker id="318320752" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.41115" latitude="70.21754"/>
-<marker id="318320753" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.352684" latitude="70.445114"/>
-<marker id="318320754" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.35236" latitude="70.44867"/>
-<marker id="318320755" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.430435" latitude="70.484726"/>
-<marker id="318320756" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.34979" latitude="70.44594"/>
-<marker id="318320757" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.43011" latitude="70.48828"/>
-<marker id="318320758" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.427536" latitude="70.48554"/>
-<marker id="318320759" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.934296" latitude="70.37074"/>
-<marker id="318320760" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.93396" latitude="70.3743"/>
-<marker id="318320761" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.931404" latitude="70.37156"/>
-<marker id="318320762" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.67894" latitude="70.52713"/>
-<marker id="318320763" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.67861" latitude="70.530685"/>
-<marker id="318320764" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.676056" latitude="70.52795"/>
-<marker id="318320765" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.921005" latitude="70.591034"/>
-<marker id="318320766" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.92067" latitude="70.59459"/>
-<marker id="318320768" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.57861" latitude="70.39162"/>
-<marker id="318320769" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.67095" latitude="70.687614"/>
-<marker id="318320770" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.73729" latitude="70.55791"/>
-<marker id="318320771" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.47769" latitude="70.792755"/>
-<marker id="318320772" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.95892" latitude="70.66717"/>
-<marker id="318320773" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.24055" latitude="70.79138"/>
-<marker id="318320774" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.50884" latitude="70.378845"/>
-<marker id="318320775" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.395546" latitude="70.1949"/>
-<marker id="318320776" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.92547" latitude="70.54545"/>
-<marker id="318320777" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.81783" latitude="70.5559"/>
-<marker id="318320778" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.99586" latitude="70.73891"/>
-<marker id="318320779" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.84718" latitude="70.35209"/>
-<marker id="318320780" label="Goblin-gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.65228" latitude="70.63316"/>
-<marker id="318320781" label="Fosco Boffin" category="70" did="1879360201" parentZoneId="1879360095" longitude="-113.387535" latitude="70.47951"/>
-<marker id="318320792" label="Dinodas Boffin" category="70" did="1879368054" parentZoneId="1879360095" longitude="-113.85807" latitude="70.625626"/>
-<marker id="318320793" label="Torch" category="73" did="1879368227" parentZoneId="1879360095" longitude="-113.86636" latitude="70.62713"/>
-<marker id="318320796" label="Wooden Sign" category="73" did="1879368045" parentZoneId="1879360095" longitude="-113.94987" latitude="70.3441"/>
-<marker id="318320797" label="Wooden Sign" category="73" did="1879368049" parentZoneId="1879360095" longitude="-113.95002" latitude="70.34465"/>
-<marker id="318320800" label="Bingo Boffin" category="70" did="1879368046" parentZoneId="1879360095" longitude="-113.49921" latitude="70.3748"/>
-<marker id="318320801" label="Angelica Boffin" category="70" did="1879360203" parentZoneId="1879360095" longitude="-113.815216" latitude="70.78613"/>
-<marker id="318320802" label="Camellia Boffin" category="70" did="1879368048" parentZoneId="1879360095" longitude="-113.36415" latitude="70.71041"/>
-<marker id="318320803" label="Freshly-baked Pie" category="73" did="1879368051" parentZoneId="1879360095" longitude="-113.836845" latitude="70.66738"/>
-<marker id="318320804" label="Freshly-baked Pie" category="73" did="1879368051" parentZoneId="1879360095" longitude="-113.83529" latitude="70.670586"/>
-<marker id="318320805" label="Freshly-baked Pie" category="73" did="1879368051" parentZoneId="1879360095" longitude="-113.83297" latitude="70.6733"/>
-<marker id="318320806" label="Griffo Boffin" category="70" did="1879368052" parentZoneId="1879360095" longitude="-113.36716" latitude="70.7022"/>
-<marker id="318320817" label="Ermentrude Haybank" category="70" did="1879380217" parentZoneId="1879360095" longitude="-113.66326" latitude="70.77941"/>
-<marker id="318320821" label="Begonia Grubb" category="70" did="1879381310" parentZoneId="1879360095" longitude="-113.82327" latitude="70.646324"/>
-<marker id="318320825" label="Walaric Goldworthy" category="70" did="1879368056" parentZoneId="1879360095" longitude="-113.60994" latitude="70.73777"/>
-<marker id="318320828" label="Fognoggin Ale" category="73" did="1879381618" parentZoneId="1879360095" longitude="-113.8546" latitude="70.68719"/>
-<marker id="318320829" label="Bat" category="70" did="1879381440" parentZoneId="1879360095" longitude="-113.73298" latitude="70.76881"/>
-<marker id="318320830" label="Bat" category="70" did="1879381440" parentZoneId="1879360095" longitude="-113.852936" latitude="70.07959"/>
-<marker id="318320831" label="Bat" category="70" did="1879381440" parentZoneId="1879360095" longitude="-113.262665" latitude="70.636856"/>
-<marker id="318320832" label="Bat" category="70" did="1879381440" parentZoneId="1879360095" longitude="-113.961914" latitude="70.62201"/>
-<marker id="318320833" label="Freshly-baked Pie" category="73" did="1879381784" parentZoneId="1879360095" longitude="-113.35252" latitude="70.70052"/>
-<marker id="318320834" label="Steaming Stein" category="73" did="1879381783" parentZoneId="1879360095" longitude="-113.90378" latitude="70.65574"/>
-<marker id="318320835" label="Stomped Shrew" category="70" did="1879381436" parentZoneId="1879360095" longitude="-113.95321" latitude="70.37643"/>
-<marker id="318320836" label="Stomped Shrew" category="70" did="1879381436" parentZoneId="1879360095" longitude="-113.341156" latitude="70.71488"/>
-<marker id="318320837" label="Stomped Shrew" category="70" did="1879381436" parentZoneId="1879360095" longitude="-113.28858" latitude="70.48072"/>
-<marker id="318320838" label="Stomped Shrew" category="70" did="1879381436" parentZoneId="1879360095" longitude="-113.93757" latitude="70.663864"/>
-<marker id="318320839" label="Spider" category="70" did="1879381444" parentZoneId="1879360095" longitude="-113.7974" latitude="70.46219"/>
-<marker id="318320840" label="Spider" category="70" did="1879381444" parentZoneId="1879360095" longitude="-113.542885" latitude="70.71992"/>
-<marker id="318320841" label="Spider" category="70" did="1879381444" parentZoneId="1879360095" longitude="-113.52519" latitude="70.18879"/>
-<marker id="318320842" label="Spider" category="70" did="1879381444" parentZoneId="1879360095" longitude="-113.41544" latitude="70.394356"/>
-<marker id="318320843" label="The Ghost of the Ghost" category="70" did="1879381438" parentZoneId="1879360095" longitude="-113.647064" latitude="70.2707"/>
-<marker id="318320844" label="Halinard Bunce" category="70" did="1879381437" parentZoneId="1879360095" longitude="-113.86612" latitude="70.67613"/>
-<marker id="318320846" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.56495" latitude="70.36113"/>
-<marker id="318320847" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.934906" latitude="70.36943"/>
-<marker id="318320848" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.92021" latitude="70.59209"/>
-<marker id="318320849" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.68005" latitude="70.52691"/>
-<marker id="318320850" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.43025" latitude="70.48459"/>
-<marker id="318320851" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.4144" latitude="70.216545"/>
-<marker id="318320852" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.35477" latitude="70.44152"/>
-<marker id="318320854" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.21061" latitude="70.345"/>
-<marker id="318320855" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.897865" latitude="70.11799"/>
-<marker id="318320856" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.62333" latitude="70.284996"/>
-<marker id="318320857" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.4559" latitude="70.03582"/>
-<marker id="318320858" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.915054" latitude="70.23445"/>
-<marker id="318320859" label="Iris Tunnelly" category="70" did="1879381446" parentZoneId="1879360095" longitude="-113.65329" latitude="70.695854"/>
-<marker id="318320860" label="Rosa Hornblower&#10;Fall Festival Trader" category="58" did="1879098299" parentZoneId="1879360095" longitude="-113.90925" latitude="70.643005"/>
-<marker id="318324823" label="Spiritless Hobbit" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.20568" latitude="70.97447"/>
-<marker id="318324824" label="Spiritless Hobbit" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.88449" latitude="71.570526"/>
-<marker id="318324825" label="Spiritless Hobbit" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.655464" latitude="71.57492"/>
-<marker id="318324826" label="Spiritless Hobbit" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.24814" latitude="71.5149"/>
-<marker id="318324834" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.20982" latitude="71.48166"/>
-<marker id="318324835" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.23695" latitude="71.14387"/>
-<marker id="318324836" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.23662" latitude="71.1474"/>
-<marker id="318324837" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.23405" latitude="71.144684"/>
-<marker id="318324838" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.90412" latitude="71.57629"/>
-<marker id="318324839" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.903786" latitude="71.57984"/>
-<marker id="318324840" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.901215" latitude="71.57711"/>
-<marker id="318324841" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.58372" latitude="71.5697"/>
-<marker id="318324842" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.5834" latitude="71.57324"/>
-<marker id="318324843" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.580826" latitude="71.570526"/>
-<marker id="318324844" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.4744" latitude="71.56299"/>
-<marker id="318324845" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.47407" latitude="71.56652"/>
-<marker id="318324846" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.471504" latitude="71.563805"/>
-<marker id="318324847" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.21272" latitude="71.48082"/>
-<marker id="318324848" label="Spiderling" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.21239" latitude="71.484375"/>
-<marker id="318324849" label="Tanglecorn" category="43" did="1879360089" parentZoneId="1879360095" longitude="-113.6362" latitude="71.152695"/>
-<marker id="318324850" label="Berilac Boffin" category="70" did="1879368055" parentZoneId="1879360095" longitude="-113.485916" latitude="70.8039"/>
-<marker id="318324891" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.8076" latitude="70.94162"/>
-<marker id="318324892" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.76602" latitude="71.02068"/>
-<marker id="318324893" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.810425" latitude="71.41396"/>
-<marker id="318324894" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.74867" latitude="71.11094"/>
-<marker id="318324895" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.68537" latitude="71.286385"/>
-<marker id="318324896" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.59656" latitude="71.07371"/>
-<marker id="318324897" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.67993" latitude="71.114784"/>
-<marker id="318324898" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.51285" latitude="71.31738"/>
-<marker id="318324899" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.50869" latitude="71.0716"/>
-<marker id="318324900" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.457115" latitude="70.98543"/>
-<marker id="318324901" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.586075" latitude="70.88672"/>
-<marker id="318324902" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.89859" latitude="71.41088"/>
-<marker id="318324903" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.548965" latitude="71.113045"/>
-<marker id="318324904" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.463425" latitude="71.23531"/>
-<marker id="318324905" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.462105" latitude="71.37379"/>
-<marker id="318324906" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.8099" latitude="71.07094"/>
-<marker id="318324907" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.68575" latitude="71.02801"/>
-<marker id="318324908" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.86012" latitude="71.324394"/>
-<marker id="318324909" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.723946" latitude="71.319275"/>
-<marker id="318324910" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.54466" latitude="71.02727"/>
-<marker id="318324911" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.64353" latitude="70.98408"/>
-<marker id="318324912" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.6379" latitude="71.150314"/>
-<marker id="318324913" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.51613" latitude="71.4209"/>
-<marker id="318324914" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.36562" latitude="70.98434"/>
-<marker id="318324915" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.416695" latitude="71.03332"/>
-<marker id="318324916" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.6001" latitude="71.37242"/>
-<marker id="318324917" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.42266" latitude="71.275856"/>
-<marker id="318324918" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.910614" latitude="71.03558"/>
-<marker id="318324919" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.76808" latitude="71.28787"/>
-<marker id="318324920" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.722244" latitude="70.94465"/>
-<marker id="318324921" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.460724" latitude="71.15422"/>
-<marker id="318324922" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.81074" latitude="71.16097"/>
-<marker id="318324923" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.767426" latitude="70.90207"/>
-<marker id="318324924" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.730934" latitude="71.196075"/>
-<marker id="318324925" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.59691" latitude="71.27949"/>
-<marker id="318324926" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.89952" latitude="71.19386"/>
-<marker id="318324927" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.45621" latitude="70.8905"/>
-<marker id="318324928" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.55875" latitude="71.205"/>
-<marker id="318324929" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.80675" latitude="71.24408"/>
-<marker id="318324930" label="Ripe Gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.56876" latitude="70.90207"/>
-<marker id="318324931" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.54073" latitude="71.24258"/>
-<marker id="318324932" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.41523" latitude="71.23793"/>
-<marker id="318324933" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.5869" latitude="71.11227"/>
-<marker id="318324934" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.416855" latitude="71.111015"/>
-<marker id="318324935" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.67658" latitude="71.1559"/>
-<marker id="318324936" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.86447" latitude="71.15664"/>
-<marker id="318324937" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.858444" latitude="71.23465"/>
-<marker id="318324938" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.64223" latitude="71.0309"/>
-<marker id="318324939" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.80633" latitude="71.02908"/>
-<marker id="318324940" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.50532" latitude="70.9357"/>
-<marker id="318324941" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.77145" latitude="71.07293"/>
-<marker id="318324942" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.85517" latitude="71.413414"/>
-<marker id="318324943" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.46831" latitude="71.07098"/>
-<marker id="318324944" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.3695" latitude="71.03004"/>
-<marker id="318324945" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.508385" latitude="71.03039"/>
-<marker id="318324946" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.83027" latitude="70.883575"/>
-<marker id="318324947" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.8645" latitude="70.94926"/>
-<marker id="318324948" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.418175" latitude="70.93377"/>
-<marker id="318324949" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.54671" latitude="70.976425"/>
-<marker id="318324950" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.72615" latitude="70.98474"/>
-<marker id="318324951" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.73029" latitude="71.27773"/>
-<marker id="318324952" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.464935" latitude="71.320015"/>
-<marker id="318324953" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.771225" latitude="71.374664"/>
-<marker id="318324954" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.67863" latitude="71.23798"/>
-<marker id="318324955" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.50316" latitude="71.15879"/>
-<marker id="318324956" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.456406" latitude="71.42189"/>
-<marker id="318324957" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.63266" latitude="71.319336"/>
-<marker id="318324958" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.90487" latitude="71.0723"/>
-<marker id="318324959" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.45955" latitude="71.203476"/>
-<marker id="318324960" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.77694" latitude="71.19639"/>
-<marker id="318324961" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.50824" latitude="71.375626"/>
-<marker id="318324962" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.90585" latitude="71.3207"/>
-<marker id="318324963" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.37347" latitude="71.4135"/>
-<marker id="318324964" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.58969" latitude="71.19365"/>
-<marker id="318324965" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.90888" latitude="70.98082"/>
-<marker id="318324966" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.689705" latitude="71.415504"/>
-<marker id="318324967" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.370094" latitude="71.276115"/>
-<marker id="318324968" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.81112" latitude="71.319084"/>
-<marker id="318324969" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.50628" latitude="71.28101"/>
-<marker id="318324970" label="Pesky Crow" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.638824" latitude="71.37812"/>
-<marker id="318324971" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.236885" latitude="71.14357"/>
-<marker id="318324972" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.211945" latitude="71.48035"/>
-<marker id="318324973" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.47396" latitude="71.563576"/>
-<marker id="318324974" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.584" latitude="71.56965"/>
-<marker id="318324975" label="Curiously Empty Webbing" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.90262" latitude="71.577225"/>
-<marker id="318324976" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.231415" latitude="71.1732"/>
-<marker id="318324977" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.25065" latitude="70.94898"/>
-<marker id="318324978" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.224686" latitude="71.551636"/>
-<marker id="318324979" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.97335" latitude="71.565994"/>
-<marker id="318324980" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.64502" latitude="71.58441"/>
-<marker id="318324981" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.48627" latitude="71.52822"/>
-<marker id="318324982" label="Black Cat" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.90232" latitude="71.53379"/>
+<marker id="318193665" label="道特伍德（Dauntwood）" category="43" did="1879360091" parentZoneId="1879360095" longitude="-115.07598" latitude="70.979706"/>
+<marker id="318193666" label="迪诺达斯·博芬（Dinodas Boffin）" category="70" did="1879369656" parentZoneId="1879360095" longitude="-115.02309" latitude="70.84344"/>
+<marker id="318197761" label="诡异农庄" category="43" did="1879360090" parentZoneId="1879360095" longitude="-115.12113" latitude="71.6873"/>
+<marker id="318197762" label="通往地窖的门" category="48" did="1879369714" parentZoneId="1879360095" longitude="-115.18031" latitude="71.68139"/>
+<marker id="318255104" label="玛丽戈尔德·博芬（Marigold Boffin）" category="70" did="1879360215" parentZoneId="1879360095" longitude="-114.090195" latitude="70.6467"/>
+<marker id="318259204" label="无灵霍比特人" category="70" did="1879381439" parentZoneId="1879360095" longitude="-114.01676" latitude="71.04014"/>
+<marker id="318259210" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.048035" latitude="71.49291"/>
+<marker id="318259211" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.0477" latitude="71.496445"/>
+<marker id="318259212" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.045135" latitude="71.49373"/>
+<marker id="318259213" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.04754" latitude="70.80543"/>
+<marker id="318259214" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.0472" latitude="70.80898"/>
+<marker id="318259215" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.04465" latitude="70.80625"/>
+<marker id="318259216" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.05773" latitude="71.40486"/>
+<marker id="318259217" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.0574" latitude="71.408394"/>
+<marker id="318259218" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.05483" latitude="71.405685"/>
+<marker id="318259219" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.013054" latitude="71.08236"/>
+<marker id="318259220" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.012726" latitude="71.085915"/>
+<marker id="318259221" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-114.010155" latitude="71.08318"/>
+<marker id="318259222" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-114.04744" latitude="71.49473"/>
+<marker id="318259223" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-114.05701" latitude="71.40527"/>
+<marker id="318259224" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-114.01355" latitude="71.08266"/>
+<marker id="318259225" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-114.04625" latitude="70.8059"/>
+<marker id="318259226" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.05142" latitude="71.18074"/>
+<marker id="318259227" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.05253" latitude="71.47649"/>
+<marker id="318259228" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.011856" latitude="71.04584"/>
+<marker id="318259229" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.01287" latitude="71.29412"/>
+<marker id="318259230" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-114.05784" latitude="70.96074"/>
+<marker id="318320640" label="莫戈·布雷斯吉德尔&#10;装扮师" category="58" did="1879381309" parentZoneId="1879360095" longitude="-113.82838" latitude="70.66988"/>
+<marker id="318320642" label="里程碑" category="55" did="1879063534" parentZoneId="1879360095" longitude="-113.46094" latitude="70.21011"/>
+<marker id="318320643" label="opal古德博迪" category="70" did="1879359740" parentZoneId="1879360095" longitude="-113.87839" latitude="70.60725"/>
+<marker id="318320644" label="前往宴会树的小马[[e]]" category="48" did="1879359741" parentZoneId="1879360095" longitude="-113.80945" latitude="70.60131"/>
+<marker id="318320657" label="埃斯梅拉达·博芬（Esmeralda Boffin）" category="70" did="1879368044" parentZoneId="1879360095" longitude="-113.83724" latitude="70.04898"/>
+<marker id="318320660" label="饥饿的霍比特人" category="70" did="1879368047" parentZoneId="1879360095" longitude="-113.43416" latitude="70.58144"/>
+<marker id="318320661" label="饥饿的霍比特人" category="70" did="1879368047" parentZoneId="1879360095" longitude="-113.532555" latitude="70.5758"/>
+<marker id="318320662" label="饥饿的霍比特人" category="70" did="1879368047" parentZoneId="1879360095" longitude="-113.57901" latitude="70.653885"/>
+<marker id="318320664" label="饥饿的霍比特人" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.78704" latitude="70.72951"/>
+<marker id="318320665" label="饥饿的霍比特人" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.7623" latitude="70.62936"/>
+<marker id="318320666" label="饥饿的霍比特人" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.69549" latitude="70.687065"/>
+<marker id="318320667" label="饥饿的霍比特人" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.48154" latitude="70.72832"/>
+<marker id="318320668" label="饥饿的霍比特人" category="70" did="1879368053" parentZoneId="1879360095" longitude="-113.82076" latitude="70.59142"/>
+<marker id="318320681" label="无灵霍比特人" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.25071" latitude="70.754585"/>
+<marker id="318320682" label="无灵霍比特人" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.6701" latitude="70.30599"/>
+<marker id="318320683" label="无灵霍比特人" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.98194" latitude="70.767654"/>
+<marker id="318320684" label="无灵霍比特人" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.293015" latitude="70.48887"/>
+<marker id="318320685" label="无灵霍比特人" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.37931" latitude="70.26724"/>
+<marker id="318320686" label="无灵霍比特人" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.5978" latitude="70.41891"/>
+<marker id="318320688" label="无灵霍比特人" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.65243" latitude="70.448166"/>
+<marker id="318320689" label="无灵霍比特人" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.888725" latitude="70.333046"/>
+<marker id="318320690" label="无灵霍比特人" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.518486" latitude="70.49086"/>
+<marker id="318320691" label="无灵霍比特人" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.92146" latitude="70.038376"/>
+<marker id="318320692" label="无灵霍比特人" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.91121" latitude="70.67006"/>
+<marker id="318320693" label="无灵霍比特人" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.965546" latitude="70.37439"/>
+<marker id="318320694" label="无灵霍比特人" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.2987" latitude="70.63762"/>
+<marker id="318320709" label="维斯特米德助手" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.34003" latitude="70.70205"/>
+<marker id="318320710" label="维斯特米德助手" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.85353" latitude="70.63863"/>
+<marker id="318320711" label="维斯特米德助手" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.92952" latitude="70.50203"/>
+<marker id="318320712" label="维斯特米德助手" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.343666" latitude="70.13959"/>
+<marker id="318320713" label="维斯特米德助手" category="70" did="1879381537" parentZoneId="1879360095" longitude="-113.84593" latitude="70.58191"/>
+<marker id="318320714" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.3418" latitude="70.1468"/>
+<marker id="318320715" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.58954" latitude="70.318184"/>
+<marker id="318320716" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.3881" latitude="70.45434"/>
+<marker id="318320717" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.45304" latitude="70.27047"/>
+<marker id="318320718" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.55401" latitude="70.37301"/>
+<marker id="318320719" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.71265" latitude="70.490486"/>
+<marker id="318320720" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.705894" latitude="70.57248"/>
+<marker id="318320721" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.703156" latitude="70.57671"/>
+<marker id="318320722" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.909454" latitude="70.653885"/>
+<marker id="318320723" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.88615" latitude="70.6558"/>
+<marker id="318320724" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.81408" latitude="70.652534"/>
+<marker id="318320725" label="节日参与者" category="70" did="1879381536" parentZoneId="1879360095" longitude="-113.8811" latitude="70.07203"/>
+<marker id="318320726" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.34135" latitude="70.153435"/>
+<marker id="318320727" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.45317" latitude="70.27638"/>
+<marker id="318320728" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.550385" latitude="70.37469"/>
+<marker id="318320729" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.720245" latitude="70.48627"/>
+<marker id="318320730" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.71224" latitude="70.484"/>
+<marker id="318320731" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.8814" latitude="70.658066"/>
+<marker id="318320732" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.80941" latitude="70.68465"/>
+<marker id="318320733" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.29062" latitude="70.60767"/>
+<marker id="318320734" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.44521" latitude="70.313"/>
+<marker id="318320735" label="节日参与者" category="70" did="1879381539" parentZoneId="1879360095" longitude="-113.802986" latitude="70.6723"/>
+<marker id="318320736" label="维斯特米德助手" category="70" did="1879381538" parentZoneId="1879360095" longitude="-113.90442" latitude="70.61984"/>
+<marker id="318320737" label="维斯特米德助手" category="70" did="1879381538" parentZoneId="1879360095" longitude="-113.75558" latitude="70.55871"/>
+<marker id="318320739" label="节日参与者" category="70" did="1879381575" parentZoneId="1879360095" longitude="-113.62296" latitude="70.790955"/>
+<marker id="318320740" label="节日参与者" category="70" did="1879381575" parentZoneId="1879360095" longitude="-113.62076" latitude="70.77807"/>
+<marker id="318320741" label="节日参与者" category="70" did="1879381575" parentZoneId="1879360095" longitude="-113.62036" latitude="70.77424"/>
+<marker id="318320742" label="节日参与者" category="70" did="1879381574" parentZoneId="1879360095" longitude="-113.6201" latitude="70.771095"/>
+<marker id="318320743" label="节日参与者" category="70" did="1879381574" parentZoneId="1879360095" longitude="-113.62347" latitude="70.77285"/>
+<marker id="318320744" label="节日参与者" category="70" did="1879381574" parentZoneId="1879360095" longitude="-113.62225" latitude="70.78597"/>
+<marker id="318320745" label="节日参与者" category="70" did="1879381574" parentZoneId="1879360095" longitude="-113.621445" latitude="70.781425"/>
+<marker id="318320746" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.918106" latitude="70.59187"/>
+<marker id="318320747" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.56219" latitude="70.36033"/>
+<marker id="318320748" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.41405" latitude="70.21672"/>
+<marker id="318320749" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.56474" latitude="70.363045"/>
+<marker id="318320750" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.41372" latitude="70.22025"/>
+<marker id="318320751" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.56508" latitude="70.35949"/>
+<marker id="318320752" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.41115" latitude="70.21754"/>
+<marker id="318320753" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.352684" latitude="70.445114"/>
+<marker id="318320754" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.35236" latitude="70.44867"/>
+<marker id="318320755" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.430435" latitude="70.484726"/>
+<marker id="318320756" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.34979" latitude="70.44594"/>
+<marker id="318320757" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.43011" latitude="70.48828"/>
+<marker id="318320758" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.427536" latitude="70.48554"/>
+<marker id="318320759" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.934296" latitude="70.37074"/>
+<marker id="318320760" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.93396" latitude="70.3743"/>
+<marker id="318320761" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.931404" latitude="70.37156"/>
+<marker id="318320762" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.67894" latitude="70.52713"/>
+<marker id="318320763" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.67861" latitude="70.530685"/>
+<marker id="318320764" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.676056" latitude="70.52795"/>
+<marker id="318320765" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.921005" latitude="70.591034"/>
+<marker id="318320766" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.92067" latitude="70.59459"/>
+<marker id="318320768" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.57861" latitude="70.39162"/>
+<marker id="318320769" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.67095" latitude="70.687614"/>
+<marker id="318320770" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.73729" latitude="70.55791"/>
+<marker id="318320771" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.47769" latitude="70.792755"/>
+<marker id="318320772" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.95892" latitude="70.66717"/>
+<marker id="318320773" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.24055" latitude="70.79138"/>
+<marker id="318320774" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.50884" latitude="70.378845"/>
+<marker id="318320775" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.395546" latitude="70.1949"/>
+<marker id="318320776" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.92547" latitude="70.54545"/>
+<marker id="318320777" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.81783" latitude="70.5559"/>
+<marker id="318320778" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.99586" latitude="70.73891"/>
+<marker id="318320779" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.84718" latitude="70.35209"/>
+<marker id="318320780" label="哥布林 gourd" category="70" did="1879381631" parentZoneId="1879360095" longitude="-113.65228" latitude="70.63316"/>
+<marker id="318320781" label="福斯科·博芬（Fosco Boffin）" category="70" did="1879360201" parentZoneId="1879360095" longitude="-113.387535" latitude="70.47951"/>
+<marker id="318320792" label="迪诺达斯·博芬（Dinodas Boffin）" category="70" did="1879368054" parentZoneId="1879360095" longitude="-113.85807" latitude="70.625626"/>
+<marker id="318320793" label="火炬" category="73" did="1879368227" parentZoneId="1879360095" longitude="-113.86636" latitude="70.62713"/>
+<marker id="318320796" label="木牌" category="73" did="1879368045" parentZoneId="1879360095" longitude="-113.94987" latitude="70.3441"/>
+<marker id="318320797" label="木牌" category="73" did="1879368049" parentZoneId="1879360095" longitude="-113.95002" latitude="70.34465"/>
+<marker id="318320800" label="宾果·博芬" category="70" did="1879368046" parentZoneId="1879360095" longitude="-113.49921" latitude="70.3748"/>
+<marker id="318320801" label="安吉丽卡·博芬" category="70" did="1879360203" parentZoneId="1879360095" longitude="-113.815216" latitude="70.78613"/>
+<marker id="318320802" label="卡梅莉亚·博芬" category="70" did="1879368048" parentZoneId="1879360095" longitude="-113.36415" latitude="70.71041"/>
+<marker id="318320803" label="刚烤的派" category="73" did="1879368051" parentZoneId="1879360095" longitude="-113.836845" latitude="70.66738"/>
+<marker id="318320804" label="刚烤的派" category="73" did="1879368051" parentZoneId="1879360095" longitude="-113.83529" latitude="70.670586"/>
+<marker id="318320805" label="刚烤的派" category="73" did="1879368051" parentZoneId="1879360095" longitude="-113.83297" latitude="70.6733"/>
+<marker id="318320806" label="格里福·博芬（Griffo Boffin）" category="70" did="1879368052" parentZoneId="1879360095" longitude="-113.36716" latitude="70.7022"/>
+<marker id="318320817" label="埃尔门特鲁德·海班克" category="70" did="1879380217" parentZoneId="1879360095" longitude="-113.66326" latitude="70.77941"/>
+<marker id="318320821" label="海棠格鲁布" category="70" did="1879381310" parentZoneId="1879360095" longitude="-113.82327" latitude="70.646324"/>
+<marker id="318320825" label="瓦拉里克·戈德沃西" category="70" did="1879368056" parentZoneId="1879360095" longitude="-113.60994" latitude="70.73777"/>
+<marker id="318320828" label="雾脑麦酒" category="73" did="1879381618" parentZoneId="1879360095" longitude="-113.8546" latitude="70.68719"/>
+<marker id="318320829" label="蝙蝠" category="70" did="1879381440" parentZoneId="1879360095" longitude="-113.73298" latitude="70.76881"/>
+<marker id="318320830" label="蝙蝠" category="70" did="1879381440" parentZoneId="1879360095" longitude="-113.852936" latitude="70.07959"/>
+<marker id="318320831" label="蝙蝠" category="70" did="1879381440" parentZoneId="1879360095" longitude="-113.262665" latitude="70.636856"/>
+<marker id="318320832" label="蝙蝠" category="70" did="1879381440" parentZoneId="1879360095" longitude="-113.961914" latitude="70.62201"/>
+<marker id="318320833" label="刚烤的派" category="73" did="1879381784" parentZoneId="1879360095" longitude="-113.35252" latitude="70.70052"/>
+<marker id="318320834" label="热气啤酒杯" category="73" did="1879381783" parentZoneId="1879360095" longitude="-113.90378" latitude="70.65574"/>
+<marker id="318320835" label="被 stomp 的地鼠" category="70" did="1879381436" parentZoneId="1879360095" longitude="-113.95321" latitude="70.37643"/>
+<marker id="318320836" label="被 stomp 的地鼠" category="70" did="1879381436" parentZoneId="1879360095" longitude="-113.341156" latitude="70.71488"/>
+<marker id="318320837" label="被 stomp 的地鼠" category="70" did="1879381436" parentZoneId="1879360095" longitude="-113.28858" latitude="70.48072"/>
+<marker id="318320838" label="被 stomp 的地鼠" category="70" did="1879381436" parentZoneId="1879360095" longitude="-113.93757" latitude="70.663864"/>
+<marker id="318320839" label="蜘蛛" category="70" did="1879381444" parentZoneId="1879360095" longitude="-113.7974" latitude="70.46219"/>
+<marker id="318320840" label="蜘蛛" category="70" did="1879381444" parentZoneId="1879360095" longitude="-113.542885" latitude="70.71992"/>
+<marker id="318320841" label="蜘蛛" category="70" did="1879381444" parentZoneId="1879360095" longitude="-113.52519" latitude="70.18879"/>
+<marker id="318320842" label="蜘蛛" category="70" did="1879381444" parentZoneId="1879360095" longitude="-113.41544" latitude="70.394356"/>
+<marker id="318320843" label="幽灵的幽灵" category="70" did="1879381438" parentZoneId="1879360095" longitude="-113.647064" latitude="70.2707"/>
+<marker id="318320844" label="哈林纳德·邦斯" category="70" did="1879381437" parentZoneId="1879360095" longitude="-113.86612" latitude="70.67613"/>
+<marker id="318320846" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.56495" latitude="70.36113"/>
+<marker id="318320847" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.934906" latitude="70.36943"/>
+<marker id="318320848" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.92021" latitude="70.59209"/>
+<marker id="318320849" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.68005" latitude="70.52691"/>
+<marker id="318320850" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.43025" latitude="70.48459"/>
+<marker id="318320851" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.4144" latitude="70.216545"/>
+<marker id="318320852" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.35477" latitude="70.44152"/>
+<marker id="318320854" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.21061" latitude="70.345"/>
+<marker id="318320855" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.897865" latitude="70.11799"/>
+<marker id="318320856" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.62333" latitude="70.284996"/>
+<marker id="318320857" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.4559" latitude="70.03582"/>
+<marker id="318320858" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.915054" latitude="70.23445"/>
+<marker id="318320859" label="艾里斯·滕内利（Iris Tunnelly）" category="70" did="1879381446" parentZoneId="1879360095" longitude="-113.65329" latitude="70.695854"/>
+<marker id="318320860" label="罗莎·霍恩布洛尔&#10;秋季节日商人" category="58" did="1879098299" parentZoneId="1879360095" longitude="-113.90925" latitude="70.643005"/>
+<marker id="318324823" label="无灵霍比特人" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.20568" latitude="70.97447"/>
+<marker id="318324824" label="无灵霍比特人" category="70" did="1879381439" parentZoneId="1879360095" longitude="-113.88449" latitude="71.570526"/>
+<marker id="318324825" label="无灵霍比特人" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.655464" latitude="71.57492"/>
+<marker id="318324826" label="无灵霍比特人" category="70" did="1879381435" parentZoneId="1879360095" longitude="-113.24814" latitude="71.5149"/>
+<marker id="318324834" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.20982" latitude="71.48166"/>
+<marker id="318324835" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.23695" latitude="71.14387"/>
+<marker id="318324836" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.23662" latitude="71.1474"/>
+<marker id="318324837" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.23405" latitude="71.144684"/>
+<marker id="318324838" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.90412" latitude="71.57629"/>
+<marker id="318324839" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.903786" latitude="71.57984"/>
+<marker id="318324840" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.901215" latitude="71.57711"/>
+<marker id="318324841" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.58372" latitude="71.5697"/>
+<marker id="318324842" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.5834" latitude="71.57324"/>
+<marker id="318324843" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.580826" latitude="71.570526"/>
+<marker id="318324844" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.4744" latitude="71.56299"/>
+<marker id="318324845" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.47407" latitude="71.56652"/>
+<marker id="318324846" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.471504" latitude="71.563805"/>
+<marker id="318324847" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.21272" latitude="71.48082"/>
+<marker id="318324848" label="小蜘蛛" category="70" did="1879382622" parentZoneId="1879360095" longitude="-113.21239" latitude="71.484375"/>
+<marker id="318324849" label="纠缠玉米（Tanglecorn）" category="43" did="1879360089" parentZoneId="1879360095" longitude="-113.6362" latitude="71.152695"/>
+<marker id="318324850" label="贝里拉克·博芬（Berilac Boffin）" category="70" did="1879368055" parentZoneId="1879360095" longitude="-113.485916" latitude="70.8039"/>
+<marker id="318324891" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.8076" latitude="70.94162"/>
+<marker id="318324892" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.76602" latitude="71.02068"/>
+<marker id="318324893" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.810425" latitude="71.41396"/>
+<marker id="318324894" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.74867" latitude="71.11094"/>
+<marker id="318324895" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.68537" latitude="71.286385"/>
+<marker id="318324896" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.59656" latitude="71.07371"/>
+<marker id="318324897" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.67993" latitude="71.114784"/>
+<marker id="318324898" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.51285" latitude="71.31738"/>
+<marker id="318324899" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.50869" latitude="71.0716"/>
+<marker id="318324900" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.457115" latitude="70.98543"/>
+<marker id="318324901" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.586075" latitude="70.88672"/>
+<marker id="318324902" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.89859" latitude="71.41088"/>
+<marker id="318324903" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.548965" latitude="71.113045"/>
+<marker id="318324904" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.463425" latitude="71.23531"/>
+<marker id="318324905" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.462105" latitude="71.37379"/>
+<marker id="318324906" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.8099" latitude="71.07094"/>
+<marker id="318324907" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.68575" latitude="71.02801"/>
+<marker id="318324908" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.86012" latitude="71.324394"/>
+<marker id="318324909" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.723946" latitude="71.319275"/>
+<marker id="318324910" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.54466" latitude="71.02727"/>
+<marker id="318324911" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.64353" latitude="70.98408"/>
+<marker id="318324912" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.6379" latitude="71.150314"/>
+<marker id="318324913" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.51613" latitude="71.4209"/>
+<marker id="318324914" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.36562" latitude="70.98434"/>
+<marker id="318324915" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.416695" latitude="71.03332"/>
+<marker id="318324916" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.6001" latitude="71.37242"/>
+<marker id="318324917" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.42266" latitude="71.275856"/>
+<marker id="318324918" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.910614" latitude="71.03558"/>
+<marker id="318324919" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.76808" latitude="71.28787"/>
+<marker id="318324920" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.722244" latitude="70.94465"/>
+<marker id="318324921" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.460724" latitude="71.15422"/>
+<marker id="318324922" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.81074" latitude="71.16097"/>
+<marker id="318324923" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.767426" latitude="70.90207"/>
+<marker id="318324924" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.730934" latitude="71.196075"/>
+<marker id="318324925" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.59691" latitude="71.27949"/>
+<marker id="318324926" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.89952" latitude="71.19386"/>
+<marker id="318324927" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.45621" latitude="70.8905"/>
+<marker id="318324928" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.55875" latitude="71.205"/>
+<marker id="318324929" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.80675" latitude="71.24408"/>
+<marker id="318324930" label="成熟的 gourd" category="73" did="1879380231" parentZoneId="1879360095" longitude="-113.56876" latitude="70.90207"/>
+<marker id="318324931" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.54073" latitude="71.24258"/>
+<marker id="318324932" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.41523" latitude="71.23793"/>
+<marker id="318324933" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.5869" latitude="71.11227"/>
+<marker id="318324934" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.416855" latitude="71.111015"/>
+<marker id="318324935" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.67658" latitude="71.1559"/>
+<marker id="318324936" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.86447" latitude="71.15664"/>
+<marker id="318324937" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.858444" latitude="71.23465"/>
+<marker id="318324938" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.64223" latitude="71.0309"/>
+<marker id="318324939" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.80633" latitude="71.02908"/>
+<marker id="318324940" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.50532" latitude="70.9357"/>
+<marker id="318324941" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.77145" latitude="71.07293"/>
+<marker id="318324942" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.85517" latitude="71.413414"/>
+<marker id="318324943" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.46831" latitude="71.07098"/>
+<marker id="318324944" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.3695" latitude="71.03004"/>
+<marker id="318324945" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.508385" latitude="71.03039"/>
+<marker id="318324946" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.83027" latitude="70.883575"/>
+<marker id="318324947" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.8645" latitude="70.94926"/>
+<marker id="318324948" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.418175" latitude="70.93377"/>
+<marker id="318324949" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.54671" latitude="70.976425"/>
+<marker id="318324950" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.72615" latitude="70.98474"/>
+<marker id="318324951" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.73029" latitude="71.27773"/>
+<marker id="318324952" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.464935" latitude="71.320015"/>
+<marker id="318324953" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.771225" latitude="71.374664"/>
+<marker id="318324954" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.67863" latitude="71.23798"/>
+<marker id="318324955" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.50316" latitude="71.15879"/>
+<marker id="318324956" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.456406" latitude="71.42189"/>
+<marker id="318324957" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.63266" latitude="71.319336"/>
+<marker id="318324958" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.90487" latitude="71.0723"/>
+<marker id="318324959" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.45955" latitude="71.203476"/>
+<marker id="318324960" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.77694" latitude="71.19639"/>
+<marker id="318324961" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.50824" latitude="71.375626"/>
+<marker id="318324962" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.90585" latitude="71.3207"/>
+<marker id="318324963" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.37347" latitude="71.4135"/>
+<marker id="318324964" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.58969" latitude="71.19365"/>
+<marker id="318324965" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.90888" latitude="70.98082"/>
+<marker id="318324966" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.689705" latitude="71.415504"/>
+<marker id="318324967" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.370094" latitude="71.276115"/>
+<marker id="318324968" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.81112" latitude="71.319084"/>
+<marker id="318324969" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.50628" latitude="71.28101"/>
+<marker id="318324970" label="烦人的乌鸦" category="73" did="1879380232" parentZoneId="1879360095" longitude="-113.638824" latitude="71.37812"/>
+<marker id="318324971" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.236885" latitude="71.14357"/>
+<marker id="318324972" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.211945" latitude="71.48035"/>
+<marker id="318324973" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.47396" latitude="71.563576"/>
+<marker id="318324974" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.584" latitude="71.56965"/>
+<marker id="318324975" label="奇特的空蛛网" category="73" did="1879382131" parentZoneId="1879360095" longitude="-113.90262" latitude="71.577225"/>
+<marker id="318324976" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.231415" latitude="71.1732"/>
+<marker id="318324977" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.25065" latitude="70.94898"/>
+<marker id="318324978" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.224686" latitude="71.551636"/>
+<marker id="318324979" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.97335" latitude="71.565994"/>
+<marker id="318324980" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.64502" latitude="71.58441"/>
+<marker id="318324981" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.48627" latitude="71.52822"/>
+<marker id="318324982" label="黑猫" category="70" did="1879381441" parentZoneId="1879360095" longitude="-113.90232" latitude="71.53379"/>
 </markers>

@@ -1,168 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="551456768" label="Zigilnâb" category="43" did="1879134435" parentZoneId="1879198510" longitude="-135.56152" latitude="49.49074"/>
-<marker id="551522305" label="The Twenty-first Hall: West Arch" category="43" did="1879134446" parentZoneId="1879198510" longitude="-134.7379" latitude="49.385567"/>
-<marker id="551526400" label="Weak Mazog's Warrior" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526401" label="Weak Mazog's Warrior" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526402" label="Weak Mazog's Warrior" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526403" label="Weak Mazog's Warrior" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526404" label="Weak Mazog's Captain" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526405" label="Weak Mazog's Captain" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526406" label="Weak Mazog's Captain" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526407" label="Weak Mazog's Captain" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526408" label="Hale Mazog's Archer" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526409" label="Hale Mazog's Archer" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526410" label="Hale Mazog's Archer" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526411" label="Hale Mazog's Archer" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526412" label="Weak Mazog's Archer" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526413" label="Weak Mazog's Archer" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526414" label="Weak Mazog's Archer" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526415" label="Weak Mazog's Archer" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526416" label="Blood-rook" category="71" did="1879160121" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526417" label="Blood-rook" category="71" did="1879160121" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526418" label="Daywalker Berserker" category="71" did="1879160125" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526419" label="Daywalker Berserker" category="71" did="1879160125" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526420" label="Echo of Death" category="71" did="1879160133" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526421" label="Echo of Death" category="71" did="1879160133" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526422" label="Death-monger" category="71" did="1879154012" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526423" label="Death-monger" category="71" did="1879154012" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526424" label="Defender of the Vile" category="71" did="1879154031" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526425" label="Defender of the Vile" category="71" did="1879154031" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526426" label="Forest-born Reaver" category="71" did="1879160181" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526427" label="Forest-born Reaver" category="71" did="1879160181" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526428" label="Shepherd of Filth" category="71" did="1879154042" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526429" label="Shepherd of Filth" category="71" did="1879154042" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526430" label="Zealot of Pain" category="71" did="1879154075" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526431" label="Zealot of Pain" category="71" did="1879154075" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526432" label="Venomous Blood-arrow" category="71" did="1879154079" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526433" label="Venomous Blood-arrow" category="71" did="1879154079" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526434" label="Bearer of Blight" category="71" did="1879154113" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526435" label="Bearer of Blight" category="71" did="1879154113" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526436" label="Hale Mazog's Lieutenant" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526437" label="Hale Mazog's Lieutenant" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526438" label="Hale Mazog's Lieutenant" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526439" label="Hale Mazog's Lieutenant" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526440" label="Weak Mazog's Lieutenant" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526441" label="Weak Mazog's Lieutenant" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526442" label="Weak Mazog's Lieutenant" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526443" label="Weak Mazog's Lieutenant" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526444" label="Weak Mazog's Ward-caller" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526445" label="Weak Mazog's Ward-caller" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526446" label="Weak Mazog's Ward-caller" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526447" label="Weak Mazog's Ward-caller" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526448" label="Hale Mazog's Ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526449" label="Hale Mazog's Ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526450" label="Hale Mazog's Ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526451" label="Hale Mazog's Ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526452" label="Weak Mazog's Skirmisher" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526453" label="Weak Mazog's Skirmisher" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526454" label="Weak Mazog's Skirmisher" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526455" label="Weak Mazog's Skirmisher" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526456" label="Pale Trapper" category="71" did="1879176167" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526457" label="Pale Trapper" category="71" did="1879176167" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526458" label="Hale Mazog's Skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526459" label="Hale Mazog's Skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526460" label="Hale Mazog's Skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526461" label="Hale Mazog's Skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526462" label="Hale Mazog's Crusher" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526463" label="Hale Mazog's Crusher" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526464" label="Hale Mazog's Crusher" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526465" label="Hale Mazog's Crusher" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526466" label="Weak Mazog's Crusher" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526467" label="Weak Mazog's Crusher" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526468" label="Weak Mazog's Crusher" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526469" label="Weak Mazog's Crusher" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526470" label="Hale Mazog's Brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526471" label="Hale Mazog's Brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526472" label="Hale Mazog's Brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526473" label="Hale Mazog's Brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526474" label="Hale Mazog's Stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526475" label="Hale Mazog's Stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526476" label="Hale Mazog's Stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526477" label="Hale Mazog's Stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526478" label="Weak Mazog's Brute" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526479" label="Weak Mazog's Brute" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526480" label="Weak Mazog's Brute" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526481" label="Weak Mazog's Brute" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526482" label="Dourhand Keg-master" category="71" did="1879176187" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526483" label="Dourhand Keg-master" category="71" did="1879176187" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526484" label="Weak Mazog's Stoneheaver" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526485" label="Weak Mazog's Stoneheaver" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526486" label="Weak Mazog's Stoneheaver" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526487" label="Weak Mazog's Stoneheaver" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526488" label="Dourhand Storm-keeper" category="71" did="1879176186" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526489" label="Dourhand Storm-keeper" category="71" did="1879176186" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526490" label="Hale Mazog's Warrior" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526491" label="Hale Mazog's Warrior" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526492" label="Hale Mazog's Warrior" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526493" label="Hale Mazog's Warrior" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526494" label="Troll Wound-taker" category="71" did="1879176190" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526495" label="Troll Wound-taker" category="71" did="1879176190" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526496" label="Hale Mazog's Captain" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
-<marker id="551526497" label="Hale Mazog's Captain" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
-<marker id="551526498" label="Hale Mazog's Captain" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
-<marker id="551526499" label="Hale Mazog's Captain" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
-<marker id="551526592" label="Hale Mazog's Warrior" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526593" label="Daywalker Berserker" category="71" did="1879160125" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526594" label="Hale Mazog's Captain" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526595" label="Troll Wound-taker" category="71" did="1879176190" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526596" label="Weak Mazog's Warrior" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526597" label="Bearer of Blight" category="71" did="1879154113" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526598" label="Echo of Death" category="71" did="1879160133" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526599" label="Weak Mazog's Captain" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526600" label="Hale Mazog's Archer" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526601" label="Weak Mazog's Archer" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526602" label="Hale Mazog's Lieutenant" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526603" label="Weak Mazog's Lieutenant" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526604" label="Zealot of Pain" category="71" did="1879154075" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526605" label="Weak Mazog's Ward-caller" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526606" label="Hale Mazog's Ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526607" label="Death-monger" category="71" did="1879154012" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526608" label="Venomous Blood-arrow" category="71" did="1879154079" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526609" label="Weak Mazog's Skirmisher" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526610" label="Pale Trapper" category="71" did="1879176167" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526611" label="Hale Mazog's Skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526612" label="Hale Mazog's Crusher" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526613" label="Weak Mazog's Crusher" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526614" label="Hale Mazog's Brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526615" label="Defender of the Vile" category="71" did="1879154031" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526616" label="Hale Mazog's Stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526617" label="Forest-born Reaver" category="71" did="1879160181" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526618" label="Blood-rook" category="71" did="1879160121" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526619" label="Weak Mazog's Brute" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526620" label="Dourhand Keg-master" category="71" did="1879176187" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526621" label="Weak Mazog's Stoneheaver" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526622" label="Shepherd of Filth" category="71" did="1879154042" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526623" label="Dourhand Storm-keeper" category="71" did="1879176186" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
-<marker id="551526628" label="Weak Mazog's Warrior" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526629" label="Bearer of Blight" category="71" did="1879154113" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526630" label="Echo of Death" category="71" did="1879160133" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526631" label="Weak Mazog's Captain" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526632" label="Hale Mazog's Archer" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526633" label="Weak Mazog's Archer" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526634" label="Hale Mazog's Lieutenant" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526635" label="Weak Mazog's Lieutenant" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526636" label="Zealot of Pain" category="71" did="1879154075" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526637" label="Weak Mazog's Ward-caller" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526638" label="Hale Mazog's Ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526639" label="Death-monger" category="71" did="1879154012" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526640" label="Venomous Blood-arrow" category="71" did="1879154079" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526641" label="Weak Mazog's Skirmisher" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526642" label="Pale Trapper" category="71" did="1879176167" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526643" label="Hale Mazog's Skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526644" label="Hale Mazog's Crusher" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526645" label="Weak Mazog's Crusher" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526646" label="Hale Mazog's Brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526647" label="Defender of the Vile" category="71" did="1879154031" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526648" label="Hale Mazog's Stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526649" label="Forest-born Reaver" category="71" did="1879160181" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526650" label="Blood-rook" category="71" did="1879160121" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526651" label="Weak Mazog's Brute" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526652" label="Dourhand Keg-master" category="71" did="1879176187" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526653" label="Weak Mazog's Stoneheaver" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526654" label="Shepherd of Filth" category="71" did="1879154042" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526655" label="Dourhand Storm-keeper" category="71" did="1879176186" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526656" label="Hale Mazog's Warrior" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526657" label="Daywalker Berserker" category="71" did="1879160125" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526658" label="Hale Mazog's Captain" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
-<marker id="551526659" label="Troll Wound-taker" category="71" did="1879176190" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551456768" label="齐吉尔纳布（Zigilnâb）" category="43" did="1879134435" parentZoneId="1879198510" longitude="-135.56152" latitude="49.49074"/>
+<marker id="551522305" label="二十一号大厅：西拱门" category="43" did="1879134446" parentZoneId="1879198510" longitude="-134.7379" latitude="49.385567"/>
+<marker id="551526400" label="劣质马佐格的战士" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526401" label="劣质马佐格的战士" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526402" label="劣质马佐格的战士" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526403" label="劣质马佐格的战士" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526404" label="劣质马佐格的旗手" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526405" label="劣质马佐格的旗手" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526406" label="劣质马佐格的旗手" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526407" label="劣质马佐格的旗手" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526408" label="强健的马佐格的弓箭手" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526409" label="强健的马佐格的弓箭手" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526410" label="强健的马佐格的弓箭手" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526411" label="强健的马佐格的弓箭手" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526412" label="劣质马佐格的弓箭手" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526413" label="劣质马佐格的弓箭手" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526414" label="劣质马佐格的弓箭手" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526415" label="劣质马佐格的弓箭手" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526416" label="血鸦" category="71" did="1879160121" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526417" label="血鸦" category="71" did="1879160121" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526418" label="日行者狂战士" category="71" did="1879160125" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526419" label="日行者狂战士" category="71" did="1879160125" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526420" label="死亡回响" category="71" did="1879160133" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526421" label="死亡回响" category="71" did="1879160133" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526422" label="死亡贩子" category="71" did="1879154012" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526423" label="死亡贩子" category="71" did="1879154012" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526424" label="邪恶守护者" category="71" did="1879154031" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526425" label="邪恶守护者" category="71" did="1879154031" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526426" label="森林之子掠夺者" category="71" did="1879160181" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526427" label="森林之子掠夺者" category="71" did="1879160181" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526428" label="污秽牧者" category="71" did="1879154042" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526429" label="污秽牧者" category="71" did="1879154042" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526430" label="痛苦狂热者" category="71" did="1879154075" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526431" label="痛苦狂热者" category="71" did="1879154075" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526432" label="毒血箭手" category="71" did="1879154079" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526433" label="毒血箭手" category="71" did="1879154079" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526434" label="疫病持有者" category="71" did="1879154113" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526435" label="疫病持有者" category="71" did="1879154113" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526436" label="强健的马佐格的中尉" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526437" label="强健的马佐格的中尉" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526438" label="强健的马佐格的中尉" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526439" label="强健的马佐格的中尉" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526440" label="劣质马佐格的中尉" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526441" label="劣质马佐格的中尉" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526442" label="劣质马佐格的中尉" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526443" label="劣质马佐格的中尉" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526444" label="劣质马佐格的守卫召唤者" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526445" label="劣质马佐格的守卫召唤者" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526446" label="劣质马佐格的守卫召唤者" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526447" label="劣质马佐格的守卫召唤者" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526448" label="强健的马佐格的 ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526449" label="强健的马佐格的 ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526450" label="强健的马佐格的 ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526451" label="强健的马佐格的 ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526452" label="劣质马佐格的散兵" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526453" label="劣质马佐格的散兵" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526454" label="劣质马佐格的散兵" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526455" label="劣质马佐格的散兵" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526456" label="苍白捕猎者" category="71" did="1879176167" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526457" label="苍白捕猎者" category="71" did="1879176167" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526458" label="强健的马佐格的 skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526459" label="强健的马佐格的 skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526460" label="强健的马佐格的 skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526461" label="强健的马佐格的 skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526462" label="强健的马佐格的破碎机" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526463" label="强健的马佐格的破碎机" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526464" label="强健的马佐格的破碎机" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526465" label="强健的马佐格的破碎机" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526466" label="劣质马佐格的粉碎者" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526467" label="劣质马佐格的粉碎者" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526468" label="劣质马佐格的粉碎者" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526469" label="劣质马佐格的粉碎者" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526470" label="强健的马佐格的 brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526471" label="强健的马佐格的 brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526472" label="强健的马佐格的 brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526473" label="强健的马佐格的 brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526474" label="强健的马佐格的 stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526475" label="强健的马佐格的 stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526476" label="强健的马佐格的 stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526477" label="强健的马佐格的 stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526478" label="劣质马佐格的蛮兵" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526479" label="劣质马佐格的蛮兵" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526480" label="劣质马佐格的蛮兵" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526481" label="劣质马佐格的蛮兵" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526482" label="杜尔汉酒桶大师" category="71" did="1879176187" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526483" label="杜尔汉酒桶大师" category="71" did="1879176187" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526484" label="劣质马佐格的投石手" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526485" label="劣质马佐格的投石手" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526486" label="劣质马佐格的投石手" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526487" label="劣质马佐格的投石手" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526488" label="杜尔汉风暴守护者" category="71" did="1879176186" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526489" label="杜尔汉风暴守护者" category="71" did="1879176186" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526490" label="强健的马佐格的战士" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526491" label="强健的马佐格的战士" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526492" label="强健的马佐格的战士" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526493" label="强健的马佐格的战士" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526494" label="巨魔掩护者" category="71" did="1879176190" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526495" label="巨魔掩护者" category="71" did="1879176190" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526496" label="强健的马佐格的旗手" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.1575" latitude="50.380154"/>
+<marker id="551526497" label="强健的马佐格的旗手" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.1575" latitude="50.387478"/>
+<marker id="551526498" label="强健的马佐格的旗手" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.1575" latitude="50.394"/>
+<marker id="551526499" label="强健的马佐格的旗手" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.1575" latitude="50.400528"/>
+<marker id="551526592" label="强健的马佐格的战士" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526593" label="日行者狂战士" category="71" did="1879160125" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526594" label="强健的马佐格的旗手" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526595" label="巨魔掩护者" category="71" did="1879176190" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526596" label="劣质马佐格的战士" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526597" label="疫病持有者" category="71" did="1879154113" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526598" label="死亡回响" category="71" did="1879160133" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526599" label="劣质马佐格的旗手" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526600" label="强健的马佐格的弓箭手" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526601" label="劣质马佐格的弓箭手" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526602" label="强健的马佐格的中尉" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526603" label="劣质马佐格的中尉" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526604" label="痛苦狂热者" category="71" did="1879154075" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526605" label="劣质马佐格的守卫召唤者" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526606" label="强健的马佐格的 ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526607" label="死亡贩子" category="71" did="1879154012" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526608" label="毒血箭手" category="71" did="1879154079" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526609" label="劣质马佐格的散兵" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526610" label="苍白捕猎者" category="71" did="1879176167" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526611" label="强健的马佐格的 skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526612" label="强健的马佐格的破碎机" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526613" label="劣质马佐格的粉碎者" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526614" label="强健的马佐格的 brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526615" label="邪恶守护者" category="71" did="1879154031" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526616" label="强健的马佐格的 stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526617" label="森林之子掠夺者" category="71" did="1879160181" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526618" label="血鸦" category="71" did="1879160121" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526619" label="劣质马佐格的蛮兵" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526620" label="杜尔汉酒桶大师" category="71" did="1879176187" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526621" label="劣质马佐格的投石手" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526622" label="污秽牧者" category="71" did="1879154042" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526623" label="杜尔汉风暴守护者" category="71" did="1879176186" parentZoneId="1879198510" longitude="-134.15683" latitude="50.41086"/>
+<marker id="551526628" label="劣质马佐格的战士" category="71" did="1879196162" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526629" label="疫病持有者" category="71" did="1879154113" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526630" label="死亡回响" category="71" did="1879160133" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526631" label="劣质马佐格的旗手" category="71" did="1879196165" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526632" label="强健的马佐格的弓箭手" category="71" did="1879196171" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526633" label="劣质马佐格的弓箭手" category="71" did="1879196169" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526634" label="强健的马佐格的中尉" category="71" did="1879196122" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526635" label="劣质马佐格的中尉" category="71" did="1879196123" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526636" label="痛苦狂热者" category="71" did="1879154075" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526637" label="劣质马佐格的守卫召唤者" category="71" did="1879196120" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526638" label="强健的马佐格的 ward-caller" category="71" did="1879196126" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526639" label="死亡贩子" category="71" did="1879154012" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526640" label="毒血箭手" category="71" did="1879154079" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526641" label="劣质马佐格的散兵" category="71" did="1879196131" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526642" label="苍白捕猎者" category="71" did="1879176167" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526643" label="强健的马佐格的 skirmisher" category="71" did="1879196132" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526644" label="强健的马佐格的破碎机" category="71" did="1879196138" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526645" label="劣质马佐格的粉碎者" category="71" did="1879196142" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526646" label="强健的马佐格的 brute" category="71" did="1879196143" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526647" label="邪恶守护者" category="71" did="1879154031" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526648" label="强健的马佐格的 stoneheaver" category="71" did="1879196140" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526649" label="森林之子掠夺者" category="71" did="1879160181" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526650" label="血鸦" category="71" did="1879160121" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526651" label="劣质马佐格的蛮兵" category="71" did="1879196154" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526652" label="杜尔汉酒桶大师" category="71" did="1879176187" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526653" label="劣质马佐格的投石手" category="71" did="1879196152" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526654" label="污秽牧者" category="71" did="1879154042" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526655" label="杜尔汉风暴守护者" category="71" did="1879176186" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526656" label="强健的马佐格的战士" category="71" did="1879196158" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526657" label="日行者狂战士" category="71" did="1879160125" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526658" label="强健的马佐格的旗手" category="71" did="1879196157" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
+<marker id="551526659" label="巨魔掩护者" category="71" did="1879176190" parentZoneId="1879198510" longitude="-134.15733" latitude="50.402733"/>
 </markers>

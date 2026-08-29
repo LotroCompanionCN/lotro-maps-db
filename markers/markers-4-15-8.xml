@@ -1,136 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="1334448128" label="Nauriel" category="70" did="1879464775" parentZoneId="1879470591" longitude="53.20041" latitude="-21.272108"/>
-<marker id="1334448129" label="Thorongil" category="70" did="1879464765" parentZoneId="1879470591" longitude="53.22906" latitude="-20.95415"/>
-<marker id="1334448130" label="Orgolas" category="70" did="1879464761" parentZoneId="1879470591" longitude="53.24125" latitude="-20.977587"/>
-<marker id="1334448131" label="Daeram" category="70" did="1879464749" parentZoneId="1879470593" longitude="53.173378" latitude="-21.324892"/>
-<marker id="1334448132" label="King Elessar" category="70" did="1879464751" parentZoneId="1879470591" longitude="53.198242" latitude="-21.242666"/>
-<marker id="1334448133" label="Nauriel" category="70" did="1879464767" parentZoneId="1879470591" longitude="53.20125" latitude="-21.261356"/>
-<marker id="1334448134" label="King Elessar" category="70" did="1879464772" parentZoneId="1879470591" longitude="53.218513" latitude="-21.246796"/>
-<marker id="1334448135" label="Nauriel" category="70" did="1879466542" parentZoneId="1879470591" longitude="53.194275" latitude="-21.260605"/>
-<marker id="1334448136" label="Carandolion" category="70" did="1879466540" parentZoneId="1879470592" longitude="53.203865" latitude="-21.20541"/>
-<marker id="1334448137" label="Door" category="100" did="1879139137" parentZoneId="1879470593" longitude="53.34496" latitude="-21.160957"/>
-<marker id="1334448138" label="Door" category="100" did="1879139137" parentZoneId="1879470593" longitude="53.064823" latitude="-21.156464"/>
-<marker id="1334448139" label="Door" category="100" did="1879139137" parentZoneId="1879470593" longitude="53.12953" latitude="-21.322557"/>
-<marker id="1334448140" label="Door" category="100" did="1879139137" parentZoneId="1879470592" longitude="53.106308" latitude="-21.12291"/>
-<marker id="1334448141" label="Door" category="100" did="1879139137" parentZoneId="1879470592" longitude="53.23584" latitude="-21.136766"/>
-<marker id="1334448142" label="Door" category="100" did="1879139137" parentZoneId="1879470592" longitude="53.28174" latitude="-21.178524"/>
-<marker id="1334448143" label="Door" category="100" did="1879139137" parentZoneId="1879470592" longitude="53.2483" latitude="-21.221445"/>
-<marker id="1334448144" label="Door" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.2724" latitude="-21.099394"/>
-<marker id="1334448145" label="Door" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.127598" latitude="-21.099394"/>
-<marker id="1334448146" label="Door" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.2724" latitude="-21.326307"/>
-<marker id="1334448147" label="Door" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.128906" latitude="-21.324013"/>
-<marker id="1334448148" label="Door" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.161934" latitude="-21.033485"/>
-<marker id="1334448149" label="Door" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.247696" latitude="-20.936337"/>
-<marker id="1334448150" label="Door" category="100" did="1879227953" parentZoneId="1879470591" longitude="53.20113" latitude="-21.359892"/>
-<marker id="1334448151" label="Door" category="100" did="1879227953" parentZoneId="1879470593" longitude="53.19994" latitude="-20.8329"/>
-<marker id="1334448154" label="Nauriel's Sword" category="73" did="1879466574" parentZoneId="1879470592" longitude="53.20486" latitude="-21.131426"/>
-<marker id="1334448155" label="Nauriel's Shield" category="73" did="1879466579" parentZoneId="1879470592" longitude="53.19758" latitude="-21.131952"/>
-<marker id="1334448158" label="Orgolas" category="70" did="1879464745" parentZoneId="1879470591" longitude="53.211933" latitude="-21.236748"/>
-<marker id="1334448164" label="Queen Arwen" category="70" did="1879460931" parentZoneId="1879470591" longitude="53.216034" latitude="-21.237274"/>
-<marker id="1334448165" label="Queen Arwen" category="70" did="1879460931" parentZoneId="1879470591" longitude="53.20484" latitude="-21.238417"/>
-<marker id="1334464515" label="Door" category="100" did="1879139137" parentZoneId="1879469852" longitude="53.212322" latitude="-18.047226"/>
-<marker id="1334464520" label="Gimli" category="70" did="1879460502" parentZoneId="1879469852" longitude="53.25904" latitude="-18.03254"/>
-<marker id="1334464522" label="King Elessar" category="70" did="1879460497" parentZoneId="1879469852" longitude="53.29121" latitude="-18.056221"/>
-<marker id="1334464523" label="Caebar" category="70" did="1879460467" parentZoneId="1879469852" longitude="53.2916" latitude="-18.036268"/>
-<marker id="1334472707" label="Door" category="100" did="1879139137" parentZoneId="1879469853" longitude="53.21033" latitude="-16.44792"/>
-<marker id="1334472711" label="Gimli" category="70" did="1879460938" parentZoneId="1879469853" longitude="53.256348" latitude="-16.461552"/>
-<marker id="1334472712" label="Asitám" category="70" did="1879460449" parentZoneId="1879469853" longitude="53.299454" latitude="-16.479013"/>
-<marker id="1334472713" label="Gangur Farwend" category="70" did="1879460463" parentZoneId="1879469853" longitude="53.38881" latitude="-16.403456"/>
-<marker id="1334472714" label="Shegai" category="70" did="1879470353" parentZoneId="1879469853" longitude="53.27459" latitude="-16.428827"/>
-<marker id="1334480896" label="Gúlkhu" category="70" did="1879460495" parentZoneId="1879469854" longitude="53.1641" latitude="-14.777646"/>
-<marker id="1334480898" label="Door" category="100" did="1879139137" parentZoneId="1879469854" longitude="53.200176" latitude="-14.835116"/>
-<marker id="1334480902" label="Gimli" category="70" did="1879460938" parentZoneId="1879469854" longitude="53.219296" latitude="-14.788398"/>
-<marker id="1334480904" label="Zadók" category="70" did="1879470352" parentZoneId="1879469854" longitude="53.210194" latitude="-14.713759"/>
-<marker id="1334480906" label="Wooden Planks" category="73" did="1879470354" parentZoneId="1879469854" longitude="53.157497" latitude="-14.767949"/>
-<marker id="1334489090" label="King Elessar" category="70" did="1879460471" parentZoneId="1879469855" longitude="53.04357" latitude="-13.198779"/>
-<marker id="1334489091" label="Door" category="100" did="1879139137" parentZoneId="1879469855" longitude="53.400642" latitude="-13.200937"/>
-<marker id="1334489092" label="Mulúgu" category="70" did="1879470351" parentZoneId="1879469855" longitude="53.306503" latitude="-13.228339"/>
-<marker id="1334489096" label="Caebar" category="70" did="1879460923" parentZoneId="1879469855" longitude="53.04781" latitude="-13.197294"/>
-<marker id="1334489097" label="Caebar" category="70" did="1879460923" parentZoneId="1879469855" longitude="53.046387" latitude="-13.210703"/>
-<marker id="1334489098" label="Gimli" category="70" did="1879460938" parentZoneId="1879469855" longitude="53.043884" latitude="-13.186816"/>
-<marker id="1334489099" label="Gimli" category="70" did="1879460938" parentZoneId="1879469855" longitude="53.04484" latitude="-13.190449"/>
-<marker id="1334489102" label="Hámisar" category="70" did="1879460460" parentZoneId="1879469855" longitude="53.00914" latitude="-13.200419"/>
-<marker id="1334489103" label="King Elessar" category="70" did="1879460492" parentZoneId="1879469855" longitude="53.04379" latitude="-13.205684"/>
-<marker id="1334579202" label="Jajax" category="70" did="1879460925" parentZoneId="1879464792" longitude="54.977264" latitude="-21.206972"/>
-<marker id="1334579203" label="King Elessar" category="70" did="1879460950" parentZoneId="1879464792" longitude="54.977364" latitude="-21.229258"/>
-<marker id="1334579204" label="Jajax" category="70" did="1879460937" parentZoneId="1879464792" longitude="54.976875" latitude="-21.214384"/>
-<marker id="1334579206" label="Dorthaneth" category="70" did="1879466691" parentZoneId="1879464792" longitude="54.974724" latitude="-21.205498"/>
-<marker id="1334579207" label="Rossaran" category="70" did="1879466698" parentZoneId="1879464792" longitude="54.982048" latitude="-21.274921"/>
-<marker id="1334579208" label="King Elessar" category="70" did="1879466693" parentZoneId="1879464792" longitude="54.968964" latitude="-21.252178"/>
-<marker id="1334579209" label="Queen Arwen" category="70" did="1879466696" parentZoneId="1879464792" longitude="54.98338" latitude="-21.251493"/>
-<marker id="1334579210" label="Roamingstar" category="70" did="1879466695" parentZoneId="1879464792" longitude="54.975506" latitude="-21.235643"/>
-<marker id="1334579211" label="Door" category="100" did="1879227952" parentZoneId="1879464792" longitude="54.976406" latitude="-21.624092"/>
-<marker id="1334579212" label="Jajax" category="70" did="1879466195" parentZoneId="1879464792" longitude="54.976677" latitude="-21.215586"/>
-<marker id="1334579213" label="Lothíriel" category="70" did="1879465815" parentZoneId="1879464792" longitude="54.971462" latitude="-21.181992"/>
-<marker id="1334579214" label="Prince Imrahil" category="70" did="1879460480" parentZoneId="1879464792" longitude="54.97785" latitude="-21.185791"/>
-<marker id="1334579215" label="Captain Maeral" category="70" did="1879460927" parentZoneId="1879464792" longitude="54.98291" latitude="-21.215517"/>
-<marker id="1334579219" label="Elf of the Avorrim" category="70" did="1879466694" parentZoneId="1879464792" longitude="54.967224" latitude="-21.208212"/>
-<marker id="1334579221" label="Elf of the Avorrim" category="70" did="1879466692" parentZoneId="1879464792" longitude="54.97148" latitude="-21.20124"/>
-<marker id="1334579223" label="Place for Bowl of Water" category="73" did="1879466690" parentZoneId="1879464792" longitude="54.975643" latitude="-21.236162"/>
-<marker id="1334579225" label="Prince Imrahil" category="70" did="1879466689" parentZoneId="1879464792" longitude="54.977596" latitude="-21.182655"/>
-<marker id="1334579226" label="Prince Imrahil" category="70" did="1879466689" parentZoneId="1879464792" longitude="54.977127" latitude="-21.178535"/>
-<marker id="1334579228" label="Lothíriel" category="70" did="1879466699" parentZoneId="1879464792" longitude="54.98209" latitude="-21.202002"/>
-<marker id="1334579230" label="Herald of Dol Amroth" category="70" did="1879466697" parentZoneId="1879464792" longitude="54.977146" latitude="-21.2425"/>
-<marker id="1334587397" label="Door" category="100" did="1879227953" parentZoneId="1879464793" longitude="54.918083" latitude="-19.329794"/>
-<marker id="1334587402" label="Celudir" category="70" did="1879465816" parentZoneId="1879464793" longitude="54.691875" latitude="-19.670536"/>
-<marker id="1334587404" label="Brithben" category="70" did="1879465798" parentZoneId="1879464793" longitude="54.86539" latitude="-19.448477"/>
-<marker id="1334587405" label="Gloril" category="70" did="1879465803" parentZoneId="1879464793" longitude="54.910995" latitude="-19.756786"/>
-<marker id="1334587406" label="Ríaneth" category="70" did="1879465787" parentZoneId="1879464793" longitude="55.061443" latitude="-19.636318"/>
-<marker id="1334587407" label="Nennion" category="70" did="1879465793" parentZoneId="1879464793" longitude="55.111874" latitude="-19.509813"/>
-<marker id="1334611969" label="Currency Exchange" category="58" did="1879313747" parentZoneId="1879464796" longitude="54.824745" latitude="-14.797168"/>
-<marker id="1334611970" label="Cosmetics" category="58" did="1879313756" parentZoneId="1879464796" longitude="54.730408" latitude="-14.811835"/>
-<marker id="1334611971" label="Crafting" category="58" did="1879313763" parentZoneId="1879464796" longitude="54.76117" latitude="-14.800722"/>
-<marker id="1334611972" label="Curiosities" category="58" did="1879313751" parentZoneId="1879464796" longitude="54.72955" latitude="-14.8004875"/>
-<marker id="1334611973" label="Provisioner" category="58" did="1879313744" parentZoneId="1879464796" longitude="54.75367" latitude="-14.821318"/>
-<marker id="1334611974" label="Heavy Armour" category="58" did="1879313742" parentZoneId="1879464796" longitude="54.8515" latitude="-14.7498045"/>
-<marker id="1334611976" label="Light Armour" category="58" did="1879313755" parentZoneId="1879464796" longitude="54.85697" latitude="-14.733525"/>
-<marker id="1334611977" label="Medium Armour" category="58" did="1879313762" parentZoneId="1879464796" longitude="54.865723" latitude="-14.74747"/>
-<marker id="1334611978" label="Weapons" category="58" did="1879313753" parentZoneId="1879464796" longitude="54.8557" latitude="-14.7774315"/>
-<marker id="1334611979" label="Skirmish Captain&#10;Orma" category="58" did="1879313739" parentZoneId="1879464796" longitude="54.770233" latitude="-14.772206"/>
-<marker id="1334611980" label="Skirmish Trainer" category="58" did="1879313738" parentZoneId="1879464796" longitude="54.788475" latitude="-14.773749"/>
-<marker id="1334611981" label="Door" category="100" did="1879227953" parentZoneId="1879464796" longitude="54.854824" latitude="-14.607431"/>
-<marker id="1334611982" label="Jewellery and Cloaks" category="58" did="1879313740" parentZoneId="1879464796" longitude="54.880234" latitude="-14.777676"/>
-<marker id="1334611983" label="Classic" category="58" did="1879313741" parentZoneId="1879464796" longitude="54.796833" latitude="-14.805614"/>
-<marker id="1334620160" label="Study" category="45" did="1879314747" parentZoneId="1879464797" longitude="54.733143" latitude="-13.204307"/>
-<marker id="1334620161" label="Study" category="45" did="1879314747" parentZoneId="1879464797" longitude="54.733143" latitude="-13.088554"/>
-<marker id="1334620162" label="Improved Recipes&#10;Woodworker's Guild" category="33" did="1879313731" parentZoneId="1879464797" longitude="54.81455" latitude="-13.316484"/>
-<marker id="1334620163" label="Guild Leader&#10;Woodworker's Guild" category="58" did="1879313724" parentZoneId="1879464797" longitude="54.819355" latitude="-13.310752"/>
-<marker id="1334620164" label="Legendary Recipes&#10;Woodworker's Guild" category="33" did="1879313730" parentZoneId="1879464797" longitude="54.822205" latitude="-13.31831"/>
-<marker id="1334620165" label="Improved Recipes&#10;Weaponsmith's Guild" category="33" did="1879313726" parentZoneId="1879464797" longitude="54.703728" latitude="-12.987676"/>
-<marker id="1334620166" label="Guild Leader&#10;Weaponsmith's Guild" category="58" did="1879313718" parentZoneId="1879464797" longitude="54.698223" latitude="-12.980449"/>
-<marker id="1334620167" label="Legendary Recipes&#10;Weaponsmith's Guild" category="33" did="1879313721" parentZoneId="1879464797" longitude="54.71662" latitude="-12.984345"/>
-<marker id="1334620168" label="Improved Recipes&#10;Tailor's Guild" category="33" did="1879313725" parentZoneId="1879464797" longitude="54.828613" latitude="-12.984648"/>
-<marker id="1334620169" label="Guild Leader&#10;Tailor's Guild" category="58" did="1879313712" parentZoneId="1879464797" longitude="54.83408" latitude="-12.978408"/>
-<marker id="1334620170" label="Legendary Recipes&#10;Tailor's Guild" category="33" did="1879313719" parentZoneId="1879464797" longitude="54.83947" latitude="-12.984648"/>
-<marker id="1334620171" label="Improved Recipes&#10;Scholar's Guild" category="33" did="1879313715" parentZoneId="1879464797" longitude="54.944004" latitude="-13.161133"/>
-<marker id="1334620172" label="Guild Leader&#10;Scholar's Guild" category="58" did="1879313728" parentZoneId="1879464797" longitude="54.944824" latitude="-13.152734"/>
-<marker id="1334620173" label="Legendary Recipes&#10;Scholar's Guild" category="33" did="1879313713" parentZoneId="1879464797" longitude="54.95238" latitude="-13.157929"/>
-<marker id="1334620174" label="Improved Recipes&#10;Metalsmith's Guild" category="33" did="1879313722" parentZoneId="1879464797" longitude="54.594666" latitude="-12.985186"/>
-<marker id="1334620175" label="Guild Leader&#10;Metalsmith's Guild" category="58" did="1879313723" parentZoneId="1879464797" longitude="54.61861" latitude="-12.981884"/>
-<marker id="1334620176" label="Legendary Recipes&#10;Metalsmith's Guild" category="33" did="1879313716" parentZoneId="1879464797" longitude="54.61113" latitude="-12.977197"/>
-<marker id="1334620177" label="Improved Recipes&#10;Jeweller's Guild" category="33" did="1879313732" parentZoneId="1879464797" longitude="54.61672" latitude="-13.319023"/>
-<marker id="1334620178" label="Guild Leader&#10;Jeweller's Guild" category="58" did="1879313729" parentZoneId="1879464797" longitude="54.613846" latitude="-13.308887"/>
-<marker id="1334620179" label="Legendary Recipes&#10;Jeweller's Guild" category="33" did="1879313727" parentZoneId="1879464797" longitude="54.623104" latitude="-13.321074"/>
-<marker id="1334620180" label="Improved Recipes&#10;Cook's Guild" category="33" did="1879313714" parentZoneId="1879464797" longitude="54.715134" latitude="-13.30875"/>
-<marker id="1334620181" label="Guild Leader&#10;Cook's Guild" category="58" did="1879313717" parentZoneId="1879464797" longitude="54.728985" latitude="-13.305351"/>
-<marker id="1334620182" label="Legendary Recipes&#10;Cook's Guild" category="33" did="1879313720" parentZoneId="1879464797" longitude="54.723984" latitude="-13.31245"/>
-<marker id="1334620183" label="Mistress of Apprentices" category="42" did="1879451839" parentZoneId="1879464797" longitude="54.63248" latitude="-13.1654005"/>
-<marker id="1334620184" label="Lore-master Trainer" category="42" did="1879313189" parentZoneId="1879464797" longitude="54.676033" latitude="-13.420039"/>
-<marker id="1334620186" label="Minstrel Trainer" category="42" did="1879313218" parentZoneId="1879464797" longitude="54.666542" latitude="-12.884395"/>
-<marker id="1334620187" label="Naremil" category="70" did="1879465813" parentZoneId="1879464797" longitude="54.916443" latitude="-13.100439"/>
-<marker id="1334620188" label="Nosseth" category="70" did="1879465806" parentZoneId="1879464797" longitude="54.752537" latitude="-13.447178"/>
-<marker id="1334620189" label="Door" category="100" did="1879157895" parentZoneId="1879464797" longitude="54.387207" latitude="-13.145722"/>
-<marker id="1334620190" label="Rune-keeper Trainer" category="42" did="1879405374" parentZoneId="1879464797" longitude="54.872734" latitude="-12.865352"/>
-<marker id="1334620193" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.81088" latitude="-13.423115"/>
-<marker id="1334620194" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.664707" latitude="-13.484726"/>
-<marker id="1334620195" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.594627" latitude="-13.302656"/>
-<marker id="1334620196" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.515427" latitude="-13.4847555"/>
-<marker id="1334620197" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.668182" latitude="-13.484482"/>
-<marker id="1334620198" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.636932" latitude="-13.405468"/>
-<marker id="1334620199" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.910564" latitude="-13.424443"/>
-<marker id="1334620200" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.968533" latitude="-13.379883"/>
-<marker id="1334620201" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.968533" latitude="-13.232139"/>
-<marker id="1334620202" label="Book on Rohan" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.752968" latitude="-13.415537"/>
+<marker id="1334448128" label="诺瑞尔（Nauriel）" category="70" did="1879464775" parentZoneId="1879470591" longitude="53.20041" latitude="-21.272108"/>
+<marker id="1334448129" label="索隆吉尔" category="70" did="1879464765" parentZoneId="1879470591" longitude="53.22906" latitude="-20.95415"/>
+<marker id="1334448130" label="奥兰多拉斯（Orgolas）" category="70" did="1879464761" parentZoneId="1879470591" longitude="53.24125" latitude="-20.977587"/>
+<marker id="1334448131" label="戴尔拉姆" category="70" did="1879464749" parentZoneId="1879470593" longitude="53.173378" latitude="-21.324892"/>
+<marker id="1334448132" label="埃莱萨王（King Elessar）" category="70" did="1879464751" parentZoneId="1879470591" longitude="53.198242" latitude="-21.242666"/>
+<marker id="1334448133" label="诺瑞尔（Nauriel）" category="70" did="1879464767" parentZoneId="1879470591" longitude="53.20125" latitude="-21.261356"/>
+<marker id="1334448134" label="埃莱萨王（King Elessar）" category="70" did="1879464772" parentZoneId="1879470591" longitude="53.218513" latitude="-21.246796"/>
+<marker id="1334448135" label="诺瑞尔（Nauriel）" category="70" did="1879466542" parentZoneId="1879470591" longitude="53.194275" latitude="-21.260605"/>
+<marker id="1334448136" label="卡兰多利昂" category="70" did="1879466540" parentZoneId="1879470592" longitude="53.203865" latitude="-21.20541"/>
+<marker id="1334448137" label="门" category="100" did="1879139137" parentZoneId="1879470593" longitude="53.34496" latitude="-21.160957"/>
+<marker id="1334448138" label="门" category="100" did="1879139137" parentZoneId="1879470593" longitude="53.064823" latitude="-21.156464"/>
+<marker id="1334448139" label="门" category="100" did="1879139137" parentZoneId="1879470593" longitude="53.12953" latitude="-21.322557"/>
+<marker id="1334448140" label="门" category="100" did="1879139137" parentZoneId="1879470592" longitude="53.106308" latitude="-21.12291"/>
+<marker id="1334448141" label="门" category="100" did="1879139137" parentZoneId="1879470592" longitude="53.23584" latitude="-21.136766"/>
+<marker id="1334448142" label="门" category="100" did="1879139137" parentZoneId="1879470592" longitude="53.28174" latitude="-21.178524"/>
+<marker id="1334448143" label="门" category="100" did="1879139137" parentZoneId="1879470592" longitude="53.2483" latitude="-21.221445"/>
+<marker id="1334448144" label="门" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.2724" latitude="-21.099394"/>
+<marker id="1334448145" label="门" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.127598" latitude="-21.099394"/>
+<marker id="1334448146" label="门" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.2724" latitude="-21.326307"/>
+<marker id="1334448147" label="门" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.128906" latitude="-21.324013"/>
+<marker id="1334448148" label="门" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.161934" latitude="-21.033485"/>
+<marker id="1334448149" label="门" category="100" did="1879139137" parentZoneId="1879470591" longitude="53.247696" latitude="-20.936337"/>
+<marker id="1334448150" label="门" category="100" did="1879227953" parentZoneId="1879470591" longitude="53.20113" latitude="-21.359892"/>
+<marker id="1334448151" label="门" category="100" did="1879227953" parentZoneId="1879470593" longitude="53.19994" latitude="-20.8329"/>
+<marker id="1334448154" label="诺瑞尔（Nauriel）的剑" category="73" did="1879466574" parentZoneId="1879470592" longitude="53.20486" latitude="-21.131426"/>
+<marker id="1334448155" label="诺瑞尔（Nauriel）的盾牌" category="73" did="1879466579" parentZoneId="1879470592" longitude="53.19758" latitude="-21.131952"/>
+<marker id="1334448158" label="奥兰多拉斯（Orgolas）" category="70" did="1879464745" parentZoneId="1879470591" longitude="53.211933" latitude="-21.236748"/>
+<marker id="1334448164" label="阿尔玟王后" category="70" did="1879460931" parentZoneId="1879470591" longitude="53.216034" latitude="-21.237274"/>
+<marker id="1334448165" label="阿尔玟王后" category="70" did="1879460931" parentZoneId="1879470591" longitude="53.20484" latitude="-21.238417"/>
+<marker id="1334464515" label="门" category="100" did="1879139137" parentZoneId="1879469852" longitude="53.212322" latitude="-18.047226"/>
+<marker id="1334464520" label="吉姆利" category="70" did="1879460502" parentZoneId="1879469852" longitude="53.25904" latitude="-18.03254"/>
+<marker id="1334464522" label="埃莱萨王（King Elessar）" category="70" did="1879460497" parentZoneId="1879469852" longitude="53.29121" latitude="-18.056221"/>
+<marker id="1334464523" label="凯巴尔" category="70" did="1879460467" parentZoneId="1879469852" longitude="53.2916" latitude="-18.036268"/>
+<marker id="1334472707" label="门" category="100" did="1879139137" parentZoneId="1879469853" longitude="53.21033" latitude="-16.44792"/>
+<marker id="1334472711" label="吉姆利" category="70" did="1879460938" parentZoneId="1879469853" longitude="53.256348" latitude="-16.461552"/>
+<marker id="1334472712" label="阿西塔姆" category="70" did="1879460449" parentZoneId="1879469853" longitude="53.299454" latitude="-16.479013"/>
+<marker id="1334472713" label="甘古尔·法温德" category="70" did="1879460463" parentZoneId="1879469853" longitude="53.38881" latitude="-16.403456"/>
+<marker id="1334472714" label="舍盖" category="70" did="1879470353" parentZoneId="1879469853" longitude="53.27459" latitude="-16.428827"/>
+<marker id="1334480896" label="古尔库" category="70" did="1879460495" parentZoneId="1879469854" longitude="53.1641" latitude="-14.777646"/>
+<marker id="1334480898" label="门" category="100" did="1879139137" parentZoneId="1879469854" longitude="53.200176" latitude="-14.835116"/>
+<marker id="1334480902" label="吉姆利" category="70" did="1879460938" parentZoneId="1879469854" longitude="53.219296" latitude="-14.788398"/>
+<marker id="1334480904" label="扎多克" category="70" did="1879470352" parentZoneId="1879469854" longitude="53.210194" latitude="-14.713759"/>
+<marker id="1334480906" label="木板" category="73" did="1879470354" parentZoneId="1879469854" longitude="53.157497" latitude="-14.767949"/>
+<marker id="1334489090" label="埃莱萨王（King Elessar）" category="70" did="1879460471" parentZoneId="1879469855" longitude="53.04357" latitude="-13.198779"/>
+<marker id="1334489091" label="门" category="100" did="1879139137" parentZoneId="1879469855" longitude="53.400642" latitude="-13.200937"/>
+<marker id="1334489092" label="穆卢古" category="70" did="1879470351" parentZoneId="1879469855" longitude="53.306503" latitude="-13.228339"/>
+<marker id="1334489096" label="凯巴尔" category="70" did="1879460923" parentZoneId="1879469855" longitude="53.04781" latitude="-13.197294"/>
+<marker id="1334489097" label="凯巴尔" category="70" did="1879460923" parentZoneId="1879469855" longitude="53.046387" latitude="-13.210703"/>
+<marker id="1334489098" label="吉姆利" category="70" did="1879460938" parentZoneId="1879469855" longitude="53.043884" latitude="-13.186816"/>
+<marker id="1334489099" label="吉姆利" category="70" did="1879460938" parentZoneId="1879469855" longitude="53.04484" latitude="-13.190449"/>
+<marker id="1334489102" label="哈米萨尔" category="70" did="1879460460" parentZoneId="1879469855" longitude="53.00914" latitude="-13.200419"/>
+<marker id="1334489103" label="埃莱萨王（King Elessar）" category="70" did="1879460492" parentZoneId="1879469855" longitude="53.04379" latitude="-13.205684"/>
+<marker id="1334579202" label="贾亚克斯" category="70" did="1879460925" parentZoneId="1879464792" longitude="54.977264" latitude="-21.206972"/>
+<marker id="1334579203" label="埃莱萨王（King Elessar）" category="70" did="1879460950" parentZoneId="1879464792" longitude="54.977364" latitude="-21.229258"/>
+<marker id="1334579204" label="贾亚克斯" category="70" did="1879460937" parentZoneId="1879464792" longitude="54.976875" latitude="-21.214384"/>
+<marker id="1334579206" label="多珊妮丝" category="70" did="1879466691" parentZoneId="1879464792" longitude="54.974724" latitude="-21.205498"/>
+<marker id="1334579207" label="罗萨兰（Rossaran）" category="70" did="1879466698" parentZoneId="1879464792" longitude="54.982048" latitude="-21.274921"/>
+<marker id="1334579208" label="埃莱萨王（King Elessar）" category="70" did="1879466693" parentZoneId="1879464792" longitude="54.968964" latitude="-21.252178"/>
+<marker id="1334579209" label="阿尔玟王后" category="70" did="1879466696" parentZoneId="1879464792" longitude="54.98338" latitude="-21.251493"/>
+<marker id="1334579210" label="漫游之星（Roamingstar）" category="70" did="1879466695" parentZoneId="1879464792" longitude="54.975506" latitude="-21.235643"/>
+<marker id="1334579211" label="门" category="100" did="1879227952" parentZoneId="1879464792" longitude="54.976406" latitude="-21.624092"/>
+<marker id="1334579212" label="贾亚克斯" category="70" did="1879466195" parentZoneId="1879464792" longitude="54.976677" latitude="-21.215586"/>
+<marker id="1334579213" label="洛希瑞尔" category="70" did="1879465815" parentZoneId="1879464792" longitude="54.971462" latitude="-21.181992"/>
+<marker id="1334579214" label="伊姆拉希尔王子" category="70" did="1879460480" parentZoneId="1879464792" longitude="54.97785" latitude="-21.185791"/>
+<marker id="1334579215" label="麦拉尔旗手" category="70" did="1879460927" parentZoneId="1879464792" longitude="54.98291" latitude="-21.215517"/>
+<marker id="1334579219" label="阿沃林精灵" category="70" did="1879466694" parentZoneId="1879464792" longitude="54.967224" latitude="-21.208212"/>
+<marker id="1334579221" label="阿沃林精灵" category="70" did="1879466692" parentZoneId="1879464792" longitude="54.97148" latitude="-21.20124"/>
+<marker id="1334579223" label="放置一碗水的位置" category="73" did="1879466690" parentZoneId="1879464792" longitude="54.975643" latitude="-21.236162"/>
+<marker id="1334579225" label="伊姆拉希尔王子" category="70" did="1879466689" parentZoneId="1879464792" longitude="54.977596" latitude="-21.182655"/>
+<marker id="1334579226" label="伊姆拉希尔王子" category="70" did="1879466689" parentZoneId="1879464792" longitude="54.977127" latitude="-21.178535"/>
+<marker id="1334579228" label="洛希尔" category="70" did="1879466699" parentZoneId="1879464792" longitude="54.98209" latitude="-21.202002"/>
+<marker id="1334579230" label="多阿姆洛斯传令官" category="70" did="1879466697" parentZoneId="1879464792" longitude="54.977146" latitude="-21.2425"/>
+<marker id="1334587397" label="门" category="100" did="1879227953" parentZoneId="1879464793" longitude="54.918083" latitude="-19.329794"/>
+<marker id="1334587402" label="凯鲁迪尔" category="70" did="1879465816" parentZoneId="1879464793" longitude="54.691875" latitude="-19.670536"/>
+<marker id="1334587404" label="布里森本" category="70" did="1879465798" parentZoneId="1879464793" longitude="54.86539" latitude="-19.448477"/>
+<marker id="1334587405" label="格洛丽尔" category="70" did="1879465803" parentZoneId="1879464793" longitude="54.910995" latitude="-19.756786"/>
+<marker id="1334587406" label="瑞安尼斯" category="70" did="1879465787" parentZoneId="1879464793" longitude="55.061443" latitude="-19.636318"/>
+<marker id="1334587407" label="奈尼昂" category="70" did="1879465793" parentZoneId="1879464793" longitude="55.111874" latitude="-19.509813"/>
+<marker id="1334611969" label="货币兑换" category="58" did="1879313747" parentZoneId="1879464796" longitude="54.824745" latitude="-14.797168"/>
+<marker id="1334611970" label="外观" category="58" did="1879313756" parentZoneId="1879464796" longitude="54.730408" latitude="-14.811835"/>
+<marker id="1334611971" label="锻造&#10;制作" category="58" did="1879313763" parentZoneId="1879464796" longitude="54.76117" latitude="-14.800722"/>
+<marker id="1334611972" label="奇物" category="58" did="1879313751" parentZoneId="1879464796" longitude="54.72955" latitude="-14.8004875"/>
+<marker id="1334611973" label="补给商" category="58" did="1879313744" parentZoneId="1879464796" longitude="54.75367" latitude="-14.821318"/>
+<marker id="1334611974" label="重型护甲" category="58" did="1879313742" parentZoneId="1879464796" longitude="54.8515" latitude="-14.7498045"/>
+<marker id="1334611976" label="轻型护甲" category="58" did="1879313755" parentZoneId="1879464796" longitude="54.85697" latitude="-14.733525"/>
+<marker id="1334611977" label="中型护甲" category="58" did="1879313762" parentZoneId="1879464796" longitude="54.865723" latitude="-14.74747"/>
+<marker id="1334611978" label="武器" category="58" did="1879313753" parentZoneId="1879464796" longitude="54.8557" latitude="-14.7774315"/>
+<marker id="1334611979" label="对战队长&#10;奥尔玛" category="58" did="1879313739" parentZoneId="1879464796" longitude="54.770233" latitude="-14.772206"/>
+<marker id="1334611980" label="对战训练师" category="58" did="1879313738" parentZoneId="1879464796" longitude="54.788475" latitude="-14.773749"/>
+<marker id="1334611981" label="门" category="100" did="1879227953" parentZoneId="1879464796" longitude="54.854824" latitude="-14.607431"/>
+<marker id="1334611982" label="珠宝与斗篷&#10;珠宝与披风" category="58" did="1879313740" parentZoneId="1879464796" longitude="54.880234" latitude="-14.777676"/>
+<marker id="1334611983" label="经典" category="58" did="1879313741" parentZoneId="1879464796" longitude="54.796833" latitude="-14.805614"/>
+<marker id="1334620160" label="书房" category="45" did="1879314747" parentZoneId="1879464797" longitude="54.733143" latitude="-13.204307"/>
+<marker id="1334620161" label="书房" category="45" did="1879314747" parentZoneId="1879464797" longitude="54.733143" latitude="-13.088554"/>
+<marker id="1334620162" label="改良配方&#10;木工行会" category="33" did="1879313731" parentZoneId="1879464797" longitude="54.81455" latitude="-13.316484"/>
+<marker id="1334620163" label="公会领袖&#10;木工行会" category="58" did="1879313724" parentZoneId="1879464797" longitude="54.819355" latitude="-13.310752"/>
+<marker id="1334620164" label="传奇配方&#10;木工行会" category="33" did="1879313730" parentZoneId="1879464797" longitude="54.822205" latitude="-13.31831"/>
+<marker id="1334620165" label="改进配方&#10;锻造师行会" category="33" did="1879313726" parentZoneId="1879464797" longitude="54.703728" latitude="-12.987676"/>
+<marker id="1334620166" label="公会领袖&#10;锻造师行会" category="58" did="1879313718" parentZoneId="1879464797" longitude="54.698223" latitude="-12.980449"/>
+<marker id="1334620167" label="传奇配方&#10;锻造师行会" category="33" did="1879313721" parentZoneId="1879464797" longitude="54.71662" latitude="-12.984345"/>
+<marker id="1334620168" label="改良配方&#10;裁缝行会" category="33" did="1879313725" parentZoneId="1879464797" longitude="54.828613" latitude="-12.984648"/>
+<marker id="1334620169" label="公会领袖&#10;裁缝行会" category="58" did="1879313712" parentZoneId="1879464797" longitude="54.83408" latitude="-12.978408"/>
+<marker id="1334620170" label="传奇配方&#10;裁缝行会" category="33" did="1879313719" parentZoneId="1879464797" longitude="54.83947" latitude="-12.984648"/>
+<marker id="1334620171" label="改良配方&#10;学者行会" category="33" did="1879313715" parentZoneId="1879464797" longitude="54.944004" latitude="-13.161133"/>
+<marker id="1334620172" label="公会领袖&#10;学者行会" category="58" did="1879313728" parentZoneId="1879464797" longitude="54.944824" latitude="-13.152734"/>
+<marker id="1334620173" label="传奇配方&#10;学者行会" category="33" did="1879313713" parentZoneId="1879464797" longitude="54.95238" latitude="-13.157929"/>
+<marker id="1334620174" label="改良配方&#10;冶炼师行会" category="33" did="1879313722" parentZoneId="1879464797" longitude="54.594666" latitude="-12.985186"/>
+<marker id="1334620175" label="公会领袖&#10;冶炼师行会" category="58" did="1879313723" parentZoneId="1879464797" longitude="54.61861" latitude="-12.981884"/>
+<marker id="1334620176" label="传奇配方&#10;冶炼师行会" category="33" did="1879313716" parentZoneId="1879464797" longitude="54.61113" latitude="-12.977197"/>
+<marker id="1334620177" label="改良配方&#10;珠宝匠行会" category="33" did="1879313732" parentZoneId="1879464797" longitude="54.61672" latitude="-13.319023"/>
+<marker id="1334620178" label="公会领袖&#10;珠宝匠行会" category="58" did="1879313729" parentZoneId="1879464797" longitude="54.613846" latitude="-13.308887"/>
+<marker id="1334620179" label="传奇配方&#10;珠宝匠行会" category="33" did="1879313727" parentZoneId="1879464797" longitude="54.623104" latitude="-13.321074"/>
+<marker id="1334620180" label="改良配方&#10;厨师行会" category="33" did="1879313714" parentZoneId="1879464797" longitude="54.715134" latitude="-13.30875"/>
+<marker id="1334620181" label="公会领袖&#10;厨师行会" category="58" did="1879313717" parentZoneId="1879464797" longitude="54.728985" latitude="-13.305351"/>
+<marker id="1334620182" label="传奇配方&#10;厨师行会" category="33" did="1879313720" parentZoneId="1879464797" longitude="54.723984" latitude="-13.31245"/>
+<marker id="1334620183" label="学徒女大师" category="42" did="1879451839" parentZoneId="1879464797" longitude="54.63248" latitude="-13.1654005"/>
+<marker id="1334620184" label="贤者训练师" category="42" did="1879313189" parentZoneId="1879464797" longitude="54.676033" latitude="-13.420039"/>
+<marker id="1334620186" label="吟游诗人训练师" category="42" did="1879313218" parentZoneId="1879464797" longitude="54.666542" latitude="-12.884395"/>
+<marker id="1334620187" label="纳雷米尔（Naremil）" category="70" did="1879465813" parentZoneId="1879464797" longitude="54.916443" latitude="-13.100439"/>
+<marker id="1334620188" label="诺塞斯" category="70" did="1879465806" parentZoneId="1879464797" longitude="54.752537" latitude="-13.447178"/>
+<marker id="1334620189" label="门" category="100" did="1879157895" parentZoneId="1879464797" longitude="54.387207" latitude="-13.145722"/>
+<marker id="1334620190" label="符文师训练师&#10;符文训练师" category="42" did="1879405374" parentZoneId="1879464797" longitude="54.872734" latitude="-12.865352"/>
+<marker id="1334620193" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.81088" latitude="-13.423115"/>
+<marker id="1334620194" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.664707" latitude="-13.484726"/>
+<marker id="1334620195" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.594627" latitude="-13.302656"/>
+<marker id="1334620196" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.515427" latitude="-13.4847555"/>
+<marker id="1334620197" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.668182" latitude="-13.484482"/>
+<marker id="1334620198" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.636932" latitude="-13.405468"/>
+<marker id="1334620199" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.910564" latitude="-13.424443"/>
+<marker id="1334620200" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.968533" latitude="-13.379883"/>
+<marker id="1334620201" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.968533" latitude="-13.232139"/>
+<marker id="1334620202" label="洛汗之书" category="73" did="1879465834" parentZoneId="1879464797" longitude="54.752968" latitude="-13.415537"/>
 <marker id="1334620206" label="" category="70" did="1879313180" parentZoneId="1879464797" longitude="54.71791" latitude="-12.920644"/>
 <marker id="1334620207" label="" category="70" did="1879313180" parentZoneId="1879464797" longitude="54.712265" latitude="-13.365801"/>
 <marker id="1334620208" label="" category="70" did="1879313180" parentZoneId="1879464797" longitude="54.83035" latitude="-13.147158"/>

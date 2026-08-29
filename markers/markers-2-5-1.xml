@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="621813760" label="Isildur" category="71" did="1879200875" parentZoneId="1879205999" longitude="-82.091034" latitude="-109.373795"/>
-<marker id="621813761" label="Dorwë" category="71" did="1879200876" parentZoneId="1879205999" longitude="-82.08193" latitude="-109.3512"/>
-<marker id="621813762" label="Gondorian Soldier" category="71" did="1879200877" parentZoneId="1879205999" longitude="-82.05829" latitude="-109.319595"/>
-<marker id="621813763" label="Gondorian Soldier" category="71" did="1879200877" parentZoneId="1879205999" longitude="-82.05887" latitude="-109.331856"/>
-<marker id="621813764" label="Gondorian Soldier" category="71" did="1879200877" parentZoneId="1879205999" longitude="-82.0548" latitude="-109.36468"/>
-<marker id="621813765" label="Gondorian Soldier" category="71" did="1879200877" parentZoneId="1879205999" longitude="-82.0542" latitude="-109.37462"/>
-<marker id="621813766" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.50974" latitude="-109.58618"/>
-<marker id="621813767" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.50771" latitude="-109.571815"/>
-<marker id="621813768" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.51119" latitude="-109.628296"/>
-<marker id="621813769" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.64963" latitude="-109.50318"/>
-<marker id="621813770" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.65213" latitude="-109.53617"/>
-<marker id="621813771" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.60379" latitude="-109.655495"/>
-<marker id="621813772" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.7655" latitude="-109.78697"/>
-<marker id="621813773" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.76787" latitude="-109.817474"/>
-<marker id="621813774" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.75903" latitude="-109.80744"/>
-<marker id="621813775" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.75695" latitude="-109.79664"/>
-<marker id="621813776" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.7744" latitude="-109.801414"/>
-<marker id="621813777" label="Orc Marauder" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.76887" latitude="-109.793106"/>
-<marker id="622583818" label="Oven" category="45" did="1879228570" parentZoneId="1879063919" longitude="-73.874054" latitude="-100.124374"/>
-<marker id="622583819" label="Workbench" category="45" did="1879228571" parentZoneId="1879063919" longitude="-73.890915" latitude="-100.05654"/>
-<marker id="622583820" label="Forge" category="45" did="1879228568" parentZoneId="1879063919" longitude="-73.984985" latitude="-100.03594"/>
-<marker id="622583821" label="Horse" category="70" did="1879229437" parentZoneId="1879063919" longitude="-73.97487" latitude="-99.631386"/>
-<marker id="622583822" label="Door" category="48" did="1879229878" parentZoneId="1879063919" longitude="-73.3818" latitude="-100.217705"/>
-<marker id="622583823" label="Door" category="100" did="1879230733" parentZoneId="1879063919" longitude="-73.56488" latitude="-100.257164"/>
-<marker id="622583824" label="Alred" category="70" did="1879230762" parentZoneId="1879063919" longitude="-73.94201" latitude="-100.09671"/>
-<marker id="622583825" label="Expert Metalsmith" category="33" did="1879228223" parentZoneId="1879063919" longitude="-73.98306" latitude="-100.033875"/>
-<marker id="622583826" label="Expert Weaponcrafter" category="33" did="1879228226" parentZoneId="1879063919" longitude="-73.97413" latitude="-100.03997"/>
-<marker id="622583827" label="Expert Woodworker" category="33" did="1879228227" parentZoneId="1879063919" longitude="-73.91046" latitude="-100.03184"/>
-<marker id="622583828" label="Expert Jeweller" category="33" did="1879228225" parentZoneId="1879063919" longitude="-73.888306" latitude="-100.06861"/>
-<marker id="622583829" label="Expert Cook" category="33" did="1879228231" parentZoneId="1879063919" longitude="-73.88839" latitude="-100.11956"/>
-<marker id="622583830" label="Expert Tailor" category="33" did="1879228233" parentZoneId="1879063919" longitude="-73.860954" latitude="-100.070175"/>
-<marker id="622583832" label="Townsperson" category="70" did="1879229436" parentZoneId="1879063919" longitude="-73.95954" latitude="-100.12083"/>
-<marker id="622583833" label="Training-dummy" category="71" did="1879221755" parentZoneId="1879063919" longitude="-73.57118" latitude="-100.32569"/>
-<marker id="622583834" label="Supplier" category="38" did="1879221903" parentZoneId="1879063919" longitude="-73.9191" latitude="-100.01773"/>
-<marker id="622583835" label="Rohirrim" category="70" did="1879222535" parentZoneId="1879063919" longitude="-73.80339" latitude="-100.255585"/>
-<marker id="622583837" label="Wada" category="70" did="1879228720" parentZoneId="1879063919" longitude="-73.39338" latitude="-100.00806"/>
-<marker id="622649354" label="Oven" category="45" did="1879228570" parentZoneId="1879063919" longitude="-73.07406" latitude="-100.124374"/>
-<marker id="622649355" label="Workbench" category="45" did="1879228571" parentZoneId="1879063919" longitude="-73.09091" latitude="-100.05654"/>
-<marker id="622649356" label="Forge" category="45" did="1879228568" parentZoneId="1879063919" longitude="-73.18499" latitude="-100.03594"/>
-<marker id="622649357" label="Horse" category="70" did="1879229437" parentZoneId="1879063919" longitude="-73.15358" latitude="-99.66211"/>
-<marker id="622649358" label="Door" category="48" did="1879229878" parentZoneId="1879063919" longitude="-72.581795" latitude="-100.217705"/>
-<marker id="622649359" label="Door" category="100" did="1879230733" parentZoneId="1879063919" longitude="-72.764885" latitude="-100.257164"/>
-<marker id="622649360" label="Alred" category="70" did="1879230762" parentZoneId="1879063919" longitude="-73.14201" latitude="-100.09671"/>
-<marker id="622649361" label="Expert Metalsmith" category="33" did="1879228223" parentZoneId="1879063919" longitude="-73.18306" latitude="-100.033875"/>
-<marker id="622649362" label="Expert Weaponcrafter" category="33" did="1879228226" parentZoneId="1879063919" longitude="-73.174126" latitude="-100.03997"/>
-<marker id="622649363" label="Expert Woodworker" category="33" did="1879228227" parentZoneId="1879063919" longitude="-73.110466" latitude="-100.03184"/>
-<marker id="622649364" label="Expert Jeweller" category="33" did="1879228225" parentZoneId="1879063919" longitude="-73.08831" latitude="-100.06861"/>
-<marker id="622649365" label="Expert Cook" category="33" did="1879228231" parentZoneId="1879063919" longitude="-73.08839" latitude="-100.11956"/>
-<marker id="622649366" label="Expert Tailor" category="33" did="1879228233" parentZoneId="1879063919" longitude="-73.06096" latitude="-100.070175"/>
-<marker id="622649368" label="Townsperson" category="70" did="1879229436" parentZoneId="1879063919" longitude="-73.159546" latitude="-100.12083"/>
-<marker id="622649369" label="Training-dummy" category="71" did="1879221755" parentZoneId="1879063919" longitude="-72.77119" latitude="-100.32569"/>
-<marker id="622649370" label="Supplier" category="38" did="1879221903" parentZoneId="1879063919" longitude="-73.1191" latitude="-100.01773"/>
-<marker id="622649371" label="Rohirrim" category="70" did="1879222535" parentZoneId="1879063919" longitude="-73.00339" latitude="-100.255585"/>
-<marker id="622649372" label="Wada" category="70" did="1879228720" parentZoneId="1879063919" longitude="-72.593376" latitude="-100.00806"/>
+<marker id="621813760" label="伊熙尔杜" category="71" did="1879200875" parentZoneId="1879205999" longitude="-82.091034" latitude="-109.373795"/>
+<marker id="621813761" label="多尔威" category="71" did="1879200876" parentZoneId="1879205999" longitude="-82.08193" latitude="-109.3512"/>
+<marker id="621813762" label="刚铎士兵" category="71" did="1879200877" parentZoneId="1879205999" longitude="-82.05829" latitude="-109.319595"/>
+<marker id="621813763" label="刚铎士兵" category="71" did="1879200877" parentZoneId="1879205999" longitude="-82.05887" latitude="-109.331856"/>
+<marker id="621813764" label="刚铎士兵" category="71" did="1879200877" parentZoneId="1879205999" longitude="-82.0548" latitude="-109.36468"/>
+<marker id="621813765" label="刚铎士兵" category="71" did="1879200877" parentZoneId="1879205999" longitude="-82.0542" latitude="-109.37462"/>
+<marker id="621813766" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.50974" latitude="-109.58618"/>
+<marker id="621813767" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.50771" latitude="-109.571815"/>
+<marker id="621813768" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.51119" latitude="-109.628296"/>
+<marker id="621813769" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.64963" latitude="-109.50318"/>
+<marker id="621813770" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.65213" latitude="-109.53617"/>
+<marker id="621813771" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.60379" latitude="-109.655495"/>
+<marker id="621813772" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.7655" latitude="-109.78697"/>
+<marker id="621813773" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.76787" latitude="-109.817474"/>
+<marker id="621813774" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.75903" latitude="-109.80744"/>
+<marker id="621813775" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.75695" latitude="-109.79664"/>
+<marker id="621813776" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.7744" latitude="-109.801414"/>
+<marker id="621813777" label="兽人掠夺者" category="71" did="1879200884" parentZoneId="1879205999" longitude="-82.76887" latitude="-109.793106"/>
+<marker id="622583818" label="烤箱" category="45" did="1879228570" parentZoneId="1879063919" longitude="-73.874054" latitude="-100.124374"/>
+<marker id="622583819" label="工作台" category="45" did="1879228571" parentZoneId="1879063919" longitude="-73.890915" latitude="-100.05654"/>
+<marker id="622583820" label="熔炉" category="45" did="1879228568" parentZoneId="1879063919" longitude="-73.984985" latitude="-100.03594"/>
+<marker id="622583821" label="马匹" category="70" did="1879229437" parentZoneId="1879063919" longitude="-73.97487" latitude="-99.631386"/>
+<marker id="622583822" label="门" category="48" did="1879229878" parentZoneId="1879063919" longitude="-73.3818" latitude="-100.217705"/>
+<marker id="622583823" label="门" category="100" did="1879230733" parentZoneId="1879063919" longitude="-73.56488" latitude="-100.257164"/>
+<marker id="622583824" label="阿尔雷德" category="70" did="1879230762" parentZoneId="1879063919" longitude="-73.94201" latitude="-100.09671"/>
+<marker id="622583825" label="中级(Expert)冶炼师" category="33" did="1879228223" parentZoneId="1879063919" longitude="-73.98306" latitude="-100.033875"/>
+<marker id="622583826" label="中级武器工匠" category="33" did="1879228226" parentZoneId="1879063919" longitude="-73.97413" latitude="-100.03997"/>
+<marker id="622583827" label="中级(Expert)木工" category="33" did="1879228227" parentZoneId="1879063919" longitude="-73.91046" latitude="-100.03184"/>
+<marker id="622583828" label="中级(Expert)珠宝匠" category="33" did="1879228225" parentZoneId="1879063919" longitude="-73.888306" latitude="-100.06861"/>
+<marker id="622583829" label="中级(Expert)厨师" category="33" did="1879228231" parentZoneId="1879063919" longitude="-73.88839" latitude="-100.11956"/>
+<marker id="622583830" label="中级(Expert)裁缝" category="33" did="1879228233" parentZoneId="1879063919" longitude="-73.860954" latitude="-100.070175"/>
+<marker id="622583832" label="镇民" category="70" did="1879229436" parentZoneId="1879063919" longitude="-73.95954" latitude="-100.12083"/>
+<marker id="622583833" label="训练假人" category="71" did="1879221755" parentZoneId="1879063919" longitude="-73.57118" latitude="-100.32569"/>
+<marker id="622583834" label="供应商" category="38" did="1879221903" parentZoneId="1879063919" longitude="-73.9191" latitude="-100.01773"/>
+<marker id="622583835" label="洛希尔人" category="70" did="1879222535" parentZoneId="1879063919" longitude="-73.80339" latitude="-100.255585"/>
+<marker id="622583837" label="瓦达" category="70" did="1879228720" parentZoneId="1879063919" longitude="-73.39338" latitude="-100.00806"/>
+<marker id="622649354" label="烤箱" category="45" did="1879228570" parentZoneId="1879063919" longitude="-73.07406" latitude="-100.124374"/>
+<marker id="622649355" label="工作台" category="45" did="1879228571" parentZoneId="1879063919" longitude="-73.09091" latitude="-100.05654"/>
+<marker id="622649356" label="熔炉" category="45" did="1879228568" parentZoneId="1879063919" longitude="-73.18499" latitude="-100.03594"/>
+<marker id="622649357" label="马匹" category="70" did="1879229437" parentZoneId="1879063919" longitude="-73.15358" latitude="-99.66211"/>
+<marker id="622649358" label="门" category="48" did="1879229878" parentZoneId="1879063919" longitude="-72.581795" latitude="-100.217705"/>
+<marker id="622649359" label="门" category="100" did="1879230733" parentZoneId="1879063919" longitude="-72.764885" latitude="-100.257164"/>
+<marker id="622649360" label="阿尔雷德" category="70" did="1879230762" parentZoneId="1879063919" longitude="-73.14201" latitude="-100.09671"/>
+<marker id="622649361" label="中级(Expert)冶炼师" category="33" did="1879228223" parentZoneId="1879063919" longitude="-73.18306" latitude="-100.033875"/>
+<marker id="622649362" label="中级武器工匠" category="33" did="1879228226" parentZoneId="1879063919" longitude="-73.174126" latitude="-100.03997"/>
+<marker id="622649363" label="中级(Expert)木工" category="33" did="1879228227" parentZoneId="1879063919" longitude="-73.110466" latitude="-100.03184"/>
+<marker id="622649364" label="中级(Expert)珠宝匠" category="33" did="1879228225" parentZoneId="1879063919" longitude="-73.08831" latitude="-100.06861"/>
+<marker id="622649365" label="中级(Expert)厨师" category="33" did="1879228231" parentZoneId="1879063919" longitude="-73.08839" latitude="-100.11956"/>
+<marker id="622649366" label="中级(Expert)裁缝" category="33" did="1879228233" parentZoneId="1879063919" longitude="-73.06096" latitude="-100.070175"/>
+<marker id="622649368" label="镇民" category="70" did="1879229436" parentZoneId="1879063919" longitude="-73.159546" latitude="-100.12083"/>
+<marker id="622649369" label="训练假人" category="71" did="1879221755" parentZoneId="1879063919" longitude="-72.77119" latitude="-100.32569"/>
+<marker id="622649370" label="供应商" category="38" did="1879221903" parentZoneId="1879063919" longitude="-73.1191" latitude="-100.01773"/>
+<marker id="622649371" label="洛希尔人" category="70" did="1879222535" parentZoneId="1879063919" longitude="-73.00339" latitude="-100.255585"/>
+<marker id="622649372" label="瓦达" category="70" did="1879228720" parentZoneId="1879063919" longitude="-72.593376" latitude="-100.00806"/>
 </markers>

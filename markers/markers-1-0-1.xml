@@ -1,548 +1,548 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="269721600" label="Landmark Test" category="43" did="1879063052" parentZoneId="1879063919" longitude="-143.87654" latitude="-103.05727"/>
-<marker id="269721601" label="Landmark Test 2" category="43" did="1879063053" parentZoneId="1879063919" longitude="-144.03348" latitude="-103.23354"/>
-<marker id="269721602" label="White Hand Conscript" category="71" did="1879077403" parentZoneId="1879063919" longitude="-143.82803" latitude="-103.23033"/>
-<marker id="269721603" label="Highland Hunter" category="71" did="1879080679" parentZoneId="1879063919" longitude="-143.78381" latitude="-103.23285"/>
-<marker id="269721604" label="Kingsfoil Plant" category="73" did="1879074049" parentZoneId="1879063919" longitude="-143.92416" latitude="-103.173836"/>
-<marker id="269721605" label="Test Completer" category="70" did="1879074076" parentZoneId="1879063919" longitude="-143.9174" latitude="-103.086006"/>
-<marker id="269721606" label="Generic Test Quest Item" category="73" did="1879074077" parentZoneId="1879063919" longitude="-143.88339" latitude="-103.1924"/>
-<marker id="269721607" label="Test Bestower" category="70" did="1879074078" parentZoneId="1879063919" longitude="-143.9556" latitude="-103.122345"/>
-<marker id="269721608" label="Escort Rat" category="71" did="1879076363" parentZoneId="1879063919" longitude="-143.96498" latitude="-103.17916"/>
-<marker id="269721611" label="Turnin Counter" category="73" did="1879090939" parentZoneId="1879063919" longitude="-143.95052" latitude="-103.18282"/>
-<marker id="269721613" label="Kingsfoil Plant" category="73" did="1879074049" parentZoneId="1879063919" longitude="-143.93564" latitude="-103.12237"/>
-<marker id="269721614" label="Kingsfoil Plant" category="73" did="1879074049" parentZoneId="1879063919" longitude="-143.90672" latitude="-103.10266"/>
-<marker id="269725696" label="Weak Spot in Reinforcements" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.04932" latitude="-102.64704"/>
-<marker id="269725697" label="Weak Spot in Reinforcements" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.04431" latitude="-102.61678"/>
-<marker id="269725698" label="Weak Spot in Reinforcements" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.0296" latitude="-102.623535"/>
-<marker id="269725699" label="Weak Spot in Reinforcements" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.05931" latitude="-102.630646"/>
-<marker id="269725700" label="Weak Spot in Reinforcements" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.0543" latitude="-102.63454"/>
-<marker id="269725701" label="Repair Supplies" category="73" did="1879490685" parentZoneId="1879063919" longitude="-144.21152" latitude="-102.6655"/>
-<marker id="269725702" label="Repair Supplies" category="73" did="1879490685" parentZoneId="1879063919" longitude="-144.17963" latitude="-102.63707"/>
-<marker id="269725703" label="Repair Supplies" category="73" did="1879490685" parentZoneId="1879063919" longitude="-144.13608" latitude="-102.64987"/>
-<marker id="269725704" label="Pile of Blankets" category="73" did="1879490702" parentZoneId="1879063919" longitude="-144.07196" latitude="-102.491776"/>
-<marker id="269725705" label="Pile of Blankets" category="73" did="1879490702" parentZoneId="1879063919" longitude="-144.06696" latitude="-102.498474"/>
-<marker id="269725706" label="Pile of Blankets" category="73" did="1879490702" parentZoneId="1879063919" longitude="-144.06197" latitude="-102.48177"/>
-<marker id="269725707" label="Basket of Food" category="73" did="1879490703" parentZoneId="1879063919" longitude="-144.09294" latitude="-102.48538"/>
-<marker id="269725708" label="Basket of Food" category="73" did="1879490703" parentZoneId="1879063919" longitude="-144.08794" latitude="-102.491264"/>
-<marker id="269725709" label="Basket of Food" category="73" did="1879490703" parentZoneId="1879063919" longitude="-144.0976" latitude="-102.49084"/>
-<marker id="269725710" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.04425" latitude="-102.64109"/>
-<marker id="269725711" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.06386" latitude="-102.64366"/>
-<marker id="269725712" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.05887" latitude="-102.63866"/>
-<marker id="269725713" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.06926" latitude="-102.63162"/>
-<marker id="269725714" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.06425" latitude="-102.62662"/>
-<marker id="269725715" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.05925" latitude="-102.65159"/>
-<marker id="269725716" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.05426" latitude="-102.65109"/>
-<marker id="269725717" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.04926" latitude="-102.647514"/>
-<marker id="269725718" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.04886" latitude="-102.62866"/>
-<marker id="269725719" label="Repair Supplies" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.04926" latitude="-102.64609"/>
-<marker id="269725720" label="Stone Fragment" category="73" did="1879490704" parentZoneId="1879063919" longitude="-143.77977" latitude="-102.21617"/>
-<marker id="269725721" label="Stone Fragment" category="73" did="1879490704" parentZoneId="1879063919" longitude="-143.77477" latitude="-102.21117"/>
-<marker id="269725722" label="Stone Fragment" category="73" did="1879490704" parentZoneId="1879063919" longitude="-143.76976" latitude="-102.20617"/>
-<marker id="269725723" label="Stone Fragment" category="73" did="1879490704" parentZoneId="1879063919" longitude="-143.76476" latitude="-102.20117"/>
-<marker id="269725724" label="Famished Sand-prowler" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.71562" latitude="-102.052216"/>
-<marker id="269725725" label="Famished Sand-prowler" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.71417" latitude="-102.07737"/>
-<marker id="269725726" label="Famished Sand-prowler" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.73692" latitude="-102.038246"/>
-<marker id="269725727" label="Famished Sand-prowler" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.70866" latitude="-102.02835"/>
-<marker id="269725728" label="Famished Sand-prowler" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.67159" latitude="-102.04524"/>
-<marker id="269725729" label="Famished Sand-prowler" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.74521" latitude="-102.075356"/>
-<marker id="269725730" label="Famished Sand-prowler" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.69366" latitude="-102.07036"/>
-<marker id="269725731" label="Famished Sand-prowler" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.68866" latitude="-102.09722"/>
-<marker id="269725732" label="Armoured Mire-maggot" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.27553" latitude="-102.54967"/>
-<marker id="269725733" label="Armoured Mire-maggot" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.30307" latitude="-102.54701"/>
-<marker id="269725734" label="Armoured Mire-maggot" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.28735" latitude="-102.56234"/>
-<marker id="269725735" label="Armoured Mire-maggot" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.27274" latitude="-102.57012"/>
-<marker id="269725736" label="Armoured Mire-maggot" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.27122" latitude="-102.55701"/>
-<marker id="269725737" label="Armoured Mire-maggot" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.29051" latitude="-102.536064"/>
-<marker id="269725738" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2886" latitude="-102.306046"/>
-<marker id="269725739" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2836" latitude="-102.30104"/>
-<marker id="269725740" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2786" latitude="-102.29604"/>
-<marker id="269725741" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2736" latitude="-102.291046"/>
-<marker id="269725742" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2686" latitude="-102.28604"/>
-<marker id="269725743" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2636" latitude="-102.281044"/>
-<marker id="269725744" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.3136" latitude="-102.33104"/>
-<marker id="269725745" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.3086" latitude="-102.32604"/>
-<marker id="269725746" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.3036" latitude="-102.321045"/>
-<marker id="269725747" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2986" latitude="-102.31604"/>
-<marker id="269725748" label="Khûdi Jackal" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2936" latitude="-102.31104"/>
-<marker id="269725749" label="Khûdi Tough" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.77122" latitude="-102.515656"/>
-<marker id="269725750" label="Khûdi Tough" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.76758" latitude="-102.52572"/>
-<marker id="269725751" label="Khûdi Tough" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.76799" latitude="-102.511765"/>
-<marker id="269725752" label="Khûdi Tough" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75775" latitude="-102.51526"/>
-<marker id="269725753" label="Khûdi Tough" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75209" latitude="-102.53146"/>
-<marker id="269725754" label="Khûdi Tough" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.73956" latitude="-102.54368"/>
-<marker id="269725755" label="Khûdi Tough" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75761" latitude="-102.51351"/>
-<marker id="269725756" label="Khûdi Tough" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75351" latitude="-102.511566"/>
-<marker id="269725757" label="Khûdi Tough" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75862" latitude="-102.508064"/>
-<marker id="269725758" label="Ulû" category="70" did="1879489590" parentZoneId="1879063919" longitude="-143.89302" latitude="-102.67343"/>
-<marker id="269725759" label="Ashkab" category="70" did="1879489591" parentZoneId="1879063919" longitude="-144.04575" latitude="-102.49601"/>
-<marker id="269725760" label="Nârud" category="70" did="1879489588" parentZoneId="1879063919" longitude="-144.08408" latitude="-102.47995"/>
-<marker id="269725761" label="Mudûru" category="70" did="1879489589" parentZoneId="1879063919" longitude="-144.07451" latitude="-102.50981"/>
-<marker id="269725762" label="Ninikirag" category="70" did="1879489586" parentZoneId="1879063919" longitude="-144.06557" latitude="-102.47036"/>
-<marker id="269725763" label="Gabash" category="70" did="1879489587" parentZoneId="1879063919" longitude="-143.90778" latitude="-102.699684"/>
-<marker id="269725764" label="Umurdi" category="70" did="1879489596" parentZoneId="1879063919" longitude="-144.08475" latitude="-102.46873"/>
-<marker id="269725768" label="Shidim" category="70" did="1879489592" parentZoneId="1879063919" longitude="-143.77101" latitude="-102.22736"/>
-<marker id="269725769" label="Tagada" category="70" did="1879489593" parentZoneId="1879063919" longitude="-144.07576" latitude="-102.48736"/>
-<marker id="269725777" label="Nisami" category="70" did="1879489595" parentZoneId="1879063919" longitude="-144.08353" latitude="-102.48881"/>
-<marker id="269725779" label="Nangar" category="70" did="1879489597" parentZoneId="1879063919" longitude="-144.05574" latitude="-102.483574"/>
-<marker id="269725780" label="Filadal" category="70" did="1879489594" parentZoneId="1879063919" longitude="-144.18437" latitude="-102.66047"/>
-<marker id="269729792" label="Blighted Great Bramble" category="71" did="1879516911" parentZoneId="1879063919" longitude="-143.76746" latitude="-101.699356"/>
-<marker id="269729793" label="Blighted Tangle-sire" category="71" did="1879516919" parentZoneId="1879063919" longitude="-143.80981" latitude="-101.749565"/>
-<marker id="269729794" label="Blighted Great Thicket" category="71" did="1879516916" parentZoneId="1879063919" longitude="-143.90405" latitude="-101.72759"/>
-<marker id="269729795" label="Giant Blightwood" category="71" did="1879517262" parentZoneId="1879063919" longitude="-144.29535" latitude="-101.296974"/>
-<marker id="269729796" label="Blighted Hatchling" category="71" did="1879517261" parentZoneId="1879063919" longitude="-144.1123" latitude="-101.68152"/>
-<marker id="269729797" label="Blighted Hunter" category="71" did="1879517260" parentZoneId="1879063919" longitude="-144.06006" latitude="-101.72759"/>
-<marker id="269729798" label="Blighted Weaver" category="71" did="1879517259" parentZoneId="1879063919" longitude="-144.11429" latitude="-101.7791"/>
-<marker id="269729799" label="Giant Erupting Growth" category="71" did="1879517485" parentZoneId="1879063919" longitude="-144.13878" latitude="-101.51529"/>
-<marker id="269729800" label="Red Blight Nodule" category="71" did="1879517483" parentZoneId="1879063919" longitude="-144.18997" latitude="-101.49581"/>
-<marker id="269729801" label="Yellow Blight Nodule" category="71" did="1879517482" parentZoneId="1879063919" longitude="-144.20053" latitude="-101.48358"/>
-<marker id="269729802" label="Blue Blight Nodule" category="71" did="1879517481" parentZoneId="1879063919" longitude="-144.1754" latitude="-101.479004"/>
-<marker id="269729803" label="Suffocating Spore Cloud" category="71" did="1879517529" parentZoneId="1879063919" longitude="-144.19206" latitude="-101.5562"/>
-<marker id="269729806" label="Hórush Hollow-heart" category="71" did="1879518330" parentZoneId="1879063919" longitude="-143.9885" latitude="-101.37476"/>
-<marker id="269729807" label="Lhálach the Stricken" category="71" did="1879518329" parentZoneId="1879063919" longitude="-144.16698" latitude="-101.72759"/>
-<marker id="269783040" label="Pashâzmar" category="71" did="1879525174" parentZoneId="1879063919" longitude="-143.46222" latitude="-103.86988"/>
-<marker id="269783041" label="Nasíkhtu" category="71" did="1879525173" parentZoneId="1879063919" longitude="-143.46379" latitude="-104.04921"/>
-<marker id="269783042" label="Erímukil" category="71" did="1879525172" parentZoneId="1879063919" longitude="-143.46672" latitude="-103.9209"/>
-<marker id="269783043" label="Ugmârat" category="71" did="1879525171" parentZoneId="1879063919" longitude="-143.46701" latitude="-103.97872"/>
-<marker id="269783044" label="Zamâktar the Putrescent" category="71" did="1879513337" parentZoneId="1879063919" longitude="-142.98926" latitude="-104.00513"/>
-<marker id="269787136" label="Cedivor Hedgerow" category="71" did="1879443607" parentZoneId="1879063919" longitude="-143.52666" latitude="-103.55317"/>
-<marker id="269787137" label="Angle Pack-leader" category="71" did="1879443678" parentZoneId="1879063919" longitude="-143.50467" latitude="-103.56021"/>
-<marker id="269787139" label="Cedivor Hedgerow" category="71" did="1879443607" parentZoneId="1879063919" longitude="-143.11876" latitude="-103.33096"/>
-<marker id="269787141" label="Angle Pack-leader" category="71" did="1879443678" parentZoneId="1879063919" longitude="-143.39969" latitude="-103.06791"/>
-<marker id="269787147" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.28722" latitude="-102.92794"/>
-<marker id="269787148" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.3177" latitude="-102.8937"/>
-<marker id="269787149" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.29898" latitude="-102.898476"/>
-<marker id="269787150" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.2819" latitude="-102.90026"/>
-<marker id="269787152" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.11269" latitude="-103.2168"/>
-<marker id="269787153" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.1071" latitude="-103.16435"/>
-<marker id="269787154" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.131" latitude="-103.210815"/>
-<marker id="269787155" label="Grand Cultivator Oganuin" category="71" did="1879457179" parentZoneId="1879063919" longitude="-143.27234" latitude="-103.429115"/>
-<marker id="269787156" label="Cedivor Hedgerow" category="70" did="1879445431" parentZoneId="1879063919" longitude="-143.17166" latitude="-103.405304"/>
-<marker id="269787158" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.49707" latitude="-103.55627"/>
-<marker id="269787159" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.12202" latitude="-103.18803"/>
-<marker id="269787163" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.28294" latitude="-103.2556"/>
-<marker id="269787164" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.31317" latitude="-103.30732"/>
-<marker id="269787165" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.36346" latitude="-103.11068"/>
-<marker id="269787166" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.328" latitude="-103.11426"/>
-<marker id="269787167" label="Angle Hunter" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.32402" latitude="-102.92792"/>
-<marker id="269791232" label="Mizâdi" category="70" did="1879501474" parentZoneId="1879063919" longitude="-143.27008" latitude="-102.553406"/>
-<marker id="269791233" label="Mizâdi" category="70" did="1879501483" parentZoneId="1879063919" longitude="-143.2629" latitude="-102.552925"/>
-<marker id="269791234" label="Ekhamâti Tunnel" category="73" did="1879501548" parentZoneId="1879063919" longitude="-143.30106" latitude="-102.6674"/>
-<marker id="269791235" label="Subuzûri" category="73" did="1879501569" parentZoneId="1879063919" longitude="-143.25426" latitude="-102.66815"/>
-<marker id="269791236" label="Camp Table" category="73" did="1879501583" parentZoneId="1879063919" longitude="-143.2835" latitude="-102.6682"/>
-<marker id="269791237" label="Strange Banner" category="73" did="1879501580" parentZoneId="1879063919" longitude="-143.3203" latitude="-102.57793"/>
-<marker id="269791238" label="Pristine Market Stand" category="73" did="1879502175" parentZoneId="1879063919" longitude="-143.24316" latitude="-102.60551"/>
-<marker id="269791239" label="Burnt Market Stand" category="73" did="1879502182" parentZoneId="1879063919" longitude="-143.32002" latitude="-102.62309"/>
-<marker id="269791240" label="Dirty Market Stand" category="73" did="1879502180" parentZoneId="1879063919" longitude="-143.29335" latitude="-102.62317"/>
-<marker id="269791241" label="Collapsed Market Stand" category="73" did="1879502181" parentZoneId="1879063919" longitude="-143.26854" latitude="-102.625114"/>
-<marker id="269791242" label="Dirty Market Stand" category="73" did="1879502178" parentZoneId="1879063919" longitude="-143.27992" latitude="-102.60261"/>
-<marker id="269791243" label="Collapsed Market Stand" category="73" did="1879502179" parentZoneId="1879063919" longitude="-143.25984" latitude="-102.60293"/>
-<marker id="269791244" label="Pristine Market Stand" category="73" did="1879502176" parentZoneId="1879063919" longitude="-143.24442" latitude="-102.62572"/>
-<marker id="269791245" label="Burnt Market Stand" category="73" did="1879502177" parentZoneId="1879063919" longitude="-143.30005" latitude="-102.6019"/>
-<marker id="269791246" label="Enraged Mûmak" category="71" did="1879502334" parentZoneId="1879063919" longitude="-143.1925" latitude="-102.63892"/>
-<marker id="269791247" label="Razâl" category="70" did="1879524767" parentZoneId="1879063919" longitude="-143.44806" latitude="-102.33278"/>
-<marker id="269791248" label="Razâl" category="70" did="1879524764" parentZoneId="1879063919" longitude="-143.43579" latitude="-102.331154"/>
-<marker id="269791249" label="Mizâdi" category="70" did="1879524763" parentZoneId="1879063919" longitude="-143.42174" latitude="-102.310844"/>
-<marker id="269791250" label="Flagging Subuzûri" category="70" did="1879524783" parentZoneId="1879063919" longitude="-143.43529" latitude="-102.36656"/>
-<marker id="269791251" label="Mizâdi" category="70" did="1879524791" parentZoneId="1879063919" longitude="-143.46484" latitude="-102.3118"/>
-<marker id="269791252" label="Numûru" category="70" did="1879524788" parentZoneId="1879063919" longitude="-143.45024" latitude="-102.3244"/>
-<marker id="269791253" label="Mizâdi" category="70" did="1879524786" parentZoneId="1879063919" longitude="-143.43295" latitude="-102.30992"/>
-<marker id="269791254" label="Numûru" category="70" did="1879524796" parentZoneId="1879063919" longitude="-143.46146" latitude="-102.3253"/>
-<marker id="269791255" label="Razâl" category="70" did="1879524794" parentZoneId="1879063919" longitude="-143.459" latitude="-102.33527"/>
-<marker id="269791256" label="Rahâzi" category="70" did="1879524793" parentZoneId="1879063919" longitude="-143.44421" latitude="-102.34508"/>
-<marker id="269791257" label="Flagging Subuzûri" category="70" did="1879524792" parentZoneId="1879063919" longitude="-143.42856" latitude="-102.36597"/>
-<marker id="269791258" label="Rahâzi" category="70" did="1879524802" parentZoneId="1879063919" longitude="-143.4357" latitude="-102.34485"/>
-<marker id="269791259" label="Mizâdi" category="70" did="1879524800" parentZoneId="1879063919" longitude="-143.45625" latitude="-102.30992"/>
-<marker id="269791260" label="Mizâdi" category="70" did="1879524811" parentZoneId="1879063919" longitude="-143.44461" latitude="-102.31014"/>
-<marker id="269791261" label="Razâl" category="70" did="1879524810" parentZoneId="1879063919" longitude="-143.42567" latitude="-102.332726"/>
-<marker id="269791262" label="Sluice Gate Lock" category="73" did="1879524851" parentZoneId="1879063919" longitude="-143.46611" latitude="-102.53898"/>
-<marker id="269791263" label="Main Gate Lever" category="73" did="1879524857" parentZoneId="1879063919" longitude="-143.42625" latitude="-102.56419"/>
-<marker id="269791264" label="Ordâkhai Barricade" category="73" did="1879524876" parentZoneId="1879063919" longitude="-143.43848" latitude="-102.570786"/>
-<marker id="269791265" label="Hastily Erected Barricade" category="73" did="1879524874" parentZoneId="1879063919" longitude="-143.45831" latitude="-102.56422"/>
-<marker id="269791266" label="Bârshud II" category="70" did="1879525252" parentZoneId="1879063919" longitude="-143.42177" latitude="-102.36539"/>
-<marker id="269791267" label="Sudûgul" category="70" did="1879525250" parentZoneId="1879063919" longitude="-143.41238" latitude="-102.365486"/>
-<marker id="269791268" label="Mizâdi" category="71" did="1879525358" parentZoneId="1879063919" longitude="-143.3976" latitude="-102.40587"/>
-<marker id="269791269" label="Mizâdi" category="71" did="1879525357" parentZoneId="1879063919" longitude="-143.37401" latitude="-102.40409"/>
-<marker id="269791270" label="Subuzûri" category="71" did="1879525354" parentZoneId="1879063919" longitude="-143.38269" latitude="-102.40519"/>
-<marker id="269791271" label="Razâl" category="71" did="1879525353" parentZoneId="1879063919" longitude="-143.3656" latitude="-102.40484"/>
-<marker id="269791272" label="Rahâzi" category="71" did="1879525360" parentZoneId="1879063919" longitude="-143.38976" latitude="-102.405174"/>
-<marker id="269791273" label="Bârshud's Protector" category="71" did="1879525818" parentZoneId="1879063919" longitude="-143.3788" latitude="-102.41965"/>
-<marker id="269791274" label="Risen Numûru" category="71" did="1879525817" parentZoneId="1879063919" longitude="-143.37022" latitude="-102.419174"/>
-<marker id="269791275" label="Crypt-rat" category="71" did="1879484828" parentZoneId="1879063919" longitude="-143.09398" latitude="-102.65849"/>
-<marker id="269791276" label="Spider Victim" category="70" did="1879485121" parentZoneId="1879063919" longitude="-143.13457" latitude="-102.64195"/>
-<marker id="269791277" label="Kighân Spitter" category="71" did="1879512135" parentZoneId="1879063919" longitude="-143.01558" latitude="-102.539986"/>
-<marker id="269791278" label="Kighân Hatchling" category="71" did="1879512142" parentZoneId="1879063919" longitude="-143.07741" latitude="-102.553314"/>
-<marker id="269791279" label="Jûkhtar the Ravenous" category="71" did="1879512141" parentZoneId="1879063919" longitude="-143.09099" latitude="-102.51954"/>
-<marker id="269791280" label="Kighân Weaver" category="71" did="1879512138" parentZoneId="1879063919" longitude="-143.09164" latitude="-102.486275"/>
-<marker id="269791281" label="Kighân Skulker" category="71" did="1879512146" parentZoneId="1879063919" longitude="-143.00955" latitude="-102.56149"/>
-<marker id="269791282" label="Tarsâri Shrouded One" category="71" did="1879512664" parentZoneId="1879063919" longitude="-143.13477" latitude="-102.4975"/>
-<marker id="269791283" label="Tarsâri Rogue" category="71" did="1879512676" parentZoneId="1879063919" longitude="-143.12083" latitude="-102.49576"/>
-<marker id="269791284" label="Tarsâri Dagger" category="71" did="1879512681" parentZoneId="1879063919" longitude="-143.12083" latitude="-102.507416"/>
-<marker id="269791285" label="Tarsâri Butcher" category="71" did="1879512693" parentZoneId="1879063919" longitude="-143.15277" latitude="-102.50765"/>
-<marker id="269791286" label="Tarsâri Veiled One" category="71" did="1879512689" parentZoneId="1879063919" longitude="-143.15369" latitude="-102.49728"/>
-<marker id="269791287" label="Tarsâri Operative" category="71" did="1879512696" parentZoneId="1879063919" longitude="-143.1355" latitude="-102.50689"/>
-<marker id="269791288" label="Ordâkhai Sorcerer" category="71" did="1879512859" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
-<marker id="269791289" label="Ordâkhai Champion" category="71" did="1879512857" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
-<marker id="269791290" label="Terrifying Chicken" category="71" did="1879512867" parentZoneId="1879063919" longitude="-143.1603" latitude="-102.521576"/>
-<marker id="269791291" label="Ordâkhai Warrior" category="71" did="1879512872" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
-<marker id="269791292" label="Nirjára Bóro" category="71" did="1879512885" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
-<marker id="269791293" label="Ordâkhai Look-out" category="71" did="1879512880" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
-<marker id="269791294" label="Ordâkhai Cat-keeper" category="71" did="1879512892" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
-<marker id="269791295" label="Ordâkhai Battle-cat" category="71" did="1879513282" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
-<marker id="269791296" label="Ordâkhai Sorceress" category="71" did="1879513295" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
-<marker id="269791297" label="Ordâkhai Look-out" category="71" did="1879513301" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
-<marker id="269791298" label="Mashôr" category="70" did="1879508870" parentZoneId="1879063919" longitude="-142.93251" latitude="-102.44404"/>
-<marker id="269791299" label="Lejâl" category="70" did="1879508869" parentZoneId="1879063919" longitude="-142.90714" latitude="-102.44172"/>
-<marker id="269791300" label="Masûlga" category="70" did="1879508867" parentZoneId="1879063919" longitude="-142.97383" latitude="-102.4747"/>
-<marker id="269791301" label="Mashôr" category="70" did="1879508878" parentZoneId="1879063919" longitude="-142.91563" latitude="-102.44115"/>
-<marker id="269791302" label="Masûlga" category="70" did="1879508877" parentZoneId="1879063919" longitude="-142.95645" latitude="-102.47187"/>
-<marker id="269791303" label="Alizâr" category="70" did="1879508876" parentZoneId="1879063919" longitude="-142.9481" latitude="-102.48003"/>
-<marker id="269791304" label="Marôr" category="70" did="1879508875" parentZoneId="1879063919" longitude="-142.98074" latitude="-102.48303"/>
-<marker id="269791305" label="Zajâna Prisoner" category="70" did="1879508872" parentZoneId="1879063919" longitude="-142.97935" latitude="-102.492035"/>
-<marker id="269791306" label="Sarâgh" category="70" did="1879508886" parentZoneId="1879063919" longitude="-142.95071" latitude="-102.42576"/>
-<marker id="269791307" label="Oren" category="70" did="1879508885" parentZoneId="1879063919" longitude="-142.98262" latitude="-102.46805"/>
-<marker id="269791308" label="Mizâdi" category="70" did="1879508883" parentZoneId="1879063919" longitude="-142.92543" latitude="-102.415115"/>
-<marker id="269791309" label="Mizâdi" category="70" did="1879508881" parentZoneId="1879063919" longitude="-142.93509" latitude="-102.415054"/>
-<marker id="269791310" label="Zâmaklar" category="70" did="1879508880" parentZoneId="1879063919" longitude="-142.94858" latitude="-102.453804"/>
-<marker id="269791311" label="Bajâti" category="70" did="1879508894" parentZoneId="1879063919" longitude="-142.96333" latitude="-102.4815"/>
-<marker id="269791312" label="Rokhâran" category="70" did="1879508890" parentZoneId="1879063919" longitude="-142.94044" latitude="-102.43678"/>
-<marker id="269791313" label="Oren" category="70" did="1879508902" parentZoneId="1879063919" longitude="-142.96446" latitude="-102.465485"/>
-<marker id="269791314" label="Traveller" category="70" did="1879508899" parentZoneId="1879063919" longitude="-142.96278" latitude="-102.48993"/>
-<marker id="269791315" label="Oren" category="70" did="1879508898" parentZoneId="1879063919" longitude="-142.90656" latitude="-102.44912"/>
-<marker id="269791316" label="Mizâdi" category="70" did="1879508896" parentZoneId="1879063919" longitude="-142.95198" latitude="-102.41736"/>
-<marker id="269791317" label="Jârano" category="70" did="1879508911" parentZoneId="1879063919" longitude="-142.9067" latitude="-102.42402"/>
-<marker id="269791318" label="Marôr" category="70" did="1879508909" parentZoneId="1879063919" longitude="-142.97276" latitude="-102.482574"/>
-<marker id="269791319" label="Sarâgh" category="70" did="1879508908" parentZoneId="1879063919" longitude="-142.9423" latitude="-102.42656"/>
-<marker id="269791320" label="Oren" category="70" did="1879508907" parentZoneId="1879063919" longitude="-142.94838" latitude="-102.46221"/>
-<marker id="269791321" label="Sâkham" category="70" did="1879508906" parentZoneId="1879063919" longitude="-142.95647" latitude="-102.4804"/>
-<marker id="269791322" label="Rokhâran" category="70" did="1879508905" parentZoneId="1879063919" longitude="-142.94873" latitude="-102.43806"/>
-<marker id="269791323" label="Merchant" category="70" did="1879508904" parentZoneId="1879063919" longitude="-142.91646" latitude="-102.467705"/>
-<marker id="269791324" label="Azagâya" category="70" did="1879508918" parentZoneId="1879063919" longitude="-142.95763" latitude="-102.4464"/>
-<marker id="269791325" label="Jârano" category="70" did="1879508916" parentZoneId="1879063919" longitude="-142.91536" latitude="-102.424286"/>
-<marker id="269791326" label="Mizâdi" category="70" did="1879508915" parentZoneId="1879063919" longitude="-142.90758" latitude="-102.4134"/>
-<marker id="269791327" label="Jârano" category="70" did="1879508912" parentZoneId="1879063919" longitude="-142.97627" latitude="-102.437546"/>
-<marker id="269791328" label="Mizâdi" category="70" did="1879508926" parentZoneId="1879063919" longitude="-142.94345" latitude="-102.41687"/>
-<marker id="269791329" label="Zajâna Prisoner" category="70" did="1879508925" parentZoneId="1879063919" longitude="-142.97156" latitude="-102.49115"/>
-<marker id="269791330" label="Marôr" category="70" did="1879508924" parentZoneId="1879063919" longitude="-142.90614" latitude="-102.46736"/>
-<marker id="269791331" label="Masûlga" category="70" did="1879508921" parentZoneId="1879063919" longitude="-142.94835" latitude="-102.47085"/>
-<marker id="269791332" label="Mizâdi" category="70" did="1879508935" parentZoneId="1879063919" longitude="-142.91597" latitude="-102.41471"/>
-<marker id="269791333" label="Mashôr" category="70" did="1879508932" parentZoneId="1879063919" longitude="-142.92401" latitude="-102.443405"/>
-<marker id="269791334" label="Mithûrtu" category="70" did="1879508929" parentZoneId="1879063919" longitude="-142.93047" latitude="-102.46917"/>
-<marker id="269791335" label="Oren" category="70" did="1879508928" parentZoneId="1879063919" longitude="-142.97475" latitude="-102.466515"/>
-<marker id="269791336" label="Masûlga" category="70" did="1879508942" parentZoneId="1879063919" longitude="-142.9394" latitude="-102.469604"/>
-<marker id="269791337" label="Masûlga" category="70" did="1879508941" parentZoneId="1879063919" longitude="-142.96417" latitude="-102.47211"/>
-<marker id="269791338" label="Oren" category="70" did="1879508937" parentZoneId="1879063919" longitude="-142.91562" latitude="-102.44929"/>
-<marker id="269791339" label="Mizâdi" category="70" did="1879508948" parentZoneId="1879063919" longitude="-142.98593" latitude="-102.4282"/>
-<marker id="269791340" label="Jolakári" category="70" did="1879508945" parentZoneId="1879063919" longitude="-142.93987" latitude="-102.46111"/>
-<marker id="269791341" label="Oren" category="70" did="1879508958" parentZoneId="1879063919" longitude="-142.95726" latitude="-102.46341"/>
-<marker id="269791342" label="Azagâya" category="70" did="1879508955" parentZoneId="1879063919" longitude="-142.96701" latitude="-102.446236"/>
-<marker id="269791343" label="Jârano" category="70" did="1879508954" parentZoneId="1879063919" longitude="-142.98497" latitude="-102.43818"/>
-<marker id="269791344" label="Merchant" category="70" did="1879508952" parentZoneId="1879063919" longitude="-142.92326" latitude="-102.468925"/>
-<marker id="269791345" label="Chronicles of the Tarsâri, Vol. I" category="73" did="1879509127" parentZoneId="1879063919" longitude="-142.97311" latitude="-102.57402"/>
-<marker id="269791346" label="Ceremonial Hamâti Sword" category="73" did="1879509124" parentZoneId="1879063919" longitude="-142.9732" latitude="-102.55978"/>
-<marker id="269791347" label="Pohâni Writings" category="73" did="1879509123" parentZoneId="1879063919" longitude="-142.96913" latitude="-102.56711"/>
-<marker id="269791348" label="Sarâgh's Decree" category="73" did="1879509133" parentZoneId="1879063919" longitude="-142.97931" latitude="-102.566635"/>
-<marker id="269791349" label="Bowl of Food" category="73" did="1879509132" parentZoneId="1879063919" longitude="-142.97887" latitude="-102.55919"/>
-<marker id="269791350" label="Zajâni Sword" category="73" did="1879509131" parentZoneId="1879063919" longitude="-142.91205" latitude="-102.5579"/>
-<marker id="269791351" label="Chronicles of the Tarsâri, Vol. II" category="73" did="1879509130" parentZoneId="1879063919" longitude="-142.9671" latitude="-102.573555"/>
-<marker id="269791352" label="Chronicles of the Tarsâri, Vol. IV" category="73" did="1879509129" parentZoneId="1879063919" longitude="-142.961" latitude="-102.57357"/>
-<marker id="269791353" label="Huorn Wood" category="73" did="1879509128" parentZoneId="1879063919" longitude="-142.92395" latitude="-102.566124"/>
-<marker id="269791354" label="The Farings of Kábuzar, Vol I" category="73" did="1879509136" parentZoneId="1879063919" longitude="-142.97925" latitude="-102.57431"/>
-<marker id="269791355" label="Piece of Cloth" category="73" did="1879509151" parentZoneId="1879063919" longitude="-142.95264" latitude="-102.56613"/>
-<marker id="269791356" label="Zâmaklar's Relic" category="73" did="1879509150" parentZoneId="1879063919" longitude="-142.97357" latitude="-102.56672"/>
-<marker id="269791357" label="Bunch of Herbs" category="73" did="1879509149" parentZoneId="1879063919" longitude="-142.96832" latitude="-102.559044"/>
-<marker id="269791358" label="Quill" category="73" did="1879509148" parentZoneId="1879063919" longitude="-142.92271" latitude="-102.55756"/>
-<marker id="269791359" label="Wood for Traps" category="73" did="1879509145" parentZoneId="1879063919" longitude="-142.95055" latitude="-102.55016"/>
-<marker id="269791360" label="Scroll" category="73" did="1879509144" parentZoneId="1879063919" longitude="-142.93039" latitude="-102.55846"/>
-<marker id="269791361" label="Zâwakhar's Treasure" category="73" did="1879509156" parentZoneId="1879063919" longitude="-142.93562" latitude="-102.56582"/>
-<marker id="269791362" label="Wood for Fire" category="73" did="1879509161" parentZoneId="1879063919" longitude="-142.9221" latitude="-102.549545"/>
-<marker id="269791363" label="Area for Clues" category="73" did="1879509247" parentZoneId="1879063919" longitude="-142.92184" latitude="-102.69301"/>
-<marker id="269791364" label="Herbs for Harvest" category="73" did="1879509246" parentZoneId="1879063919" longitude="-142.9188" latitude="-102.66112"/>
-<marker id="269791365" label="Area for Clues" category="73" did="1879509245" parentZoneId="1879063919" longitude="-142.9398" latitude="-102.69565"/>
-<marker id="269791366" label="Caracal Cage" category="73" did="1879509244" parentZoneId="1879063919" longitude="-142.92067" latitude="-102.70397"/>
-<marker id="269791367" label="Area for Water Bowl" category="73" did="1879509243" parentZoneId="1879063919" longitude="-142.93192" latitude="-102.67906"/>
-<marker id="269791368" label="Serval Cage" category="73" did="1879509241" parentZoneId="1879063919" longitude="-142.92715" latitude="-102.70536"/>
-<marker id="269791369" label="Area for Clues" category="73" did="1879509253" parentZoneId="1879063919" longitude="-142.9118" latitude="-102.67771"/>
-<marker id="269791370" label="Stockade Door" category="73" did="1879509251" parentZoneId="1879063919" longitude="-142.97508" latitude="-102.707245"/>
-<marker id="269791371" label="Area for Clues" category="73" did="1879509249" parentZoneId="1879063919" longitude="-142.92583" latitude="-102.69472"/>
-<marker id="269791372" label="Friendly Bee Queen" category="73" did="1879509248" parentZoneId="1879063919" longitude="-142.97623" latitude="-102.62029"/>
-<marker id="269791373" label="Rokhâran Evidence" category="73" did="1879509263" parentZoneId="1879063919" longitude="-142.89732" latitude="-102.69152"/>
-<marker id="269791374" label="Area for Clues" category="73" did="1879509258" parentZoneId="1879063919" longitude="-142.8935" latitude="-102.672554"/>
-<marker id="269791375" label="Area for Clues" category="73" did="1879509257" parentZoneId="1879063919" longitude="-142.90051" latitude="-102.67862"/>
-<marker id="269791376" label="Area for Clues" category="73" did="1879509256" parentZoneId="1879063919" longitude="-142.90752" latitude="-102.67653"/>
-<marker id="269791377" label="Clue" category="73" did="1879509269" parentZoneId="1879063919" longitude="-142.96" latitude="-102.697075"/>
-<marker id="269791378" label="Clue" category="73" did="1879509268" parentZoneId="1879063919" longitude="-142.9747" latitude="-102.69912"/>
-<marker id="269791379" label="Area for Clues" category="73" did="1879509265" parentZoneId="1879063919" longitude="-142.91895" latitude="-102.67928"/>
-<marker id="269791380" label="Clue" category="73" did="1879509278" parentZoneId="1879063919" longitude="-142.98378" latitude="-102.70634"/>
-<marker id="269791381" label="Black Powder" category="73" did="1879509274" parentZoneId="1879063919" longitude="-142.94258" latitude="-102.705055"/>
-<marker id="269791382" label="Azagâya's Treasure Cache" category="73" did="1879509287" parentZoneId="1879063919" longitude="-142.9883" latitude="-102.70809"/>
-<marker id="269791383" label="Stockade Door" category="73" did="1879509283" parentZoneId="1879063919" longitude="-142.95961" latitude="-102.70661"/>
-<marker id="269791384" label="Book on Fire" category="73" did="1879509282" parentZoneId="1879063919" longitude="-142.97136" latitude="-102.63945"/>
-<marker id="269791385" label="Cauldron for Stew" category="73" did="1879509281" parentZoneId="1879063919" longitude="-142.89925" latitude="-102.63467"/>
-<marker id="269791386" label="Azagâya Evidence" category="73" did="1879509280" parentZoneId="1879063919" longitude="-142.90991" latitude="-102.69207"/>
-<marker id="269852672" label="Cleansing Device" category="73" did="1879458758" parentZoneId="1879063919" longitude="-142.65938" latitude="-103.77791"/>
-<marker id="269852673" label="Cleansing Device" category="73" did="1879458758" parentZoneId="1879063919" longitude="-142.68748" latitude="-103.67814"/>
-<marker id="269852674" label="Cleansing Device" category="73" did="1879458758" parentZoneId="1879063919" longitude="-142.81035" latitude="-103.773415"/>
-<marker id="269852675" label="Cleansing Device" category="73" did="1879458758" parentZoneId="1879063919" longitude="-142.82675" latitude="-103.6548"/>
-<marker id="270282760" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.8" latitude="-108.799995"/>
-<marker id="270282761" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.8" latitude="-108.799995"/>
-<marker id="270282762" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.8" latitude="-108.799995"/>
-<marker id="270282763" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.8" latitude="-108.799995"/>
-<marker id="270282764" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.92967" latitude="-108.9277"/>
-<marker id="270282765" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.92967" latitude="-108.9277"/>
-<marker id="270282766" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.92967" latitude="-108.9277"/>
-<marker id="270282767" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.92967" latitude="-108.9277"/>
-<marker id="270282768" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.48228" latitude="-108.66181"/>
-<marker id="270282769" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.48228" latitude="-108.66181"/>
-<marker id="270282770" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.48228" latitude="-108.66181"/>
-<marker id="270282771" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.48228" latitude="-108.66181"/>
-<marker id="270282772" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.6281" latitude="-108.51898"/>
-<marker id="270282773" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.6281" latitude="-108.51898"/>
-<marker id="270282774" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.6281" latitude="-108.51898"/>
-<marker id="270282775" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.6281" latitude="-108.51898"/>
-<marker id="270282776" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.48178" latitude="-108.516045"/>
-<marker id="270282777" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.48178" latitude="-108.516045"/>
-<marker id="270282778" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.48178" latitude="-108.516045"/>
-<marker id="270282779" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.48178" latitude="-108.516045"/>
-<marker id="270282780" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.6122" latitude="-109.1152"/>
-<marker id="270282781" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.6122" latitude="-109.1152"/>
-<marker id="270282782" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.6122" latitude="-109.1152"/>
-<marker id="270282783" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.6122" latitude="-109.1152"/>
-<marker id="270282784" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.10233" latitude="-108.80725"/>
-<marker id="270282785" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.10233" latitude="-108.80725"/>
-<marker id="270282786" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.10233" latitude="-108.80725"/>
-<marker id="270282787" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.10233" latitude="-108.80725"/>
-<marker id="270282788" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.48978" latitude="-109.09573"/>
-<marker id="270282789" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.48978" latitude="-109.09573"/>
-<marker id="270282790" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.48978" latitude="-109.09573"/>
-<marker id="270282791" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.48978" latitude="-109.09573"/>
-<marker id="270282792" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.5785" latitude="-108.79086"/>
-<marker id="270282793" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.5785" latitude="-108.79086"/>
-<marker id="270282794" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.5785" latitude="-108.79086"/>
-<marker id="270282795" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.5785" latitude="-108.79086"/>
-<marker id="270282796" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.07347" latitude="-109.02077"/>
-<marker id="270282797" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.07347" latitude="-109.02077"/>
-<marker id="270282798" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.07347" latitude="-109.02077"/>
-<marker id="270282799" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.07347" latitude="-109.02077"/>
-<marker id="270282800" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.87343" latitude="-109.0853"/>
-<marker id="270282801" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.87343" latitude="-109.0853"/>
-<marker id="270282802" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.87343" latitude="-109.0853"/>
-<marker id="270282803" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.87343" latitude="-109.0853"/>
-<marker id="270282804" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.66699" latitude="-109.01031"/>
-<marker id="270282805" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.66699" latitude="-109.01031"/>
-<marker id="270282806" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.66699" latitude="-109.01031"/>
-<marker id="270282807" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.66699" latitude="-109.01031"/>
-<marker id="270282808" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.4737" latitude="-108.903046"/>
-<marker id="270282809" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.4737" latitude="-108.903046"/>
-<marker id="270282810" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.4737" latitude="-108.903046"/>
-<marker id="270282811" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.4737" latitude="-108.903046"/>
-<marker id="270282812" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.08769" latitude="-108.526794"/>
-<marker id="270282813" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.08769" latitude="-108.526794"/>
-<marker id="270282814" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.08769" latitude="-108.526794"/>
-<marker id="270282815" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.08769" latitude="-108.526794"/>
-<marker id="270282816" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.8028" latitude="-108.814926"/>
-<marker id="270282817" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.8028" latitude="-108.814926"/>
-<marker id="270282818" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.8028" latitude="-108.814926"/>
-<marker id="270282819" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.8028" latitude="-108.814926"/>
-<marker id="270282820" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.72488" latitude="-108.62263"/>
-<marker id="270282821" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.72488" latitude="-108.62263"/>
-<marker id="270282822" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.72488" latitude="-108.62263"/>
-<marker id="270282823" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.72488" latitude="-108.62263"/>
-<marker id="270282824" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.818" latitude="-108.515526"/>
-<marker id="270282825" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.818" latitude="-108.515526"/>
-<marker id="270282826" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.818" latitude="-108.515526"/>
-<marker id="270282827" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.818" latitude="-108.515526"/>
-<marker id="270282828" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.97643" latitude="-108.65665"/>
-<marker id="270282829" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.97643" latitude="-108.65665"/>
-<marker id="270282830" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.97643" latitude="-108.65665"/>
-<marker id="270282831" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.97643" latitude="-108.65665"/>
-<marker id="270282832" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.54817" latitude="-108.82945"/>
-<marker id="270282833" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.54817" latitude="-108.82945"/>
-<marker id="270282834" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.54817" latitude="-108.82945"/>
-<marker id="270282835" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.54817" latitude="-108.82945"/>
-<marker id="270282836" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.72266" latitude="-108.80489"/>
-<marker id="270282837" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.72266" latitude="-108.80489"/>
-<marker id="270282838" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.72266" latitude="-108.80489"/>
-<marker id="270282839" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.72266" latitude="-108.80489"/>
-<marker id="270282840" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.55367" latitude="-108.55568"/>
-<marker id="270282841" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.55367" latitude="-108.55568"/>
-<marker id="270282842" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.55367" latitude="-108.55568"/>
-<marker id="270282843" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.55367" latitude="-108.55568"/>
-<marker id="270282844" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.80077" latitude="-108.51268"/>
-<marker id="270282845" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.80077" latitude="-108.51268"/>
-<marker id="270282846" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.80077" latitude="-108.51268"/>
-<marker id="270282847" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.80077" latitude="-108.51268"/>
-<marker id="270282848" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.4798" latitude="-108.76717"/>
-<marker id="270282849" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.4798" latitude="-108.76717"/>
-<marker id="270282850" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.4798" latitude="-108.76717"/>
-<marker id="270282851" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.4798" latitude="-108.76717"/>
-<marker id="270282852" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.77919" latitude="-108.90324"/>
-<marker id="270282853" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.77919" latitude="-108.90324"/>
-<marker id="270282854" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.77919" latitude="-108.90324"/>
-<marker id="270282855" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.77919" latitude="-108.90324"/>
-<marker id="270282856" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.45406" latitude="-109.08078"/>
-<marker id="270282857" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.45406" latitude="-109.08078"/>
-<marker id="270282858" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.45406" latitude="-109.08078"/>
-<marker id="270282859" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.45406" latitude="-109.08078"/>
-<marker id="270282860" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.00655" latitude="-108.59589"/>
-<marker id="270282861" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.00655" latitude="-108.59589"/>
-<marker id="270282862" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.00655" latitude="-108.59589"/>
-<marker id="270282863" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.00655" latitude="-108.59589"/>
-<marker id="270282864" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.62088" latitude="-108.65605"/>
-<marker id="270282865" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.62088" latitude="-108.65605"/>
-<marker id="270282866" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.62088" latitude="-108.65605"/>
-<marker id="270282867" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.62088" latitude="-108.65605"/>
-<marker id="270282868" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.10085" latitude="-108.99801"/>
-<marker id="270282869" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.10085" latitude="-108.99801"/>
-<marker id="270282870" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.10085" latitude="-108.99801"/>
-<marker id="270282871" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.10085" latitude="-108.99801"/>
-<marker id="270282872" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.00269" latitude="-108.772224"/>
-<marker id="270282873" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.00269" latitude="-108.772224"/>
-<marker id="270282874" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.00269" latitude="-108.772224"/>
-<marker id="270282875" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.00269" latitude="-108.772224"/>
-<marker id="270282876" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.89581" latitude="-109.1089"/>
-<marker id="270282877" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.89581" latitude="-109.1089"/>
-<marker id="270282878" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.89581" latitude="-109.1089"/>
-<marker id="270282879" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.89581" latitude="-109.1089"/>
-<marker id="270282880" label="Brilliant Skarn Deposit" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.66637" latitude="-109.07365"/>
-<marker id="270282881" label="Wind-swept Black Ash Branches" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.66637" latitude="-109.07365"/>
-<marker id="270282882" label="Rich Brilliant Skarn Deposit" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.66637" latitude="-109.07365"/>
-<marker id="270282883" label="Heavy Wind-swept Black Ash Branches" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.66637" latitude="-109.07365"/>
-<marker id="270360576" label="Door" category="100" did="1879230733" parentZoneId="1879415453" longitude="-136.33264" latitude="-106.854996"/>
-<marker id="270360577" label="Real Estate Ledger" category="48" did="1879414455" parentZoneId="1879415444" longitude="-135.60728" latitude="-106.51096"/>
-<marker id="270360578" label="Yard" category="100" did="1879338247" parentZoneId="1879415444" longitude="-135.62975" latitude="-106.04018"/>
-<marker id="270360579" label="Door" category="100" did="1879230733" parentZoneId="1879415444" longitude="-136.03065" latitude="-106.44779"/>
-<marker id="270360580" label="Door" category="100" did="1879230733" parentZoneId="1879415444" longitude="-135.98871" latitude="-106.34623"/>
-<marker id="270360581" label="Door" category="100" did="1879230733" parentZoneId="1879415444" longitude="-135.92905" latitude="-106.47368"/>
-<marker id="270360582" label="Yard" category="100" did="1879338256" parentZoneId="1879415444" longitude="-136.36467" latitude="-106.39732"/>
-<marker id="270360583" label="Yard" category="100" did="1879338270" parentZoneId="1879415444" longitude="-135.8504" latitude="-106.61038"/>
-<marker id="270360584" label="Yard" category="100" did="1879338264" parentZoneId="1879415444" longitude="-136.36185" latitude="-106.75277"/>
-<marker id="270360585" label="Huge Yard" category="100" did="1879338267" parentZoneId="1879415444" longitude="-135.78964" latitude="-106.54894"/>
-<marker id="270360586" label="Yard" category="100" did="1879338272" parentZoneId="1879415444" longitude="-136.15202" latitude="-106.035995"/>
-<marker id="270360587" label="Huge Yard" category="100" did="1879338274" parentZoneId="1879415444" longitude="-136.09229" latitude="-106.11371"/>
-<marker id="270360588" label="Yard" category="100" did="1879338284" parentZoneId="1879415444" longitude="-136.3649" latitude="-106.6511"/>
-<marker id="270360589" label="Yard" category="100" did="1879338281" parentZoneId="1879415444" longitude="-136.35902" latitude="-106.23393"/>
-<marker id="270360590" label="Huge Yard" category="100" did="1879338294" parentZoneId="1879415444" longitude="-135.7027" latitude="-106.550514"/>
-<marker id="270360591" label="Yard" category="100" did="1879338291" parentZoneId="1879415444" longitude="-136.06071" latitude="-106.39803"/>
-<marker id="270360592" label="Yard" category="100" did="1879338300" parentZoneId="1879415444" longitude="-136.02168" latitude="-106.04204"/>
-<marker id="270360593" label="Yard" category="100" did="1879338298" parentZoneId="1879415444" longitude="-135.7968" latitude="-106.440956"/>
-<marker id="270360594" label="Enormous Yard" category="100" did="1879338335" parentZoneId="1879415444" longitude="-136.24686" latitude="-106.38194"/>
-<marker id="270360595" label="Doormat" category="100" did="1879338342" parentZoneId="1879415444" longitude="-135.98994" latitude="-106.34132"/>
-<marker id="270360596" label="Yard" category="100" did="1879338343" parentZoneId="1879415444" longitude="-136.3658" latitude="-106.07471"/>
-<marker id="270360597" label="Doormat" category="100" did="1879338337" parentZoneId="1879415444" longitude="-136.03741" latitude="-106.47369"/>
-<marker id="270360598" label="Yard" category="100" did="1879338338" parentZoneId="1879415444" longitude="-135.62834" latitude="-106.59931"/>
-<marker id="270360599" label="Yard" category="100" did="1879338339" parentZoneId="1879415444" longitude="-135.6885" latitude="-106.43895"/>
-<marker id="270360600" label="Yard" category="100" did="1879338344" parentZoneId="1879415444" longitude="-135.89044" latitude="-106.61038"/>
-<marker id="270360601" label="Enormous Yard" category="100" did="1879338347" parentZoneId="1879415444" longitude="-136.00186" latitude="-106.65602"/>
-<marker id="270360602" label="Yard" category="100" did="1879338360" parentZoneId="1879415444" longitude="-135.99924" latitude="-106.14492"/>
-<marker id="270360603" label="Yard" category="100" did="1879338363" parentZoneId="1879415444" longitude="-136.29697" latitude="-106.03099"/>
-<marker id="270360604" label="Huge Yard" category="100" did="1879399842" parentZoneId="1879415444" longitude="-135.69266" latitude="-106.26406"/>
+<marker id="269721600" label="地标测试" category="43" did="1879063052" parentZoneId="1879063919" longitude="-143.87654" latitude="-103.05727"/>
+<marker id="269721601" label="地标测试2" category="43" did="1879063053" parentZoneId="1879063919" longitude="-144.03348" latitude="-103.23354"/>
+<marker id="269721602" label="白掌应征者" category="71" did="1879077403" parentZoneId="1879063919" longitude="-143.82803" latitude="-103.23033"/>
+<marker id="269721603" label="高地猎人" category="71" did="1879080679" parentZoneId="1879063919" longitude="-143.78381" latitude="-103.23285"/>
+<marker id="269721604" label="王叶草植株" category="73" did="1879074049" parentZoneId="1879063919" longitude="-143.92416" latitude="-103.173836"/>
+<marker id="269721605" label="测试完成者" category="70" did="1879074076" parentZoneId="1879063919" longitude="-143.9174" latitude="-103.086006"/>
+<marker id="269721606" label="通用测试任务物品" category="73" did="1879074077" parentZoneId="1879063919" longitude="-143.88339" latitude="-103.1924"/>
+<marker id="269721607" label="测试赋予者" category="70" did="1879074078" parentZoneId="1879063919" longitude="-143.9556" latitude="-103.122345"/>
+<marker id="269721608" label="护送鼠" category="71" did="1879076363" parentZoneId="1879063919" longitude="-143.96498" latitude="-103.17916"/>
+<marker id="269721611" label="特纳柜台" category="73" did="1879090939" parentZoneId="1879063919" longitude="-143.95052" latitude="-103.18282"/>
+<marker id="269721613" label="王叶草植株" category="73" did="1879074049" parentZoneId="1879063919" longitude="-143.93564" latitude="-103.12237"/>
+<marker id="269721614" label="王叶草植株" category="73" did="1879074049" parentZoneId="1879063919" longitude="-143.90672" latitude="-103.10266"/>
+<marker id="269725696" label="援军的薄弱点" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.04932" latitude="-102.64704"/>
+<marker id="269725697" label="援军的薄弱点" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.04431" latitude="-102.61678"/>
+<marker id="269725698" label="援军的薄弱点" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.0296" latitude="-102.623535"/>
+<marker id="269725699" label="援军的薄弱点" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.05931" latitude="-102.630646"/>
+<marker id="269725700" label="援军的薄弱点" category="73" did="1879490687" parentZoneId="1879063919" longitude="-144.0543" latitude="-102.63454"/>
+<marker id="269725701" label="修理补给" category="73" did="1879490685" parentZoneId="1879063919" longitude="-144.21152" latitude="-102.6655"/>
+<marker id="269725702" label="修理补给" category="73" did="1879490685" parentZoneId="1879063919" longitude="-144.17963" latitude="-102.63707"/>
+<marker id="269725703" label="修理补给" category="73" did="1879490685" parentZoneId="1879063919" longitude="-144.13608" latitude="-102.64987"/>
+<marker id="269725704" label="毯子堆" category="73" did="1879490702" parentZoneId="1879063919" longitude="-144.07196" latitude="-102.491776"/>
+<marker id="269725705" label="毯子堆" category="73" did="1879490702" parentZoneId="1879063919" longitude="-144.06696" latitude="-102.498474"/>
+<marker id="269725706" label="毯子堆" category="73" did="1879490702" parentZoneId="1879063919" longitude="-144.06197" latitude="-102.48177"/>
+<marker id="269725707" label="食物篮" category="73" did="1879490703" parentZoneId="1879063919" longitude="-144.09294" latitude="-102.48538"/>
+<marker id="269725708" label="食物篮" category="73" did="1879490703" parentZoneId="1879063919" longitude="-144.08794" latitude="-102.491264"/>
+<marker id="269725709" label="食物篮" category="73" did="1879490703" parentZoneId="1879063919" longitude="-144.0976" latitude="-102.49084"/>
+<marker id="269725710" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.04425" latitude="-102.64109"/>
+<marker id="269725711" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.06386" latitude="-102.64366"/>
+<marker id="269725712" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.05887" latitude="-102.63866"/>
+<marker id="269725713" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.06926" latitude="-102.63162"/>
+<marker id="269725714" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.06425" latitude="-102.62662"/>
+<marker id="269725715" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.05925" latitude="-102.65159"/>
+<marker id="269725716" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.05426" latitude="-102.65109"/>
+<marker id="269725717" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.04926" latitude="-102.647514"/>
+<marker id="269725718" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.04886" latitude="-102.62866"/>
+<marker id="269725719" label="修理补给" category="73" did="1879490701" parentZoneId="1879063919" longitude="-144.04926" latitude="-102.64609"/>
+<marker id="269725720" label="碎石片" category="73" did="1879490704" parentZoneId="1879063919" longitude="-143.77977" latitude="-102.21617"/>
+<marker id="269725721" label="碎石片" category="73" did="1879490704" parentZoneId="1879063919" longitude="-143.77477" latitude="-102.21117"/>
+<marker id="269725722" label="碎石片" category="73" did="1879490704" parentZoneId="1879063919" longitude="-143.76976" latitude="-102.20617"/>
+<marker id="269725723" label="碎石片" category="73" did="1879490704" parentZoneId="1879063919" longitude="-143.76476" latitude="-102.20117"/>
+<marker id="269725724" label="饥饿沙行者" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.71562" latitude="-102.052216"/>
+<marker id="269725725" label="饥饿沙行者" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.71417" latitude="-102.07737"/>
+<marker id="269725726" label="饥饿沙行者" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.73692" latitude="-102.038246"/>
+<marker id="269725727" label="饥饿沙行者" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.70866" latitude="-102.02835"/>
+<marker id="269725728" label="饥饿沙行者" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.67159" latitude="-102.04524"/>
+<marker id="269725729" label="饥饿沙行者" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.74521" latitude="-102.075356"/>
+<marker id="269725730" label="饥饿沙行者" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.69366" latitude="-102.07036"/>
+<marker id="269725731" label="饥饿沙行者" category="71" did="1879488907" parentZoneId="1879063919" longitude="-143.68866" latitude="-102.09722"/>
+<marker id="269725732" label="重甲沼地腐蛆" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.27553" latitude="-102.54967"/>
+<marker id="269725733" label="重甲沼地腐蛆" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.30307" latitude="-102.54701"/>
+<marker id="269725734" label="重甲沼地腐蛆" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.28735" latitude="-102.56234"/>
+<marker id="269725735" label="重甲沼地腐蛆" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.27274" latitude="-102.57012"/>
+<marker id="269725736" label="重甲沼地腐蛆" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.27122" latitude="-102.55701"/>
+<marker id="269725737" label="重甲沼地腐蛆" category="71" did="1879488954" parentZoneId="1879063919" longitude="-144.29051" latitude="-102.536064"/>
+<marker id="269725738" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2886" latitude="-102.306046"/>
+<marker id="269725739" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2836" latitude="-102.30104"/>
+<marker id="269725740" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2786" latitude="-102.29604"/>
+<marker id="269725741" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2736" latitude="-102.291046"/>
+<marker id="269725742" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2686" latitude="-102.28604"/>
+<marker id="269725743" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2636" latitude="-102.281044"/>
+<marker id="269725744" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.3136" latitude="-102.33104"/>
+<marker id="269725745" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.3086" latitude="-102.32604"/>
+<marker id="269725746" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.3036" latitude="-102.321045"/>
+<marker id="269725747" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2986" latitude="-102.31604"/>
+<marker id="269725748" label="库迪豺狼" category="71" did="1879488962" parentZoneId="1879063919" longitude="-144.2936" latitude="-102.31104"/>
+<marker id="269725749" label="库迪暴徒" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.77122" latitude="-102.515656"/>
+<marker id="269725750" label="库迪暴徒" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.76758" latitude="-102.52572"/>
+<marker id="269725751" label="库迪暴徒" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.76799" latitude="-102.511765"/>
+<marker id="269725752" label="库迪暴徒" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75775" latitude="-102.51526"/>
+<marker id="269725753" label="库迪暴徒" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75209" latitude="-102.53146"/>
+<marker id="269725754" label="库迪暴徒" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.73956" latitude="-102.54368"/>
+<marker id="269725755" label="库迪暴徒" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75761" latitude="-102.51351"/>
+<marker id="269725756" label="库迪暴徒" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75351" latitude="-102.511566"/>
+<marker id="269725757" label="库迪暴徒" category="71" did="1879489042" parentZoneId="1879063919" longitude="-143.75862" latitude="-102.508064"/>
+<marker id="269725758" label="乌鲁" category="70" did="1879489590" parentZoneId="1879063919" longitude="-143.89302" latitude="-102.67343"/>
+<marker id="269725759" label="阿什卡布" category="70" did="1879489591" parentZoneId="1879063919" longitude="-144.04575" latitude="-102.49601"/>
+<marker id="269725760" label="那鲁德（Nârud）" category="70" did="1879489588" parentZoneId="1879063919" longitude="-144.08408" latitude="-102.47995"/>
+<marker id="269725761" label="穆杜鲁（Mudûru）" category="70" did="1879489589" parentZoneId="1879063919" longitude="-144.07451" latitude="-102.50981"/>
+<marker id="269725762" label="尼尼基拉格" category="70" did="1879489586" parentZoneId="1879063919" longitude="-144.06557" latitude="-102.47036"/>
+<marker id="269725763" label="加巴什" category="70" did="1879489587" parentZoneId="1879063919" longitude="-143.90778" latitude="-102.699684"/>
+<marker id="269725764" label="乌穆迪（Umurdi）" category="70" did="1879489596" parentZoneId="1879063919" longitude="-144.08475" latitude="-102.46873"/>
+<marker id="269725768" label="希迪姆" category="70" did="1879489592" parentZoneId="1879063919" longitude="-143.77101" latitude="-102.22736"/>
+<marker id="269725769" label="塔加达" category="70" did="1879489593" parentZoneId="1879063919" longitude="-144.07576" latitude="-102.48736"/>
+<marker id="269725777" label="尼萨米" category="70" did="1879489595" parentZoneId="1879063919" longitude="-144.08353" latitude="-102.48881"/>
+<marker id="269725779" label="南加尔" category="70" did="1879489597" parentZoneId="1879063919" longitude="-144.05574" latitude="-102.483574"/>
+<marker id="269725780" label="菲拉达尔" category="70" did="1879489594" parentZoneId="1879063919" longitude="-144.18437" latitude="-102.66047"/>
+<marker id="269729792" label="疫变巨荆棘" category="71" did="1879516911" parentZoneId="1879063919" longitude="-143.76746" latitude="-101.699356"/>
+<marker id="269729793" label="疫变纠缠根须" category="71" did="1879516919" parentZoneId="1879063919" longitude="-143.80981" latitude="-101.749565"/>
+<marker id="269729794" label="疫变巨灌丛" category="71" did="1879516916" parentZoneId="1879063919" longitude="-143.90405" latitude="-101.72759"/>
+<marker id="269729795" label="巨型疫病木" category="71" did="1879517262" parentZoneId="1879063919" longitude="-144.29535" latitude="-101.296974"/>
+<marker id="269729796" label="疫病幼蛛" category="71" did="1879517261" parentZoneId="1879063919" longitude="-144.1123" latitude="-101.68152"/>
+<marker id="269729797" label="疫病猎蛛" category="71" did="1879517260" parentZoneId="1879063919" longitude="-144.06006" latitude="-101.72759"/>
+<marker id="269729798" label="疫病织蛛" category="71" did="1879517259" parentZoneId="1879063919" longitude="-144.11429" latitude="-101.7791"/>
+<marker id="269729799" label="巨型喷发赘生物（Giant Erupting Growth）" category="71" did="1879517485" parentZoneId="1879063919" longitude="-144.13878" latitude="-101.51529"/>
+<marker id="269729800" label="红色疫斑结节（Red Blight Nodule）" category="71" did="1879517483" parentZoneId="1879063919" longitude="-144.18997" latitude="-101.49581"/>
+<marker id="269729801" label="黄色疫斑结节（Yellow Blight Nodule）" category="71" did="1879517482" parentZoneId="1879063919" longitude="-144.20053" latitude="-101.48358"/>
+<marker id="269729802" label="蓝色疫斑结节（Blue Blight Nodule）" category="71" did="1879517481" parentZoneId="1879063919" longitude="-144.1754" latitude="-101.479004"/>
+<marker id="269729803" label="窒息孢子云（Suffocating Spore Cloud）" category="71" did="1879517529" parentZoneId="1879063919" longitude="-144.19206" latitude="-101.5562"/>
+<marker id="269729806" label="空心肠霍鲁什（Hórush Hollow-heart）" category="71" did="1879518330" parentZoneId="1879063919" longitude="-143.9885" latitude="-101.37476"/>
+<marker id="269729807" label="受创者拉拉拉赫（Lhálach the Stricken）" category="71" did="1879518329" parentZoneId="1879063919" longitude="-144.16698" latitude="-101.72759"/>
+<marker id="269783040" label="帕沙兹马尔" category="71" did="1879525174" parentZoneId="1879063919" longitude="-143.46222" latitude="-103.86988"/>
+<marker id="269783041" label="纳西克图" category="71" did="1879525173" parentZoneId="1879063919" longitude="-143.46379" latitude="-104.04921"/>
+<marker id="269783042" label="埃里穆基尔" category="71" did="1879525172" parentZoneId="1879063919" longitude="-143.46672" latitude="-103.9209"/>
+<marker id="269783043" label="乌格玛拉特" category="71" did="1879525171" parentZoneId="1879063919" longitude="-143.46701" latitude="-103.97872"/>
+<marker id="269783044" label="腐溃者扎玛克塔尔（Zamâktar the Putrescent）" category="71" did="1879513337" parentZoneId="1879063919" longitude="-142.98926" latitude="-104.00513"/>
+<marker id="269787136" label="塞迪沃树篱" category="71" did="1879443607" parentZoneId="1879063919" longitude="-143.52666" latitude="-103.55317"/>
+<marker id="269787137" label="溪谷 pack-leader" category="71" did="1879443678" parentZoneId="1879063919" longitude="-143.50467" latitude="-103.56021"/>
+<marker id="269787139" label="塞迪沃树篱" category="71" did="1879443607" parentZoneId="1879063919" longitude="-143.11876" latitude="-103.33096"/>
+<marker id="269787141" label="溪谷 pack-leader" category="71" did="1879443678" parentZoneId="1879063919" longitude="-143.39969" latitude="-103.06791"/>
+<marker id="269787147" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.28722" latitude="-102.92794"/>
+<marker id="269787148" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.3177" latitude="-102.8937"/>
+<marker id="269787149" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.29898" latitude="-102.898476"/>
+<marker id="269787150" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.2819" latitude="-102.90026"/>
+<marker id="269787152" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.11269" latitude="-103.2168"/>
+<marker id="269787153" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.1071" latitude="-103.16435"/>
+<marker id="269787154" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.131" latitude="-103.210815"/>
+<marker id="269787155" label="大栽培者奥加努因" category="71" did="1879457179" parentZoneId="1879063919" longitude="-143.27234" latitude="-103.429115"/>
+<marker id="269787156" label="塞迪沃树篱" category="70" did="1879445431" parentZoneId="1879063919" longitude="-143.17166" latitude="-103.405304"/>
+<marker id="269787158" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.49707" latitude="-103.55627"/>
+<marker id="269787159" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.12202" latitude="-103.18803"/>
+<marker id="269787163" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.28294" latitude="-103.2556"/>
+<marker id="269787164" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.31317" latitude="-103.30732"/>
+<marker id="269787165" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.36346" latitude="-103.11068"/>
+<marker id="269787166" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.328" latitude="-103.11426"/>
+<marker id="269787167" label="溪谷猎人" category="71" did="1879443679" parentZoneId="1879063919" longitude="-143.32402" latitude="-102.92792"/>
+<marker id="269791232" label="米扎迪" category="70" did="1879501474" parentZoneId="1879063919" longitude="-143.27008" latitude="-102.553406"/>
+<marker id="269791233" label="米扎迪" category="70" did="1879501483" parentZoneId="1879063919" longitude="-143.2629" latitude="-102.552925"/>
+<marker id="269791234" label="埃哈马特隧道" category="73" did="1879501548" parentZoneId="1879063919" longitude="-143.30106" latitude="-102.6674"/>
+<marker id="269791235" label="苏布祖里" category="73" did="1879501569" parentZoneId="1879063919" longitude="-143.25426" latitude="-102.66815"/>
+<marker id="269791236" label="营地桌" category="73" did="1879501583" parentZoneId="1879063919" longitude="-143.2835" latitude="-102.6682"/>
+<marker id="269791237" label="奇怪的旗帜" category="73" did="1879501580" parentZoneId="1879063919" longitude="-143.3203" latitude="-102.57793"/>
+<marker id="269791238" label="纯净市场摊位" category="73" did="1879502175" parentZoneId="1879063919" longitude="-143.24316" latitude="-102.60551"/>
+<marker id="269791239" label="烧焦的市场摊位" category="73" did="1879502182" parentZoneId="1879063919" longitude="-143.32002" latitude="-102.62309"/>
+<marker id="269791240" label="肮脏的市场摊位" category="73" did="1879502180" parentZoneId="1879063919" longitude="-143.29335" latitude="-102.62317"/>
+<marker id="269791241" label="倒塌的市场摊位" category="73" did="1879502181" parentZoneId="1879063919" longitude="-143.26854" latitude="-102.625114"/>
+<marker id="269791242" label="肮脏的市场摊位" category="73" did="1879502178" parentZoneId="1879063919" longitude="-143.27992" latitude="-102.60261"/>
+<marker id="269791243" label="倒塌的市场摊位" category="73" did="1879502179" parentZoneId="1879063919" longitude="-143.25984" latitude="-102.60293"/>
+<marker id="269791244" label="纯净市场摊位" category="73" did="1879502176" parentZoneId="1879063919" longitude="-143.24442" latitude="-102.62572"/>
+<marker id="269791245" label="烧焦的市场摊位" category="73" did="1879502177" parentZoneId="1879063919" longitude="-143.30005" latitude="-102.6019"/>
+<marker id="269791246" label="暴怒猛犸" category="71" did="1879502334" parentZoneId="1879063919" longitude="-143.1925" latitude="-102.63892"/>
+<marker id="269791247" label="拉扎尔" category="70" did="1879524767" parentZoneId="1879063919" longitude="-143.44806" latitude="-102.33278"/>
+<marker id="269791248" label="拉扎尔" category="70" did="1879524764" parentZoneId="1879063919" longitude="-143.43579" latitude="-102.331154"/>
+<marker id="269791249" label="米扎迪" category="70" did="1879524763" parentZoneId="1879063919" longitude="-143.42174" latitude="-102.310844"/>
+<marker id="269791250" label="疲惫的苏布祖里战士" category="70" did="1879524783" parentZoneId="1879063919" longitude="-143.43529" latitude="-102.36656"/>
+<marker id="269791251" label="米扎迪" category="70" did="1879524791" parentZoneId="1879063919" longitude="-143.46484" latitude="-102.3118"/>
+<marker id="269791252" label="努穆鲁" category="70" did="1879524788" parentZoneId="1879063919" longitude="-143.45024" latitude="-102.3244"/>
+<marker id="269791253" label="米扎迪" category="70" did="1879524786" parentZoneId="1879063919" longitude="-143.43295" latitude="-102.30992"/>
+<marker id="269791254" label="努穆鲁" category="70" did="1879524796" parentZoneId="1879063919" longitude="-143.46146" latitude="-102.3253"/>
+<marker id="269791255" label="拉扎尔" category="70" did="1879524794" parentZoneId="1879063919" longitude="-143.459" latitude="-102.33527"/>
+<marker id="269791256" label="拉哈兹" category="70" did="1879524793" parentZoneId="1879063919" longitude="-143.44421" latitude="-102.34508"/>
+<marker id="269791257" label="疲惫的苏布祖里战士" category="70" did="1879524792" parentZoneId="1879063919" longitude="-143.42856" latitude="-102.36597"/>
+<marker id="269791258" label="拉哈兹" category="70" did="1879524802" parentZoneId="1879063919" longitude="-143.4357" latitude="-102.34485"/>
+<marker id="269791259" label="米扎迪" category="70" did="1879524800" parentZoneId="1879063919" longitude="-143.45625" latitude="-102.30992"/>
+<marker id="269791260" label="米扎迪" category="70" did="1879524811" parentZoneId="1879063919" longitude="-143.44461" latitude="-102.31014"/>
+<marker id="269791261" label="拉扎尔" category="70" did="1879524810" parentZoneId="1879063919" longitude="-143.42567" latitude="-102.332726"/>
+<marker id="269791262" label="水闸门锁" category="73" did="1879524851" parentZoneId="1879063919" longitude="-143.46611" latitude="-102.53898"/>
+<marker id="269791263" label="主城门机关" category="73" did="1879524857" parentZoneId="1879063919" longitude="-143.42625" latitude="-102.56419"/>
+<marker id="269791264" label="奥尔德凯路障" category="73" did="1879524876" parentZoneId="1879063919" longitude="-143.43848" latitude="-102.570786"/>
+<marker id="269791265" label="仓促修筑的路障" category="73" did="1879524874" parentZoneId="1879063919" longitude="-143.45831" latitude="-102.56422"/>
+<marker id="269791266" label="巴舒德二世" category="70" did="1879525252" parentZoneId="1879063919" longitude="-143.42177" latitude="-102.36539"/>
+<marker id="269791267" label="苏杜古尔" category="70" did="1879525250" parentZoneId="1879063919" longitude="-143.41238" latitude="-102.365486"/>
+<marker id="269791268" label="米扎迪" category="71" did="1879525358" parentZoneId="1879063919" longitude="-143.3976" latitude="-102.40587"/>
+<marker id="269791269" label="米扎迪" category="71" did="1879525357" parentZoneId="1879063919" longitude="-143.37401" latitude="-102.40409"/>
+<marker id="269791270" label="苏布祖里" category="71" did="1879525354" parentZoneId="1879063919" longitude="-143.38269" latitude="-102.40519"/>
+<marker id="269791271" label="拉扎尔" category="71" did="1879525353" parentZoneId="1879063919" longitude="-143.3656" latitude="-102.40484"/>
+<marker id="269791272" label="拉哈兹" category="71" did="1879525360" parentZoneId="1879063919" longitude="-143.38976" latitude="-102.405174"/>
+<marker id="269791273" label="巴舒德的守护者" category="71" did="1879525818" parentZoneId="1879063919" longitude="-143.3788" latitude="-102.41965"/>
+<marker id="269791274" label="复生努穆鲁" category="71" did="1879525817" parentZoneId="1879063919" longitude="-143.37022" latitude="-102.419174"/>
+<marker id="269791275" label="地穴鼠" category="71" did="1879484828" parentZoneId="1879063919" longitude="-143.09398" latitude="-102.65849"/>
+<marker id="269791276" label="蜘蛛受害者" category="70" did="1879485121" parentZoneId="1879063919" longitude="-143.13457" latitude="-102.64195"/>
+<marker id="269791277" label="基甘喷吐者" category="71" did="1879512135" parentZoneId="1879063919" longitude="-143.01558" latitude="-102.539986"/>
+<marker id="269791278" label="基甘幼蛛" category="71" did="1879512142" parentZoneId="1879063919" longitude="-143.07741" latitude="-102.553314"/>
+<marker id="269791279" label="尤赫塔尔，饥渴者（Jûkhtar the Ravenous）" category="71" did="1879512141" parentZoneId="1879063919" longitude="-143.09099" latitude="-102.51954"/>
+<marker id="269791280" label="基甘织蛛者" category="71" did="1879512138" parentZoneId="1879063919" longitude="-143.09164" latitude="-102.486275"/>
+<marker id="269791281" label="基甘潜伏者" category="71" did="1879512146" parentZoneId="1879063919" longitude="-143.00955" latitude="-102.56149"/>
+<marker id="269791282" label="塔萨里隐蔽者（Tarsâri Shrouded One）" category="71" did="1879512664" parentZoneId="1879063919" longitude="-143.13477" latitude="-102.4975"/>
+<marker id="269791283" label="塔萨里流氓（Tarsâri Rogue）" category="71" did="1879512676" parentZoneId="1879063919" longitude="-143.12083" latitude="-102.49576"/>
+<marker id="269791284" label="塔萨里匕首手（Tarsâri Dagger）" category="71" did="1879512681" parentZoneId="1879063919" longitude="-143.12083" latitude="-102.507416"/>
+<marker id="269791285" label="塔萨里屠夫（Tarsâri Butcher）" category="71" did="1879512693" parentZoneId="1879063919" longitude="-143.15277" latitude="-102.50765"/>
+<marker id="269791286" label="塔萨里蒙面者（Tarsâri Veiled One）" category="71" did="1879512689" parentZoneId="1879063919" longitude="-143.15369" latitude="-102.49728"/>
+<marker id="269791287" label="塔萨里特工（Tarsâri Operative）" category="71" did="1879512696" parentZoneId="1879063919" longitude="-143.1355" latitude="-102.50689"/>
+<marker id="269791288" label="奥尔达克（Ordâkhai）巫师" category="71" did="1879512859" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
+<marker id="269791289" label="奥尔达克（Ordâkhai）勇士" category="71" did="1879512857" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
+<marker id="269791290" label="骇人鸡（Terrifying Chicken）" category="71" did="1879512867" parentZoneId="1879063919" longitude="-143.1603" latitude="-102.521576"/>
+<marker id="269791291" label="奥尔达克（Ordâkhai）战士" category="71" did="1879512872" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
+<marker id="269791292" label="尼尔贾拉·博罗（Nirjára Bóro）" category="71" did="1879512885" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
+<marker id="269791293" label="奥尔达克（Ordâkhai）哨兵" category="71" did="1879512880" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
+<marker id="269791294" label="奥尔达克（Ordâkhai）驯猫者" category="71" did="1879512892" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
+<marker id="269791295" label="奥尔达克战猫" category="71" did="1879513282" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
+<marker id="269791296" label="奥尔达克（Ordâkhai）女巫" category="71" did="1879513295" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
+<marker id="269791297" label="奥尔达克瞭望员" category="71" did="1879513301" parentZoneId="1879063919" longitude="-143.13495" latitude="-102.53629"/>
+<marker id="269791298" label="马绍尔" category="70" did="1879508870" parentZoneId="1879063919" longitude="-142.93251" latitude="-102.44404"/>
+<marker id="269791299" label="莱贾尔" category="70" did="1879508869" parentZoneId="1879063919" longitude="-142.90714" latitude="-102.44172"/>
+<marker id="269791300" label="马苏尔加(Masûlga)" category="70" did="1879508867" parentZoneId="1879063919" longitude="-142.97383" latitude="-102.4747"/>
+<marker id="269791301" label="马绍尔" category="70" did="1879508878" parentZoneId="1879063919" longitude="-142.91563" latitude="-102.44115"/>
+<marker id="269791302" label="马苏尔加(Masûlga)" category="70" did="1879508877" parentZoneId="1879063919" longitude="-142.95645" latitude="-102.47187"/>
+<marker id="269791303" label="阿利扎尔(Alizâr)" category="70" did="1879508876" parentZoneId="1879063919" longitude="-142.9481" latitude="-102.48003"/>
+<marker id="269791304" label="马罗尔(Marôr)" category="70" did="1879508875" parentZoneId="1879063919" longitude="-142.98074" latitude="-102.48303"/>
+<marker id="269791305" label="扎亚娜囚犯" category="70" did="1879508872" parentZoneId="1879063919" longitude="-142.97935" latitude="-102.492035"/>
+<marker id="269791306" label="萨拉克" category="70" did="1879508886" parentZoneId="1879063919" longitude="-142.95071" latitude="-102.42576"/>
+<marker id="269791307" label="奥伦（Oren）" category="70" did="1879508885" parentZoneId="1879063919" longitude="-142.98262" latitude="-102.46805"/>
+<marker id="269791308" label="米扎迪" category="70" did="1879508883" parentZoneId="1879063919" longitude="-142.92543" latitude="-102.415115"/>
+<marker id="269791309" label="米扎迪" category="70" did="1879508881" parentZoneId="1879063919" longitude="-142.93509" latitude="-102.415054"/>
+<marker id="269791310" label="扎马克拉尔" category="70" did="1879508880" parentZoneId="1879063919" longitude="-142.94858" latitude="-102.453804"/>
+<marker id="269791311" label="巴贾蒂" category="70" did="1879508894" parentZoneId="1879063919" longitude="-142.96333" latitude="-102.4815"/>
+<marker id="269791312" label="罗克哈兰" category="70" did="1879508890" parentZoneId="1879063919" longitude="-142.94044" latitude="-102.43678"/>
+<marker id="269791313" label="奥伦（Oren）" category="70" did="1879508902" parentZoneId="1879063919" longitude="-142.96446" latitude="-102.465485"/>
+<marker id="269791314" label="旅人" category="70" did="1879508899" parentZoneId="1879063919" longitude="-142.96278" latitude="-102.48993"/>
+<marker id="269791315" label="奥伦（Oren）" category="70" did="1879508898" parentZoneId="1879063919" longitude="-142.90656" latitude="-102.44912"/>
+<marker id="269791316" label="米扎迪" category="70" did="1879508896" parentZoneId="1879063919" longitude="-142.95198" latitude="-102.41736"/>
+<marker id="269791317" label="贾拉诺" category="70" did="1879508911" parentZoneId="1879063919" longitude="-142.9067" latitude="-102.42402"/>
+<marker id="269791318" label="马罗尔(Marôr)" category="70" did="1879508909" parentZoneId="1879063919" longitude="-142.97276" latitude="-102.482574"/>
+<marker id="269791319" label="萨拉克" category="70" did="1879508908" parentZoneId="1879063919" longitude="-142.9423" latitude="-102.42656"/>
+<marker id="269791320" label="奥伦（Oren）" category="70" did="1879508907" parentZoneId="1879063919" longitude="-142.94838" latitude="-102.46221"/>
+<marker id="269791321" label="萨卡姆" category="70" did="1879508906" parentZoneId="1879063919" longitude="-142.95647" latitude="-102.4804"/>
+<marker id="269791322" label="罗克哈兰" category="70" did="1879508905" parentZoneId="1879063919" longitude="-142.94873" latitude="-102.43806"/>
+<marker id="269791323" label="商人" category="70" did="1879508904" parentZoneId="1879063919" longitude="-142.91646" latitude="-102.467705"/>
+<marker id="269791324" label="阿扎盖亚" category="70" did="1879508918" parentZoneId="1879063919" longitude="-142.95763" latitude="-102.4464"/>
+<marker id="269791325" label="贾拉诺" category="70" did="1879508916" parentZoneId="1879063919" longitude="-142.91536" latitude="-102.424286"/>
+<marker id="269791326" label="米扎迪" category="70" did="1879508915" parentZoneId="1879063919" longitude="-142.90758" latitude="-102.4134"/>
+<marker id="269791327" label="贾拉诺" category="70" did="1879508912" parentZoneId="1879063919" longitude="-142.97627" latitude="-102.437546"/>
+<marker id="269791328" label="米扎迪" category="70" did="1879508926" parentZoneId="1879063919" longitude="-142.94345" latitude="-102.41687"/>
+<marker id="269791329" label="扎贾纳囚犯" category="70" did="1879508925" parentZoneId="1879063919" longitude="-142.97156" latitude="-102.49115"/>
+<marker id="269791330" label="马罗尔(Marôr)" category="70" did="1879508924" parentZoneId="1879063919" longitude="-142.90614" latitude="-102.46736"/>
+<marker id="269791331" label="马苏尔加(Masûlga)" category="70" did="1879508921" parentZoneId="1879063919" longitude="-142.94835" latitude="-102.47085"/>
+<marker id="269791332" label="米扎迪" category="70" did="1879508935" parentZoneId="1879063919" longitude="-142.91597" latitude="-102.41471"/>
+<marker id="269791333" label="马绍尔" category="70" did="1879508932" parentZoneId="1879063919" longitude="-142.92401" latitude="-102.443405"/>
+<marker id="269791334" label="米苏图尔(Mithûrtu)" category="70" did="1879508929" parentZoneId="1879063919" longitude="-142.93047" latitude="-102.46917"/>
+<marker id="269791335" label="奥伦（Oren）" category="70" did="1879508928" parentZoneId="1879063919" longitude="-142.97475" latitude="-102.466515"/>
+<marker id="269791336" label="马苏尔加(Masûlga)" category="70" did="1879508942" parentZoneId="1879063919" longitude="-142.9394" latitude="-102.469604"/>
+<marker id="269791337" label="马苏尔加(Masûlga)" category="70" did="1879508941" parentZoneId="1879063919" longitude="-142.96417" latitude="-102.47211"/>
+<marker id="269791338" label="奥伦（Oren）" category="70" did="1879508937" parentZoneId="1879063919" longitude="-142.91562" latitude="-102.44929"/>
+<marker id="269791339" label="米扎迪" category="70" did="1879508948" parentZoneId="1879063919" longitude="-142.98593" latitude="-102.4282"/>
+<marker id="269791340" label="约拉卡里" category="70" did="1879508945" parentZoneId="1879063919" longitude="-142.93987" latitude="-102.46111"/>
+<marker id="269791341" label="奥伦（Oren）" category="70" did="1879508958" parentZoneId="1879063919" longitude="-142.95726" latitude="-102.46341"/>
+<marker id="269791342" label="阿扎盖亚" category="70" did="1879508955" parentZoneId="1879063919" longitude="-142.96701" latitude="-102.446236"/>
+<marker id="269791343" label="贾拉诺" category="70" did="1879508954" parentZoneId="1879063919" longitude="-142.98497" latitude="-102.43818"/>
+<marker id="269791344" label="商人" category="70" did="1879508952" parentZoneId="1879063919" longitude="-142.92326" latitude="-102.468925"/>
+<marker id="269791345" label="塔萨里编年史，第一卷" category="73" did="1879509127" parentZoneId="1879063919" longitude="-142.97311" latitude="-102.57402"/>
+<marker id="269791346" label="仪式哈马提剑" category="73" did="1879509124" parentZoneId="1879063919" longitude="-142.9732" latitude="-102.55978"/>
+<marker id="269791347" label="波哈尼文稿" category="73" did="1879509123" parentZoneId="1879063919" longitude="-142.96913" latitude="-102.56711"/>
+<marker id="269791348" label="萨拉克的法令" category="73" did="1879509133" parentZoneId="1879063919" longitude="-142.97931" latitude="-102.566635"/>
+<marker id="269791349" label="食物碗" category="73" did="1879509132" parentZoneId="1879063919" longitude="-142.97887" latitude="-102.55919"/>
+<marker id="269791350" label="扎亚尼剑" category="73" did="1879509131" parentZoneId="1879063919" longitude="-142.91205" latitude="-102.5579"/>
+<marker id="269791351" label="塔萨里编年史，第二卷" category="73" did="1879509130" parentZoneId="1879063919" longitude="-142.9671" latitude="-102.573555"/>
+<marker id="269791352" label="塔萨里编年史，第四卷" category="73" did="1879509129" parentZoneId="1879063919" longitude="-142.961" latitude="-102.57357"/>
+<marker id="269791353" label="胡恩木材" category="73" did="1879509128" parentZoneId="1879063919" longitude="-142.92395" latitude="-102.566124"/>
+<marker id="269791354" label="《卡布扎尔行纪》第一卷" category="73" did="1879509136" parentZoneId="1879063919" longitude="-142.97925" latitude="-102.57431"/>
+<marker id="269791355" label="布料" category="73" did="1879509151" parentZoneId="1879063919" longitude="-142.95264" latitude="-102.56613"/>
+<marker id="269791356" label="扎马克拉尔的遗物" category="73" did="1879509150" parentZoneId="1879063919" longitude="-142.97357" latitude="-102.56672"/>
+<marker id="269791357" label="香草束" category="73" did="1879509149" parentZoneId="1879063919" longitude="-142.96832" latitude="-102.559044"/>
+<marker id="269791358" label="鹅毛笔" category="73" did="1879509148" parentZoneId="1879063919" longitude="-142.92271" latitude="-102.55756"/>
+<marker id="269791359" label="陷阱用木" category="73" did="1879509145" parentZoneId="1879063919" longitude="-142.95055" latitude="-102.55016"/>
+<marker id="269791360" label="卷轴" category="73" did="1879509144" parentZoneId="1879063919" longitude="-142.93039" latitude="-102.55846"/>
+<marker id="269791361" label="扎瓦卡的宝藏" category="73" did="1879509156" parentZoneId="1879063919" longitude="-142.93562" latitude="-102.56582"/>
+<marker id="269791362" label="引火木" category="73" did="1879509161" parentZoneId="1879063919" longitude="-142.9221" latitude="-102.549545"/>
+<marker id="269791363" label="线索区域" category="73" did="1879509247" parentZoneId="1879063919" longitude="-142.92184" latitude="-102.69301"/>
+<marker id="269791364" label="待收割的草药" category="73" did="1879509246" parentZoneId="1879063919" longitude="-142.9188" latitude="-102.66112"/>
+<marker id="269791365" label="线索区域" category="73" did="1879509245" parentZoneId="1879063919" longitude="-142.9398" latitude="-102.69565"/>
+<marker id="269791366" label="狞猫笼" category="73" did="1879509244" parentZoneId="1879063919" longitude="-142.92067" latitude="-102.70397"/>
+<marker id="269791367" label="水碗放置区域" category="73" did="1879509243" parentZoneId="1879063919" longitude="-142.93192" latitude="-102.67906"/>
+<marker id="269791368" label="薮猫笼" category="73" did="1879509241" parentZoneId="1879063919" longitude="-142.92715" latitude="-102.70536"/>
+<marker id="269791369" label="线索区域" category="73" did="1879509253" parentZoneId="1879063919" longitude="-142.9118" latitude="-102.67771"/>
+<marker id="269791370" label="栅栏门" category="73" did="1879509251" parentZoneId="1879063919" longitude="-142.97508" latitude="-102.707245"/>
+<marker id="269791371" label="线索区域" category="73" did="1879509249" parentZoneId="1879063919" longitude="-142.92583" latitude="-102.69472"/>
+<marker id="269791372" label="友好蜂后" category="73" did="1879509248" parentZoneId="1879063919" longitude="-142.97623" latitude="-102.62029"/>
+<marker id="269791373" label="罗卡兰证据" category="73" did="1879509263" parentZoneId="1879063919" longitude="-142.89732" latitude="-102.69152"/>
+<marker id="269791374" label="线索区域" category="73" did="1879509258" parentZoneId="1879063919" longitude="-142.8935" latitude="-102.672554"/>
+<marker id="269791375" label="线索区域" category="73" did="1879509257" parentZoneId="1879063919" longitude="-142.90051" latitude="-102.67862"/>
+<marker id="269791376" label="线索区域" category="73" did="1879509256" parentZoneId="1879063919" longitude="-142.90752" latitude="-102.67653"/>
+<marker id="269791377" label="线索" category="73" did="1879509269" parentZoneId="1879063919" longitude="-142.96" latitude="-102.697075"/>
+<marker id="269791378" label="线索" category="73" did="1879509268" parentZoneId="1879063919" longitude="-142.9747" latitude="-102.69912"/>
+<marker id="269791379" label="线索区域" category="73" did="1879509265" parentZoneId="1879063919" longitude="-142.91895" latitude="-102.67928"/>
+<marker id="269791380" label="线索" category="73" did="1879509278" parentZoneId="1879063919" longitude="-142.98378" latitude="-102.70634"/>
+<marker id="269791381" label="黑火药" category="73" did="1879509274" parentZoneId="1879063919" longitude="-142.94258" latitude="-102.705055"/>
+<marker id="269791382" label="阿扎加亚的宝藏库" category="73" did="1879509287" parentZoneId="1879063919" longitude="-142.9883" latitude="-102.70809"/>
+<marker id="269791383" label="栅栏门" category="73" did="1879509283" parentZoneId="1879063919" longitude="-142.95961" latitude="-102.70661"/>
+<marker id="269791384" label="着火的书" category="73" did="1879509282" parentZoneId="1879063919" longitude="-142.97136" latitude="-102.63945"/>
+<marker id="269791385" label="炖锅" category="73" did="1879509281" parentZoneId="1879063919" longitude="-142.89925" latitude="-102.63467"/>
+<marker id="269791386" label="阿扎加亚的证据" category="73" did="1879509280" parentZoneId="1879063919" longitude="-142.90991" latitude="-102.69207"/>
+<marker id="269852672" label="净化装置" category="73" did="1879458758" parentZoneId="1879063919" longitude="-142.65938" latitude="-103.77791"/>
+<marker id="269852673" label="净化装置" category="73" did="1879458758" parentZoneId="1879063919" longitude="-142.68748" latitude="-103.67814"/>
+<marker id="269852674" label="净化装置" category="73" did="1879458758" parentZoneId="1879063919" longitude="-142.81035" latitude="-103.773415"/>
+<marker id="269852675" label="净化装置" category="73" did="1879458758" parentZoneId="1879063919" longitude="-142.82675" latitude="-103.6548"/>
+<marker id="270282760" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.8" latitude="-108.799995"/>
+<marker id="270282761" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.8" latitude="-108.799995"/>
+<marker id="270282762" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.8" latitude="-108.799995"/>
+<marker id="270282763" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.8" latitude="-108.799995"/>
+<marker id="270282764" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.92967" latitude="-108.9277"/>
+<marker id="270282765" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.92967" latitude="-108.9277"/>
+<marker id="270282766" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.92967" latitude="-108.9277"/>
+<marker id="270282767" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.92967" latitude="-108.9277"/>
+<marker id="270282768" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.48228" latitude="-108.66181"/>
+<marker id="270282769" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.48228" latitude="-108.66181"/>
+<marker id="270282770" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.48228" latitude="-108.66181"/>
+<marker id="270282771" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.48228" latitude="-108.66181"/>
+<marker id="270282772" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.6281" latitude="-108.51898"/>
+<marker id="270282773" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.6281" latitude="-108.51898"/>
+<marker id="270282774" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.6281" latitude="-108.51898"/>
+<marker id="270282775" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.6281" latitude="-108.51898"/>
+<marker id="270282776" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.48178" latitude="-108.516045"/>
+<marker id="270282777" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.48178" latitude="-108.516045"/>
+<marker id="270282778" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.48178" latitude="-108.516045"/>
+<marker id="270282779" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.48178" latitude="-108.516045"/>
+<marker id="270282780" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.6122" latitude="-109.1152"/>
+<marker id="270282781" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.6122" latitude="-109.1152"/>
+<marker id="270282782" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.6122" latitude="-109.1152"/>
+<marker id="270282783" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.6122" latitude="-109.1152"/>
+<marker id="270282784" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.10233" latitude="-108.80725"/>
+<marker id="270282785" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.10233" latitude="-108.80725"/>
+<marker id="270282786" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.10233" latitude="-108.80725"/>
+<marker id="270282787" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.10233" latitude="-108.80725"/>
+<marker id="270282788" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.48978" latitude="-109.09573"/>
+<marker id="270282789" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.48978" latitude="-109.09573"/>
+<marker id="270282790" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.48978" latitude="-109.09573"/>
+<marker id="270282791" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.48978" latitude="-109.09573"/>
+<marker id="270282792" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.5785" latitude="-108.79086"/>
+<marker id="270282793" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.5785" latitude="-108.79086"/>
+<marker id="270282794" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.5785" latitude="-108.79086"/>
+<marker id="270282795" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.5785" latitude="-108.79086"/>
+<marker id="270282796" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.07347" latitude="-109.02077"/>
+<marker id="270282797" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.07347" latitude="-109.02077"/>
+<marker id="270282798" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.07347" latitude="-109.02077"/>
+<marker id="270282799" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.07347" latitude="-109.02077"/>
+<marker id="270282800" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.87343" latitude="-109.0853"/>
+<marker id="270282801" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.87343" latitude="-109.0853"/>
+<marker id="270282802" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.87343" latitude="-109.0853"/>
+<marker id="270282803" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.87343" latitude="-109.0853"/>
+<marker id="270282804" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.66699" latitude="-109.01031"/>
+<marker id="270282805" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.66699" latitude="-109.01031"/>
+<marker id="270282806" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.66699" latitude="-109.01031"/>
+<marker id="270282807" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.66699" latitude="-109.01031"/>
+<marker id="270282808" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.4737" latitude="-108.903046"/>
+<marker id="270282809" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.4737" latitude="-108.903046"/>
+<marker id="270282810" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.4737" latitude="-108.903046"/>
+<marker id="270282811" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.4737" latitude="-108.903046"/>
+<marker id="270282812" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.08769" latitude="-108.526794"/>
+<marker id="270282813" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.08769" latitude="-108.526794"/>
+<marker id="270282814" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.08769" latitude="-108.526794"/>
+<marker id="270282815" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.08769" latitude="-108.526794"/>
+<marker id="270282816" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.8028" latitude="-108.814926"/>
+<marker id="270282817" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.8028" latitude="-108.814926"/>
+<marker id="270282818" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.8028" latitude="-108.814926"/>
+<marker id="270282819" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.8028" latitude="-108.814926"/>
+<marker id="270282820" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.72488" latitude="-108.62263"/>
+<marker id="270282821" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.72488" latitude="-108.62263"/>
+<marker id="270282822" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.72488" latitude="-108.62263"/>
+<marker id="270282823" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.72488" latitude="-108.62263"/>
+<marker id="270282824" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.818" latitude="-108.515526"/>
+<marker id="270282825" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.818" latitude="-108.515526"/>
+<marker id="270282826" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.818" latitude="-108.515526"/>
+<marker id="270282827" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.818" latitude="-108.515526"/>
+<marker id="270282828" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.97643" latitude="-108.65665"/>
+<marker id="270282829" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.97643" latitude="-108.65665"/>
+<marker id="270282830" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.97643" latitude="-108.65665"/>
+<marker id="270282831" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.97643" latitude="-108.65665"/>
+<marker id="270282832" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.54817" latitude="-108.82945"/>
+<marker id="270282833" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.54817" latitude="-108.82945"/>
+<marker id="270282834" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.54817" latitude="-108.82945"/>
+<marker id="270282835" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.54817" latitude="-108.82945"/>
+<marker id="270282836" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.72266" latitude="-108.80489"/>
+<marker id="270282837" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.72266" latitude="-108.80489"/>
+<marker id="270282838" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.72266" latitude="-108.80489"/>
+<marker id="270282839" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.72266" latitude="-108.80489"/>
+<marker id="270282840" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.55367" latitude="-108.55568"/>
+<marker id="270282841" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.55367" latitude="-108.55568"/>
+<marker id="270282842" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.55367" latitude="-108.55568"/>
+<marker id="270282843" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.55367" latitude="-108.55568"/>
+<marker id="270282844" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.80077" latitude="-108.51268"/>
+<marker id="270282845" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.80077" latitude="-108.51268"/>
+<marker id="270282846" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.80077" latitude="-108.51268"/>
+<marker id="270282847" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.80077" latitude="-108.51268"/>
+<marker id="270282848" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.4798" latitude="-108.76717"/>
+<marker id="270282849" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.4798" latitude="-108.76717"/>
+<marker id="270282850" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.4798" latitude="-108.76717"/>
+<marker id="270282851" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.4798" latitude="-108.76717"/>
+<marker id="270282852" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.77919" latitude="-108.90324"/>
+<marker id="270282853" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.77919" latitude="-108.90324"/>
+<marker id="270282854" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.77919" latitude="-108.90324"/>
+<marker id="270282855" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.77919" latitude="-108.90324"/>
+<marker id="270282856" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.45406" latitude="-109.08078"/>
+<marker id="270282857" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.45406" latitude="-109.08078"/>
+<marker id="270282858" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.45406" latitude="-109.08078"/>
+<marker id="270282859" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.45406" latitude="-109.08078"/>
+<marker id="270282860" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.00655" latitude="-108.59589"/>
+<marker id="270282861" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.00655" latitude="-108.59589"/>
+<marker id="270282862" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.00655" latitude="-108.59589"/>
+<marker id="270282863" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.00655" latitude="-108.59589"/>
+<marker id="270282864" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.62088" latitude="-108.65605"/>
+<marker id="270282865" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.62088" latitude="-108.65605"/>
+<marker id="270282866" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.62088" latitude="-108.65605"/>
+<marker id="270282867" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.62088" latitude="-108.65605"/>
+<marker id="270282868" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.10085" latitude="-108.99801"/>
+<marker id="270282869" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.10085" latitude="-108.99801"/>
+<marker id="270282870" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.10085" latitude="-108.99801"/>
+<marker id="270282871" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.10085" latitude="-108.99801"/>
+<marker id="270282872" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-137.00269" latitude="-108.772224"/>
+<marker id="270282873" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-137.00269" latitude="-108.772224"/>
+<marker id="270282874" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-137.00269" latitude="-108.772224"/>
+<marker id="270282875" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-137.00269" latitude="-108.772224"/>
+<marker id="270282876" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.89581" latitude="-109.1089"/>
+<marker id="270282877" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.89581" latitude="-109.1089"/>
+<marker id="270282878" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.89581" latitude="-109.1089"/>
+<marker id="270282879" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.89581" latitude="-109.1089"/>
+<marker id="270282880" label="璀璨矽卡岩矿" category="50" did="1879430435" parentZoneId="1879063919" longitude="-136.66637" latitude="-109.07365"/>
+<marker id="270282881" label="风蚀黑岑木树枝" category="50" did="1879430413" parentZoneId="1879063919" longitude="-136.66637" latitude="-109.07365"/>
+<marker id="270282882" label="大型璀璨矽卡岩矿" category="50" did="1879430431" parentZoneId="1879063919" longitude="-136.66637" latitude="-109.07365"/>
+<marker id="270282883" label="大型风蚀黑岑木树枝" category="50" did="1879430441" parentZoneId="1879063919" longitude="-136.66637" latitude="-109.07365"/>
+<marker id="270360576" label="门" category="100" did="1879230733" parentZoneId="1879415453" longitude="-136.33264" latitude="-106.854996"/>
+<marker id="270360577" label="房地产账簿" category="48" did="1879414455" parentZoneId="1879415444" longitude="-135.60728" latitude="-106.51096"/>
+<marker id="270360578" label="庭院" category="100" did="1879338247" parentZoneId="1879415444" longitude="-135.62975" latitude="-106.04018"/>
+<marker id="270360579" label="门" category="100" did="1879230733" parentZoneId="1879415444" longitude="-136.03065" latitude="-106.44779"/>
+<marker id="270360580" label="门" category="100" did="1879230733" parentZoneId="1879415444" longitude="-135.98871" latitude="-106.34623"/>
+<marker id="270360581" label="门" category="100" did="1879230733" parentZoneId="1879415444" longitude="-135.92905" latitude="-106.47368"/>
+<marker id="270360582" label="庭院" category="100" did="1879338256" parentZoneId="1879415444" longitude="-136.36467" latitude="-106.39732"/>
+<marker id="270360583" label="庭院" category="100" did="1879338270" parentZoneId="1879415444" longitude="-135.8504" latitude="-106.61038"/>
+<marker id="270360584" label="庭院" category="100" did="1879338264" parentZoneId="1879415444" longitude="-136.36185" latitude="-106.75277"/>
+<marker id="270360585" label="巨型庭院" category="100" did="1879338267" parentZoneId="1879415444" longitude="-135.78964" latitude="-106.54894"/>
+<marker id="270360586" label="庭院" category="100" did="1879338272" parentZoneId="1879415444" longitude="-136.15202" latitude="-106.035995"/>
+<marker id="270360587" label="巨型庭院" category="100" did="1879338274" parentZoneId="1879415444" longitude="-136.09229" latitude="-106.11371"/>
+<marker id="270360588" label="庭院" category="100" did="1879338284" parentZoneId="1879415444" longitude="-136.3649" latitude="-106.6511"/>
+<marker id="270360589" label="庭院" category="100" did="1879338281" parentZoneId="1879415444" longitude="-136.35902" latitude="-106.23393"/>
+<marker id="270360590" label="巨型庭院" category="100" did="1879338294" parentZoneId="1879415444" longitude="-135.7027" latitude="-106.550514"/>
+<marker id="270360591" label="庭院" category="100" did="1879338291" parentZoneId="1879415444" longitude="-136.06071" latitude="-106.39803"/>
+<marker id="270360592" label="庭院" category="100" did="1879338300" parentZoneId="1879415444" longitude="-136.02168" latitude="-106.04204"/>
+<marker id="270360593" label="庭院" category="100" did="1879338298" parentZoneId="1879415444" longitude="-135.7968" latitude="-106.440956"/>
+<marker id="270360594" label="超大庭院" category="100" did="1879338335" parentZoneId="1879415444" longitude="-136.24686" latitude="-106.38194"/>
+<marker id="270360595" label="门垫" category="100" did="1879338342" parentZoneId="1879415444" longitude="-135.98994" latitude="-106.34132"/>
+<marker id="270360596" label="庭院" category="100" did="1879338343" parentZoneId="1879415444" longitude="-136.3658" latitude="-106.07471"/>
+<marker id="270360597" label="门垫" category="100" did="1879338337" parentZoneId="1879415444" longitude="-136.03741" latitude="-106.47369"/>
+<marker id="270360598" label="庭院" category="100" did="1879338338" parentZoneId="1879415444" longitude="-135.62834" latitude="-106.59931"/>
+<marker id="270360599" label="庭院" category="100" did="1879338339" parentZoneId="1879415444" longitude="-135.6885" latitude="-106.43895"/>
+<marker id="270360600" label="庭院" category="100" did="1879338344" parentZoneId="1879415444" longitude="-135.89044" latitude="-106.61038"/>
+<marker id="270360601" label="超大庭院" category="100" did="1879338347" parentZoneId="1879415444" longitude="-136.00186" latitude="-106.65602"/>
+<marker id="270360602" label="庭院" category="100" did="1879338360" parentZoneId="1879415444" longitude="-135.99924" latitude="-106.14492"/>
+<marker id="270360603" label="庭院" category="100" did="1879338363" parentZoneId="1879415444" longitude="-136.29697" latitude="-106.03099"/>
+<marker id="270360604" label="巨型庭院" category="100" did="1879399842" parentZoneId="1879415444" longitude="-135.69266" latitude="-106.26406"/>
 <marker id="270360605" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879415453" longitude="-136.4149" latitude="-106.79906"/>
 <marker id="270360606" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879415453" longitude="-136.36546" latitude="-106.83824"/>
 <marker id="270360607" label="HouseKeeper" category="100" did="1879093790" parentZoneId="1879415444" longitude="-135.90413" latitude="-106.4391"/>
 <marker id="270360608" label="HouseKeeper" category="100" did="1879093790" parentZoneId="1879415444" longitude="-136.0" latitude="-106.399994"/>
-<marker id="270360609" label="Yard" category="100" did="1879415333" parentZoneId="1879415444" longitude="-135.7655" latitude="-106.03499"/>
-<marker id="270360610" label="Huge Yard" category="100" did="1879399975" parentZoneId="1879415444" longitude="-135.77824" latitude="-106.26421"/>
-<marker id="270360611" label="Yard" category="100" did="1879415335" parentZoneId="1879415444" longitude="-136.13159" latitude="-106.76097"/>
-<marker id="270360612" label="Yard" category="100" did="1879415334" parentZoneId="1879415444" longitude="-135.89836" latitude="-106.03648"/>
-<marker id="270360613" label="Yard" category="100" did="1879415341" parentZoneId="1879415444" longitude="-135.88364" latitude="-106.186676"/>
-<marker id="270360614" label="Yard" category="100" did="1879415340" parentZoneId="1879415444" longitude="-135.8436" latitude="-106.186676"/>
-<marker id="270360615" label="Yard" category="100" did="1879415343" parentZoneId="1879415444" longitude="-135.67749" latitude="-106.60738"/>
-<marker id="270360616" label="Yard" category="100" did="1879415342" parentZoneId="1879415444" longitude="-135.80486" latitude="-106.60674"/>
-<marker id="270360617" label="Yard" category="100" did="1879415337" parentZoneId="1879415444" longitude="-135.79572" latitude="-106.33455"/>
-<marker id="270360618" label="Yard" category="100" did="1879415336" parentZoneId="1879415444" longitude="-135.63417" latitude="-106.717285"/>
-<marker id="270360619" label="Yard" category="100" did="1879415339" parentZoneId="1879415444" longitude="-136.11253" latitude="-106.187515"/>
-<marker id="270360620" label="Yard" category="100" did="1879415338" parentZoneId="1879415444" longitude="-135.94528" latitude="-106.142586"/>
-<marker id="270360621" label="Yard" category="100" did="1879415349" parentZoneId="1879415444" longitude="-136.06071" latitude="-106.35796"/>
-<marker id="270360622" label="Yard" category="100" did="1879415348" parentZoneId="1879415444" longitude="-136.06723" latitude="-106.18956"/>
-<marker id="270360623" label="Yard" category="100" did="1879415351" parentZoneId="1879415444" longitude="-136.21149" latitude="-106.2722"/>
-<marker id="270360624" label="Yard" category="100" did="1879415350" parentZoneId="1879415444" longitude="-135.89738" latitude="-106.75821"/>
-<marker id="270360625" label="Yard" category="100" did="1879415345" parentZoneId="1879415444" longitude="-135.69092" latitude="-106.342476"/>
-<marker id="270360626" label="Yard" category="100" did="1879415344" parentZoneId="1879415444" longitude="-136.26132" latitude="-106.76179"/>
-<marker id="270360627" label="Yard" category="100" did="1879415347" parentZoneId="1879415444" longitude="-135.94878" latitude="-106.087364"/>
-<marker id="270360628" label="Yard" category="100" did="1879415346" parentZoneId="1879415444" longitude="-135.63106" latitude="-106.164024"/>
-<marker id="270360629" label="Exterior Universal Hook" category="100" did="1879415357" parentZoneId="1879415444" longitude="-136.23328" latitude="-106.03133"/>
-<marker id="270360630" label="Exterior Universal Hook" category="100" did="1879415356" parentZoneId="1879415444" longitude="-136.08919" latitude="-106.040146"/>
-<marker id="270360631" label="Exterior Universal Hook" category="100" did="1879415359" parentZoneId="1879415444" longitude="-135.82889" latitude="-106.039"/>
-<marker id="270360632" label="Exterior Universal Hook" category="100" did="1879415358" parentZoneId="1879415444" longitude="-136.358" latitude="-106.03063"/>
-<marker id="270360633" label="Yard" category="100" did="1879415353" parentZoneId="1879415444" longitude="-136.10486" latitude="-106.61722"/>
-<marker id="270360634" label="Yard" category="100" did="1879415352" parentZoneId="1879415444" longitude="-136.20753" latitude="-106.53547"/>
-<marker id="270360635" label="Yard" category="100" did="1879415355" parentZoneId="1879415444" longitude="-136.36401" latitude="-106.534164"/>
-<marker id="270360636" label="Yard" category="100" did="1879415354" parentZoneId="1879415444" longitude="-136.1449" latitude="-106.61722"/>
-<marker id="270360637" label="Exterior Universal Hook" category="100" did="1879415365" parentZoneId="1879415444" longitude="-136.15636" latitude="-106.08365"/>
-<marker id="270360638" label="Exterior Universal Hook" category="100" did="1879415364" parentZoneId="1879415444" longitude="-136.1607" latitude="-106.15822"/>
-<marker id="270360639" label="Exterior Universal Hook" category="100" did="1879415367" parentZoneId="1879415444" longitude="-135.80315" latitude="-106.38829"/>
-<marker id="270360640" label="Exterior Universal Hook" category="100" did="1879415366" parentZoneId="1879415444" longitude="-135.7467" latitude="-106.388794"/>
-<marker id="270360641" label="Exterior Universal Hook" category="100" did="1879415361" parentZoneId="1879415444" longitude="-135.9603" latitude="-106.039825"/>
-<marker id="270360642" label="Exterior Universal Hook" category="100" did="1879415360" parentZoneId="1879415444" longitude="-135.69739" latitude="-106.035805"/>
-<marker id="270360643" label="Exterior Universal Hook" category="100" did="1879415363" parentZoneId="1879415444" longitude="-136.01195" latitude="-106.18778"/>
-<marker id="270360644" label="Exterior Universal Hook" category="100" did="1879415362" parentZoneId="1879415444" longitude="-135.95526" latitude="-106.19195"/>
-<marker id="270360645" label="Exterior Universal Hook" category="100" did="1879415373" parentZoneId="1879415444" longitude="-135.74545" latitude="-106.43719"/>
-<marker id="270360646" label="Exterior Universal Hook" category="100" did="1879415372" parentZoneId="1879415444" longitude="-136.36238" latitude="-106.12842"/>
-<marker id="270360647" label="Exterior Universal Hook" category="100" did="1879415375" parentZoneId="1879415444" longitude="-136.01988" latitude="-106.26828"/>
-<marker id="270360648" label="Exterior Universal Hook" category="100" did="1879415374" parentZoneId="1879415444" longitude="-135.74434" latitude="-106.340645"/>
-<marker id="270360649" label="Exterior Universal Hook" category="100" did="1879415369" parentZoneId="1879415444" longitude="-136.368" latitude="-106.18119"/>
-<marker id="270360650" label="Exterior Universal Hook" category="100" did="1879415368" parentZoneId="1879415444" longitude="-135.62239" latitude="-106.223335"/>
-<marker id="270360651" label="Huge Yard" category="100" did="1879096910" parentZoneId="1879415444" longitude="-135.87363" latitude="-106.684296"/>
-<marker id="270360652" label="Exterior Universal Hook" category="100" did="1879415371" parentZoneId="1879415444" longitude="-135.62018" latitude="-106.09823"/>
-<marker id="270360653" label="Huge Yard" category="100" did="1879096911" parentZoneId="1879415444" longitude="-136.27817" latitude="-106.51093"/>
-<marker id="270360654" label="Exterior Universal Hook" category="100" did="1879415370" parentZoneId="1879415444" longitude="-136.03047" latitude="-106.09703"/>
-<marker id="270360655" label="Huge Yard" category="100" did="1879096912" parentZoneId="1879415444" longitude="-135.86993" latitude="-106.1099"/>
-<marker id="270360656" label="Exterior Universal Hook" category="100" did="1879415381" parentZoneId="1879415444" longitude="-136.12012" latitude="-106.399185"/>
-<marker id="270360657" label="Huge Yard" category="100" did="1879096913" parentZoneId="1879415444" longitude="-136.28572" latitude="-106.251465"/>
-<marker id="270360658" label="Exterior Universal Hook" category="100" did="1879415380" parentZoneId="1879415444" longitude="-135.69121" latitude="-106.3893"/>
-<marker id="270360659" label="Huge Yard" category="100" did="1879096914" parentZoneId="1879415444" longitude="-136.12242" latitude="-106.69246"/>
-<marker id="270360660" label="Exterior Universal Hook" category="100" did="1879415383" parentZoneId="1879415444" longitude="-135.86049" latitude="-106.389854"/>
-<marker id="270360661" label="Enormous Yard" category="100" did="1879096915" parentZoneId="1879415444" longitude="-136.26166" latitude="-106.657104"/>
-<marker id="270360662" label="Exterior Universal Hook" category="100" did="1879415382" parentZoneId="1879415444" longitude="-135.87234" latitude="-106.533394"/>
-<marker id="270360663" label="Enormous Yard" category="100" did="1879096916" parentZoneId="1879415444" longitude="-135.729" latitude="-106.135414"/>
-<marker id="270360664" label="Exterior Universal Hook" category="100" did="1879415377" parentZoneId="1879415444" longitude="-136.00854" latitude="-106.53558"/>
-<marker id="270360665" label="Enormous Yard" category="100" did="1879096917" parentZoneId="1879415444" longitude="-136.25398" latitude="-106.13372"/>
-<marker id="270360666" label="Exterior Universal Hook" category="100" did="1879415376" parentZoneId="1879415444" longitude="-136.1176" latitude="-106.26531"/>
-<marker id="270360667" label="Exterior Universal Hook" category="100" did="1879415379" parentZoneId="1879415444" longitude="-136.12094" latitude="-106.488335"/>
-<marker id="270360668" label="Exterior Universal Hook" category="100" did="1879415378" parentZoneId="1879415444" longitude="-136.11917" latitude="-106.35693"/>
-<marker id="270360669" label="Doormat" category="100" did="1879096920" parentZoneId="1879415444" longitude="-135.92311" latitude="-106.47347"/>
-<marker id="270360670" label="Exterior Universal Hook" category="100" did="1879415389" parentZoneId="1879415444" longitude="-135.68716" latitude="-106.654526"/>
-<marker id="270360671" label="Exterior Universal Hook" category="100" did="1879415388" parentZoneId="1879415444" longitude="-135.7388" latitude="-106.66026"/>
-<marker id="270360672" label="Exterior Universal Hook" category="100" did="1879415391" parentZoneId="1879415444" longitude="-136.36723" latitude="-106.59957"/>
-<marker id="270360673" label="Exterior Universal Hook" category="100" did="1879415390" parentZoneId="1879415444" longitude="-135.68797" latitude="-106.70508"/>
-<marker id="270360674" label="Exterior Universal Hook" category="100" did="1879415385" parentZoneId="1879415444" longitude="-135.86377" latitude="-106.268105"/>
-<marker id="270360675" label="Yard" category="100" did="1879096925" parentZoneId="1879415444" longitude="-135.69118" latitude="-106.75828"/>
-<marker id="270360676" label="Exterior Universal Hook" category="100" did="1879415384" parentZoneId="1879415444" longitude="-135.7429" latitude="-106.70414"/>
-<marker id="270360677" label="Exterior Universal Hook" category="100" did="1879415387" parentZoneId="1879415444" longitude="-135.78745" latitude="-106.66197"/>
-<marker id="270360678" label="Yard" category="100" did="1879096927" parentZoneId="1879415444" longitude="-135.80951" latitude="-106.70274"/>
-<marker id="270360679" label="Exterior Universal Hook" category="100" did="1879415386" parentZoneId="1879415444" longitude="-136.12457" latitude="-106.53621"/>
-<marker id="270360680" label="Yard" category="100" did="1879096928" parentZoneId="1879415444" longitude="-136.00551" latitude="-106.75953"/>
-<marker id="270360681" label="Exterior Universal Hook" category="100" did="1879415397" parentZoneId="1879415444" longitude="-135.9502" latitude="-106.75054"/>
-<marker id="270360682" label="Yard" category="100" did="1879096929" parentZoneId="1879415444" longitude="-135.80151" latitude="-106.757416"/>
-<marker id="270360683" label="Exterior Universal Hook" category="100" did="1879415396" parentZoneId="1879415444" longitude="-135.851" latitude="-106.757355"/>
-<marker id="270360684" label="Yard" category="100" did="1879096930" parentZoneId="1879415444" longitude="-136.20753" latitude="-106.49541"/>
-<marker id="270360685" label="Exterior Universal Hook" category="100" did="1879415399" parentZoneId="1879415444" longitude="-136.19371" latitude="-106.76148"/>
-<marker id="270360686" label="Yard" category="100" did="1879096931" parentZoneId="1879415444" longitude="-136.21149" latitude="-106.23215"/>
-<marker id="270360687" label="Exterior Universal Hook" category="100" did="1879415398" parentZoneId="1879415444" longitude="-136.06274" latitude="-106.75977"/>
-<marker id="270360688" label="Exterior Universal Hook" category="100" did="1879415393" parentZoneId="1879415444" longitude="-136.3659" latitude="-106.702774"/>
-<marker id="270360689" label="Exterior Universal Hook" category="100" did="1879415392" parentZoneId="1879415444" longitude="-135.63524" latitude="-106.664986"/>
-<marker id="270360690" label="Exterior Universal Hook" category="100" did="1879415395" parentZoneId="1879415444" longitude="-135.74529" latitude="-106.76183"/>
-<marker id="270360691" label="Exterior Universal Hook" category="100" did="1879415394" parentZoneId="1879415444" longitude="-135.64162" latitude="-106.758995"/>
-<marker id="270360692" label="Ambient Music" category="100" did="1879415401" parentZoneId="1879415444" longitude="-135.93011" latitude="-106.46219"/>
-<marker id="270360693" label="Exterior Universal Hook" category="100" did="1879415400" parentZoneId="1879415444" longitude="-136.31532" latitude="-106.76355"/>
-<marker id="270360694" label="Hitching Post" category="100" did="1879405269" parentZoneId="1879415444" longitude="-135.9948" latitude="-106.089226"/>
-<marker id="270360695" label="Hitching Post" category="100" did="1879405268" parentZoneId="1879415444" longitude="-135.9948" latitude="-106.100395"/>
-<marker id="270360696" label="Hitching Post" category="100" did="1879405270" parentZoneId="1879415444" longitude="-136.00609" latitude="-106.100395"/>
-<marker id="270360697" label="Hitching Post" category="100" did="1879405265" parentZoneId="1879415444" longitude="-136.00609" latitude="-106.089226"/>
-<marker id="270360698" label="Hitching Post" category="100" did="1879405267" parentZoneId="1879415444" longitude="-135.67186" latitude="-106.400215"/>
-<marker id="270360699" label="Hitching Post" category="100" did="1879405266" parentZoneId="1879415444" longitude="-135.70764" latitude="-106.627174"/>
-<marker id="270360700" label="Yard" category="100" did="1879442177" parentZoneId="1879415444" longitude="-135.92305" latitude="-106.436905"/>
-<marker id="270360701" label="---" category="100" did="1879095077" parentZoneId="1879415444" longitude="-135.6335" latitude="-106.15919"/>
-<marker id="270360702" label="---" category="100" did="1879095077" parentZoneId="1879415453" longitude="-136.41254" latitude="-106.83148"/>
-<marker id="270360703" label="---" category="100" did="1879095077" parentZoneId="1879415444" longitude="-135.65276" latitude="-106.65402"/>
-<marker id="270360704" label="---" category="100" did="1879095077" parentZoneId="1879415444" longitude="-136.00731" latitude="-106.399994"/>
-<marker id="270360705" label="---" category="100" did="1879095077" parentZoneId="1879415453" longitude="-136.39372" latitude="-106.79985"/>
-<marker id="270360706" label="Fence" category="100" did="1879456615" parentZoneId="1879415444" longitude="-135.93004" latitude="-106.45303"/>
-<marker id="270360707" label="Hitching Post" category="100" did="1879405418" parentZoneId="1879415444" longitude="-135.67186" latitude="-106.37787"/>
-<marker id="270360708" label="Hitching Post" category="100" did="1879405431" parentZoneId="1879415444" longitude="-135.70764" latitude="-106.616005"/>
-<marker id="270360709" label="Hitching Post" category="100" did="1879405426" parentZoneId="1879415444" longitude="-135.67186" latitude="-106.38904"/>
-<marker id="270360710" label="Hitching Post" category="100" did="1879405439" parentZoneId="1879415444" longitude="-135.9948" latitude="-106.078064"/>
-<marker id="270360711" label="Hitching Post" category="100" did="1879405435" parentZoneId="1879415444" longitude="-136.00609" latitude="-106.078064"/>
-<marker id="270360712" label="Hitching Post" category="100" did="1879405434" parentZoneId="1879415444" longitude="-135.70764" latitude="-106.60484"/>
-<marker id="270360713" label="Ambient Environment" category="100" did="1879443349" parentZoneId="1879415444" longitude="-135.92986" latitude="-106.458496"/>
+<marker id="270360609" label="庭院" category="100" did="1879415333" parentZoneId="1879415444" longitude="-135.7655" latitude="-106.03499"/>
+<marker id="270360610" label="巨型庭院" category="100" did="1879399975" parentZoneId="1879415444" longitude="-135.77824" latitude="-106.26421"/>
+<marker id="270360611" label="庭院" category="100" did="1879415335" parentZoneId="1879415444" longitude="-136.13159" latitude="-106.76097"/>
+<marker id="270360612" label="庭院" category="100" did="1879415334" parentZoneId="1879415444" longitude="-135.89836" latitude="-106.03648"/>
+<marker id="270360613" label="庭院" category="100" did="1879415341" parentZoneId="1879415444" longitude="-135.88364" latitude="-106.186676"/>
+<marker id="270360614" label="庭院" category="100" did="1879415340" parentZoneId="1879415444" longitude="-135.8436" latitude="-106.186676"/>
+<marker id="270360615" label="庭院" category="100" did="1879415343" parentZoneId="1879415444" longitude="-135.67749" latitude="-106.60738"/>
+<marker id="270360616" label="庭院" category="100" did="1879415342" parentZoneId="1879415444" longitude="-135.80486" latitude="-106.60674"/>
+<marker id="270360617" label="庭院" category="100" did="1879415337" parentZoneId="1879415444" longitude="-135.79572" latitude="-106.33455"/>
+<marker id="270360618" label="庭院" category="100" did="1879415336" parentZoneId="1879415444" longitude="-135.63417" latitude="-106.717285"/>
+<marker id="270360619" label="庭院" category="100" did="1879415339" parentZoneId="1879415444" longitude="-136.11253" latitude="-106.187515"/>
+<marker id="270360620" label="庭院" category="100" did="1879415338" parentZoneId="1879415444" longitude="-135.94528" latitude="-106.142586"/>
+<marker id="270360621" label="庭院" category="100" did="1879415349" parentZoneId="1879415444" longitude="-136.06071" latitude="-106.35796"/>
+<marker id="270360622" label="庭院" category="100" did="1879415348" parentZoneId="1879415444" longitude="-136.06723" latitude="-106.18956"/>
+<marker id="270360623" label="庭院" category="100" did="1879415351" parentZoneId="1879415444" longitude="-136.21149" latitude="-106.2722"/>
+<marker id="270360624" label="庭院" category="100" did="1879415350" parentZoneId="1879415444" longitude="-135.89738" latitude="-106.75821"/>
+<marker id="270360625" label="庭院" category="100" did="1879415345" parentZoneId="1879415444" longitude="-135.69092" latitude="-106.342476"/>
+<marker id="270360626" label="庭院" category="100" did="1879415344" parentZoneId="1879415444" longitude="-136.26132" latitude="-106.76179"/>
+<marker id="270360627" label="庭院" category="100" did="1879415347" parentZoneId="1879415444" longitude="-135.94878" latitude="-106.087364"/>
+<marker id="270360628" label="庭院" category="100" did="1879415346" parentZoneId="1879415444" longitude="-135.63106" latitude="-106.164024"/>
+<marker id="270360629" label="外部通用挂钩" category="100" did="1879415357" parentZoneId="1879415444" longitude="-136.23328" latitude="-106.03133"/>
+<marker id="270360630" label="外部通用挂钩" category="100" did="1879415356" parentZoneId="1879415444" longitude="-136.08919" latitude="-106.040146"/>
+<marker id="270360631" label="外部通用挂钩" category="100" did="1879415359" parentZoneId="1879415444" longitude="-135.82889" latitude="-106.039"/>
+<marker id="270360632" label="外部通用挂钩" category="100" did="1879415358" parentZoneId="1879415444" longitude="-136.358" latitude="-106.03063"/>
+<marker id="270360633" label="庭院" category="100" did="1879415353" parentZoneId="1879415444" longitude="-136.10486" latitude="-106.61722"/>
+<marker id="270360634" label="庭院" category="100" did="1879415352" parentZoneId="1879415444" longitude="-136.20753" latitude="-106.53547"/>
+<marker id="270360635" label="庭院" category="100" did="1879415355" parentZoneId="1879415444" longitude="-136.36401" latitude="-106.534164"/>
+<marker id="270360636" label="庭院" category="100" did="1879415354" parentZoneId="1879415444" longitude="-136.1449" latitude="-106.61722"/>
+<marker id="270360637" label="外部通用挂钩" category="100" did="1879415365" parentZoneId="1879415444" longitude="-136.15636" latitude="-106.08365"/>
+<marker id="270360638" label="外部通用挂钩" category="100" did="1879415364" parentZoneId="1879415444" longitude="-136.1607" latitude="-106.15822"/>
+<marker id="270360639" label="外部通用挂钩" category="100" did="1879415367" parentZoneId="1879415444" longitude="-135.80315" latitude="-106.38829"/>
+<marker id="270360640" label="外部通用挂钩" category="100" did="1879415366" parentZoneId="1879415444" longitude="-135.7467" latitude="-106.388794"/>
+<marker id="270360641" label="外部通用挂钩" category="100" did="1879415361" parentZoneId="1879415444" longitude="-135.9603" latitude="-106.039825"/>
+<marker id="270360642" label="外部通用挂钩" category="100" did="1879415360" parentZoneId="1879415444" longitude="-135.69739" latitude="-106.035805"/>
+<marker id="270360643" label="外部通用挂钩" category="100" did="1879415363" parentZoneId="1879415444" longitude="-136.01195" latitude="-106.18778"/>
+<marker id="270360644" label="外部通用挂钩" category="100" did="1879415362" parentZoneId="1879415444" longitude="-135.95526" latitude="-106.19195"/>
+<marker id="270360645" label="外部通用挂钩" category="100" did="1879415373" parentZoneId="1879415444" longitude="-135.74545" latitude="-106.43719"/>
+<marker id="270360646" label="外部通用挂钩" category="100" did="1879415372" parentZoneId="1879415444" longitude="-136.36238" latitude="-106.12842"/>
+<marker id="270360647" label="外部通用挂钩" category="100" did="1879415375" parentZoneId="1879415444" longitude="-136.01988" latitude="-106.26828"/>
+<marker id="270360648" label="外部通用挂钩" category="100" did="1879415374" parentZoneId="1879415444" longitude="-135.74434" latitude="-106.340645"/>
+<marker id="270360649" label="外部通用挂钩" category="100" did="1879415369" parentZoneId="1879415444" longitude="-136.368" latitude="-106.18119"/>
+<marker id="270360650" label="外部通用挂钩" category="100" did="1879415368" parentZoneId="1879415444" longitude="-135.62239" latitude="-106.223335"/>
+<marker id="270360651" label="巨型庭院" category="100" did="1879096910" parentZoneId="1879415444" longitude="-135.87363" latitude="-106.684296"/>
+<marker id="270360652" label="外部通用挂钩" category="100" did="1879415371" parentZoneId="1879415444" longitude="-135.62018" latitude="-106.09823"/>
+<marker id="270360653" label="巨型庭院" category="100" did="1879096911" parentZoneId="1879415444" longitude="-136.27817" latitude="-106.51093"/>
+<marker id="270360654" label="外部通用挂钩" category="100" did="1879415370" parentZoneId="1879415444" longitude="-136.03047" latitude="-106.09703"/>
+<marker id="270360655" label="巨型庭院" category="100" did="1879096912" parentZoneId="1879415444" longitude="-135.86993" latitude="-106.1099"/>
+<marker id="270360656" label="外部通用挂钩" category="100" did="1879415381" parentZoneId="1879415444" longitude="-136.12012" latitude="-106.399185"/>
+<marker id="270360657" label="巨型庭院" category="100" did="1879096913" parentZoneId="1879415444" longitude="-136.28572" latitude="-106.251465"/>
+<marker id="270360658" label="外部通用挂钩" category="100" did="1879415380" parentZoneId="1879415444" longitude="-135.69121" latitude="-106.3893"/>
+<marker id="270360659" label="巨型庭院" category="100" did="1879096914" parentZoneId="1879415444" longitude="-136.12242" latitude="-106.69246"/>
+<marker id="270360660" label="外部通用挂钩" category="100" did="1879415383" parentZoneId="1879415444" longitude="-135.86049" latitude="-106.389854"/>
+<marker id="270360661" label="超大庭院" category="100" did="1879096915" parentZoneId="1879415444" longitude="-136.26166" latitude="-106.657104"/>
+<marker id="270360662" label="外部通用挂钩" category="100" did="1879415382" parentZoneId="1879415444" longitude="-135.87234" latitude="-106.533394"/>
+<marker id="270360663" label="超大庭院" category="100" did="1879096916" parentZoneId="1879415444" longitude="-135.729" latitude="-106.135414"/>
+<marker id="270360664" label="外部通用挂钩" category="100" did="1879415377" parentZoneId="1879415444" longitude="-136.00854" latitude="-106.53558"/>
+<marker id="270360665" label="超大庭院" category="100" did="1879096917" parentZoneId="1879415444" longitude="-136.25398" latitude="-106.13372"/>
+<marker id="270360666" label="外部通用挂钩" category="100" did="1879415376" parentZoneId="1879415444" longitude="-136.1176" latitude="-106.26531"/>
+<marker id="270360667" label="外部通用挂钩" category="100" did="1879415379" parentZoneId="1879415444" longitude="-136.12094" latitude="-106.488335"/>
+<marker id="270360668" label="外部通用挂钩" category="100" did="1879415378" parentZoneId="1879415444" longitude="-136.11917" latitude="-106.35693"/>
+<marker id="270360669" label="门垫" category="100" did="1879096920" parentZoneId="1879415444" longitude="-135.92311" latitude="-106.47347"/>
+<marker id="270360670" label="外部通用挂钩" category="100" did="1879415389" parentZoneId="1879415444" longitude="-135.68716" latitude="-106.654526"/>
+<marker id="270360671" label="外部通用挂钩" category="100" did="1879415388" parentZoneId="1879415444" longitude="-135.7388" latitude="-106.66026"/>
+<marker id="270360672" label="外部通用挂钩" category="100" did="1879415391" parentZoneId="1879415444" longitude="-136.36723" latitude="-106.59957"/>
+<marker id="270360673" label="外部通用挂钩" category="100" did="1879415390" parentZoneId="1879415444" longitude="-135.68797" latitude="-106.70508"/>
+<marker id="270360674" label="外部通用挂钩" category="100" did="1879415385" parentZoneId="1879415444" longitude="-135.86377" latitude="-106.268105"/>
+<marker id="270360675" label="庭院" category="100" did="1879096925" parentZoneId="1879415444" longitude="-135.69118" latitude="-106.75828"/>
+<marker id="270360676" label="外部通用挂钩" category="100" did="1879415384" parentZoneId="1879415444" longitude="-135.7429" latitude="-106.70414"/>
+<marker id="270360677" label="外部通用挂钩" category="100" did="1879415387" parentZoneId="1879415444" longitude="-135.78745" latitude="-106.66197"/>
+<marker id="270360678" label="庭院" category="100" did="1879096927" parentZoneId="1879415444" longitude="-135.80951" latitude="-106.70274"/>
+<marker id="270360679" label="外部通用挂钩" category="100" did="1879415386" parentZoneId="1879415444" longitude="-136.12457" latitude="-106.53621"/>
+<marker id="270360680" label="庭院" category="100" did="1879096928" parentZoneId="1879415444" longitude="-136.00551" latitude="-106.75953"/>
+<marker id="270360681" label="外部通用挂钩" category="100" did="1879415397" parentZoneId="1879415444" longitude="-135.9502" latitude="-106.75054"/>
+<marker id="270360682" label="庭院" category="100" did="1879096929" parentZoneId="1879415444" longitude="-135.80151" latitude="-106.757416"/>
+<marker id="270360683" label="外部通用挂钩" category="100" did="1879415396" parentZoneId="1879415444" longitude="-135.851" latitude="-106.757355"/>
+<marker id="270360684" label="庭院" category="100" did="1879096930" parentZoneId="1879415444" longitude="-136.20753" latitude="-106.49541"/>
+<marker id="270360685" label="外部通用挂钩" category="100" did="1879415399" parentZoneId="1879415444" longitude="-136.19371" latitude="-106.76148"/>
+<marker id="270360686" label="庭院" category="100" did="1879096931" parentZoneId="1879415444" longitude="-136.21149" latitude="-106.23215"/>
+<marker id="270360687" label="外部通用挂钩" category="100" did="1879415398" parentZoneId="1879415444" longitude="-136.06274" latitude="-106.75977"/>
+<marker id="270360688" label="外部通用挂钩" category="100" did="1879415393" parentZoneId="1879415444" longitude="-136.3659" latitude="-106.702774"/>
+<marker id="270360689" label="外部通用挂钩" category="100" did="1879415392" parentZoneId="1879415444" longitude="-135.63524" latitude="-106.664986"/>
+<marker id="270360690" label="外部通用挂钩" category="100" did="1879415395" parentZoneId="1879415444" longitude="-135.74529" latitude="-106.76183"/>
+<marker id="270360691" label="外部通用挂钩" category="100" did="1879415394" parentZoneId="1879415444" longitude="-135.64162" latitude="-106.758995"/>
+<marker id="270360692" label="环境音乐" category="100" did="1879415401" parentZoneId="1879415444" longitude="-135.93011" latitude="-106.46219"/>
+<marker id="270360693" label="外部通用挂钩" category="100" did="1879415400" parentZoneId="1879415444" longitude="-136.31532" latitude="-106.76355"/>
+<marker id="270360694" label="拴马桩" category="100" did="1879405269" parentZoneId="1879415444" longitude="-135.9948" latitude="-106.089226"/>
+<marker id="270360695" label="拴马桩" category="100" did="1879405268" parentZoneId="1879415444" longitude="-135.9948" latitude="-106.100395"/>
+<marker id="270360696" label="拴马桩" category="100" did="1879405270" parentZoneId="1879415444" longitude="-136.00609" latitude="-106.100395"/>
+<marker id="270360697" label="拴马桩" category="100" did="1879405265" parentZoneId="1879415444" longitude="-136.00609" latitude="-106.089226"/>
+<marker id="270360698" label="拴马桩" category="100" did="1879405267" parentZoneId="1879415444" longitude="-135.67186" latitude="-106.400215"/>
+<marker id="270360699" label="拴马桩" category="100" did="1879405266" parentZoneId="1879415444" longitude="-135.70764" latitude="-106.627174"/>
+<marker id="270360700" label="庭院" category="100" did="1879442177" parentZoneId="1879415444" longitude="-135.92305" latitude="-106.436905"/>
+<marker id="270360701" label="—" category="100" did="1879095077" parentZoneId="1879415444" longitude="-135.6335" latitude="-106.15919"/>
+<marker id="270360702" label="—" category="100" did="1879095077" parentZoneId="1879415453" longitude="-136.41254" latitude="-106.83148"/>
+<marker id="270360703" label="—" category="100" did="1879095077" parentZoneId="1879415444" longitude="-135.65276" latitude="-106.65402"/>
+<marker id="270360704" label="—" category="100" did="1879095077" parentZoneId="1879415444" longitude="-136.00731" latitude="-106.399994"/>
+<marker id="270360705" label="—" category="100" did="1879095077" parentZoneId="1879415453" longitude="-136.39372" latitude="-106.79985"/>
+<marker id="270360706" label="栅栏" category="100" did="1879456615" parentZoneId="1879415444" longitude="-135.93004" latitude="-106.45303"/>
+<marker id="270360707" label="拴马桩" category="100" did="1879405418" parentZoneId="1879415444" longitude="-135.67186" latitude="-106.37787"/>
+<marker id="270360708" label="拴马桩" category="100" did="1879405431" parentZoneId="1879415444" longitude="-135.70764" latitude="-106.616005"/>
+<marker id="270360709" label="拴马桩" category="100" did="1879405426" parentZoneId="1879415444" longitude="-135.67186" latitude="-106.38904"/>
+<marker id="270360710" label="拴马桩" category="100" did="1879405439" parentZoneId="1879415444" longitude="-135.9948" latitude="-106.078064"/>
+<marker id="270360711" label="拴马桩" category="100" did="1879405435" parentZoneId="1879415444" longitude="-136.00609" latitude="-106.078064"/>
+<marker id="270360712" label="拴马桩" category="100" did="1879405434" parentZoneId="1879415444" longitude="-135.70764" latitude="-106.60484"/>
+<marker id="270360713" label="环境氛围" category="100" did="1879443349" parentZoneId="1879415444" longitude="-135.92986" latitude="-106.458496"/>
 </markers>
