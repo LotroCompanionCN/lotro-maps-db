@@ -2452,7 +2452,7 @@
 <link parentId="1879500857" contentLayerId="0" target="1879513800" label="To: Esh Mêkag Prison" from="-92.363594/-58.820934" to="48.97541/60.30951" type="TO_DUNGEON"/>
 <link parentId="1879320843" contentLayerId="0" target="1879323596" label="To: Great Hall of Tumladen" from="-30.605839/-75.80943" to="-30.75622/-76.7851" type="TO_DUNGEON"/>
 <link parentId="1879330412" contentLayerId="0" target="1879332489" label="To: Nardol Mine" from="-30.607607/-52.852455" to="-30.895634/-51.56285" type="TO_DUNGEON"/>
-<link parentId="1879527597" contentLayerId="0" target="1879526846" label="To: The Brood-pits" from="55.73535/70.768906" to="54.66035/70.58707" type="TO_DUNGEON"/>
+<link parentId="1879533263" contentLayerId="0" target="1879526846" label="To: The Brood-pits" from="55.73535/70.768906" to="54.66035/70.58707" type="TO_DUNGEON"/>
 <link parentId="1879320841" contentLayerId="0" target="1879324005" label="To: Hall of the Gentle Hand" from="-25.557148/-73.21566" to="-25.585976/-73.08388" type="TO_DUNGEON"/>
 <link parentId="1879526847" contentLayerId="268437051" target="1879526846" label="To: The Brood-pits" from="51.9767/75.375854" to="55.693142/69.06041" type="TO_DUNGEON"/>
 <link parentId="1879320841" contentLayerId="0" target="1879324007" label="To: Forlong's Hall" from="-24.638115/-77.43732" to="-25.492811/-77.97224" type="TO_DUNGEON"/>
@@ -2484,7 +2484,7 @@
 <link parentId="1879326884" contentLayerId="2" target="1879329823" label="To: The House of Craft" from="-18.127304/-64.83831" to="56.400173/62.476387" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="2" target="1879327935" label="To: Training Ground" from="-18.257421/-64.136696" to="54.643612/52.39916" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="2" target="1879328882" label="To: Clothiers' Fellow-hall" from="-17.98625/-66.254814" to="55.07504/62.800194" type="TO_DUNGEON"/>
-<link parentId="1879527597" contentLayerId="0" target="1879526847" label="To: Halls of the Gaurhoth" from="55.656033/71.11094" to="52.132362/75.74785" type="TO_DUNGEON"/>
+<link parentId="1879533263" contentLayerId="0" target="1879526847" label="To: Halls of the Gaurhoth" from="55.656033/71.11094" to="52.132362/75.74785" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="2" target="1879328495" label="To: Old Guest-house" from="-16.955029/-66.38899" to="54.62113/66.012596" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="0" target="1879335463" label="To: City Stables of Minas Tirith" from="-16.88214/-65.53734" to="54.59775/36.315205" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="0" target="1879328876" label="To: City Stables of Minas Tirith" from="-16.972939/-65.60012" to="54.84404/36.299248" type="TO_DUNGEON"/>

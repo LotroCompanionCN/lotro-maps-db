@@ -49946,22 +49946,16 @@
 <label key="1879527780" value="Dagoras"/>
 <label key="1879527781" value="Orthonn"/>
 <label key="1879527782" value="Thrymm Red-beard"/>
-<label key="1879527783" value="Orthonn"/>
 <label key="1879527784" value="Thrymm Red-beard"/>
 <label key="1879527785" value="Harthalín"/>
-<label key="1879527786" value="Thrymm Red-beard"/>
 <label key="1879527787" value="Thrymm Red-beard"/>
 <label key="1879527788" value="Thrymm Red-beard"/>
-<label key="1879527789" value="Dagoras"/>
 <label key="1879527790" value="Orthonn"/>
-<label key="1879527791" value="Dagoras"/>
 <label key="1879527792" value="Orthonn"/>
 <label key="1879527793" value="Orthonn"/>
 <label key="1879527794" value="Dagoras"/>
-<label key="1879527795" value="Dagoras"/>
 <label key="1879527828" value="DNT Teleport 8.Storm Three to Four"/>
 <label key="1879527829" value="DNT Teleport 8.Storm One to Two"/>
-<label key="1879527832" value="Unattended Steed"/>
 <label key="1879527833" value="DNT Teleport 8.Storm Two to Three"/>
 <label key="1879528015" value="GNDN"/>
 <label key="1879528016" value="GNDN"/>
@@ -49982,73 +49976,37 @@
 <label key="1879528721" value="Amelia"/>
 <label key="1879528939" value="Echo of Nuzêru"/>
 <label key="1879529027" value="TBD Guard 5"/>
-<label key="1879529028" value="TBD High Elf"/>
-<label key="1879529029" value="TBD Stout-Axe"/>
-<label key="1879529030" value="TBD Horse"/>
-<label key="1879529031" value="TBD GoR"/>
-<label key="1879529032" value="Celonor"/>
-<label key="1879529033" value="Bhôd-buri-Mêj"/>
-<label key="1879529034" value="TBD Horse"/>
 <label key="1879529035" value="TBD Gatherer"/>
 <label key="1879529036" value="Meldir"/>
 <label key="1879529037" value="TBD Guard 5"/>
-<label key="1879529038" value="TBD Horse"/>
-<label key="1879529039" value="Bhôd-buri-Mêj"/>
-<label key="1879529040" value="TBD Horse"/>
-<label key="1879529041" value="TBD High Elf"/>
-<label key="1879529042" value="TBD Horse"/>
 <label key="1879529043" value="TBD Hunter"/>
 <label key="1879529044" value="TBD GoR"/>
-<label key="1879529045" value="TBD High Elf"/>
-<label key="1879529046" value="TBD Stout-Axe"/>
-<label key="1879529047" value="TBD Stout-Axe"/>
-<label key="1879529048" value="TBD Sculptor"/>
 <label key="1879529049" value="TBD Storyteller"/>
 <label key="1879529050" value="Meldir"/>
-<label key="1879529051" value="Celonor"/>
 <label key="1879529052" value="TBD Cook"/>
-<label key="1879529053" value="TBD Carver"/>
-<label key="1879529054" value="TBD High Elf"/>
 <label key="1879529055" value="TBD Guard 7"/>
 <label key="1879529056" value="TBD Stout-Axe"/>
-<label key="1879529057" value="Bhôd-buri-Mêj"/>
 <label key="1879529058" value="TBD Guard 3"/>
-<label key="1879529059" value="TBD Stout-Axe"/>
 <label key="1879529060" value="TBD Gatherer"/>
-<label key="1879529061" value="TBD RoR"/>
-<label key="1879529062" value="Bhôd-buri-Mêj"/>
 <label key="1879529063" value="TBD RoR"/>
 <label key="1879529064" value="TBD RoR"/>
-<label key="1879529065" value="TBD RoR"/>
-<label key="1879529066" value="Mêj-dhug-Mêj"/>
-<label key="1879529067" value="TBD Guard 1"/>
 <label key="1879529068" value="TBD GoR"/>
-<label key="1879529069" value="TBD High Elf"/>
 <label key="1879529070" value="TBD Guard 4"/>
 <label key="1879529071" value="TBD Guard 6"/>
 <label key="1879529072" value="TBD Toolmaker"/>
-<label key="1879529073" value="Meldir"/>
-<label key="1879529074" value="TBD Guard 2"/>
 <label key="1879529075" value="TBD Fisher"/>
-<label key="1879529076" value="Meldir"/>
 <label key="1879529077" value="TBD Guard 5"/>
 <label key="1879529100" value="Fragment of Mordirith's Crown"/>
 <label key="1879529108" value="Gift of the Carrock"/>
-<label key="1879529137" value="TBD High Elf"/>
 <label key="1879529138" value="TBD Stout Axe"/>
 <label key="1879529139" value="Bhôd-buri-Mêj"/>
 <label key="1879529140" value="Bright Company Warrior"/>
 <label key="1879529141" value="Glorfindel"/>
 <label key="1879529142" value="TBD High Elf"/>
-<label key="1879529143" value="TBD RoR"/>
 <label key="1879529144" value="TBD RoR"/>
 <label key="1879529145" value="Celeborn"/>
-<label key="1879529146" value="TBD GoR"/>
-<label key="1879529147" value="Bhôd-buri-Mêj"/>
 <label key="1879529148" value="TBD GoR"/>
-<label key="1879529149" value="TBD Stout Axe"/>
 <label key="1879529150" value="TBD GoR"/>
-<label key="1879529151" value="TBD High Elf"/>
 <label key="1879529152" value="TBD GoR"/>
 <label key="1879529153" value="Bhôd-buri-Mêj"/>
 <label key="1879529154" value="Bright Company Warrior"/>
@@ -50058,48 +50016,90 @@
 <label key="1879529220" value="Visage of Gil-galad"/>
 <label key="1879529225" value="Dried Sap"/>
 <label key="1879529226" value="Poisoned Arrows"/>
-<label key="1879529227" value="Knapping Rock"/>
-<label key="1879529228" value="Dry Branches"/>
-<label key="1879529229" value="Gloom-glass Chips"/>
-<label key="1879529230" value="Abandoned Pack"/>
 <label key="1879529231" value="Poisoned Spears"/>
 <label key="1879529232" value="Carrot"/>
 <label key="1879529233" value="Foxglove"/>
 <label key="1879529234" value="Animal Bones"/>
-<label key="1879529235" value="Berries"/>
-<label key="1879529236" value="Pinecone"/>
-<label key="1879529237" value="Honeycomb"/>
 <label key="1879529238" value="TBD's Lost Necklace"/>
 <label key="1879529239" value="Leafy Greens"/>
 <label key="1879529240" value="Rock"/>
 <label key="1879529241" value="Gloom-glass"/>
 <label key="1879529257" value="Dry Wood Pile"/>
 <label key="1879529258" value="Púkel-man"/>
-<label key="1879529259" value="Cultist Activities"/>
-<label key="1879529260" value="Bucket of Water"/>
 <label key="1879529261" value="Brush"/>
 <label key="1879529262" value="Púkel-man"/>
-<label key="1879529265" value="Carrots"/>
-<label key="1879529266" value="A Good Place for Rocks"/>
 <label key="1879529267" value="Beehive"/>
 <label key="1879529274" value="TBD Ormyng Part"/>
-<label key="1879529275" value="Wood for Carving"/>
 <label key="1879529276" value="Red Paint"/>
-<label key="1879529277" value="TBD's Summoning Horn"/>
 <label key="1879529278" value="Beeswax"/>
 <label key="1879529279" value="Wolf Pelt"/>
-<label key="1879529280" value="Carved Spoon"/>
-<label key="1879529281" value="Thorn-slink Meat"/>
-<label key="1879529282" value="TBD's Summoning Horn"/>
 <label key="1879529286" value="DNT - Player relic Capture"/>
 <label key="1879529287" value="DNT - Monster relic Capture"/>
-<label key="1879529494" value="Scrap of Leather"/>
 <label key="1879529569" value="DNT - Monster Artifact Smite"/>
 <label key="1879529571" value="DNT - Monster relic Smite"/>
-<label key="1879529679" value="Rock"/>
 <label key="1879529681" value="Tolerable Fish"/>
 <label key="1879529683" value="Waterweed"/>
 <label key="1879529729" value="Damaged Tree"/>
 <label key="1879529735" value="Wood-troll Bark"/>
 <label key="1879529744" value="Celonor's Lost Quill"/>
+<label key="1879533332" value="Dagoras"/>
+<label key="1879533333" value="Thrymm Red-beard"/>
+<label key="1879533334" value="Orthonn"/>
+<label key="1879533335" value="Dagoras"/>
+<label key="1879533336" value="Unattended Steed"/>
+<label key="1879533337" value="Dagoras"/>
+<label key="1879533344" value="TBD High Elf"/>
+<label key="1879533345" value="Bhôd-buri-Mêj"/>
+<label key="1879533351" value="TBD High Elf"/>
+<label key="1879533352" value="Bhôd-buri-Mêj"/>
+<label key="1879533355" value="Cultist Activities"/>
+<label key="1879533359" value="Scrap of Leather"/>
+<label key="1879533365" value="Bhôd-buri-Mêj"/>
+<label key="1879533366" value="TBD High Elf"/>
+<label key="1879533368" value="Meldir"/>
+<label key="1879533370" value="Mêj-dhug-Mêj"/>
+<label key="1879533379" value="Bhôd-buri-Mêj"/>
+<label key="1879533381" value="TBD High Elf"/>
+<label key="1879533382" value="Pinecone"/>
+<label key="1879533383" value="Berries"/>
+<label key="1879533386" value="Dry Branches"/>
+<label key="1879533392" value="TBD Stout-Axe"/>
+<label key="1879533393" value="TBD Guard 1"/>
+<label key="1879533395" value="Abandoned Pack"/>
+<label key="1879533397" value="TBD Guard 2"/>
+<label key="1879533398" value="Rock"/>
+<label key="1879533399" value="Celonor"/>
+<label key="1879533400" value="TBD RoR"/>
+<label key="1879533401" value="TBD Stout-Axe"/>
+<label key="1879533407" value="TBD Stout-Axe"/>
+<label key="1879533408" value="Meldir"/>
+<label key="1879533409" value="Celonor"/>
+<label key="1879533414" value="Bucket of Water"/>
+<label key="1879533420" value="TBD Carver"/>
+<label key="1879533421" value="Wood for Carving"/>
+<label key="1879533422" value="Honeycomb"/>
+<label key="1879533423" value="Carved Spoon"/>
+<label key="1879533456" value="TBD Sculptor"/>
+<label key="1879533457" value="Knapping Rock"/>
+<label key="1879533458" value="Gloom-glass Chips"/>
+<label key="1879533459" value="A Good Place for Rocks"/>
+<label key="1879533468" value="TBD Stout-Axe"/>
+<label key="1879533469" value="TBD RoR"/>
+<label key="1879533470" value="TBD GoR"/>
+<label key="1879533471" value="TBD Horse"/>
+<label key="1879533472" value="TBD Horse"/>
+<label key="1879533473" value="TBD Horse"/>
+<label key="1879533474" value="TBD Horse"/>
+<label key="1879533475" value="Carrots"/>
+<label key="1879533477" value="Bhôd-buri-Mêj"/>
+<label key="1879533478" value="TBD GoR"/>
+<label key="1879533479" value="TBD RoR"/>
+<label key="1879533480" value="TBD High Elf"/>
+<label key="1879533481" value="TBD Stout Axe"/>
+<label key="1879533493" value="TBD High Elf"/>
+<label key="1879533499" value="TBD Horse"/>
+<label key="1879533502" value="TBD High Elf"/>
+<label key="1879533503" value="TBD's Summoning Horn"/>
+<label key="1879533504" value="Thorn-slink Meat"/>
+<label key="1879533505" value="TBD's Summoning Horn"/>
 </labels>
